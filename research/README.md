@@ -13,12 +13,19 @@ This directory contains some data collected to visualize some Google Scholar sea
 * [Nodes CSV](search-01-nodes.csv)
 * [Edges CSV](search-02-edges.csv)
 
+In this image, only nodes with *degree > 1* are shown. You can see that the modularity score assigned by Gephi partitions our results into two big groups. It looks as if the blue one is the bystander intervention research and the red one is related to social media and bystander intervention. 
+
 <a href="https://raw.githubusercontent.com/edsu/bystander-action/main/research/search-01-all.png"><img width="700" src="search-01-all.png"></a>
 
+The following visualization has isolated the social media posts from the previous image, and then generated a new modality score to see the communities within it.
+
+<a href="https://raw.githubusercontent.com/edsu/bystander-action/main/research/search-01-social.png"><img width="700" src="search-01-social.png"></a>
+
 ## search-02
-query: "bystander intervention" AND "social media" AND "race"
-url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=%22bystander+intervention%22+AND+%22social+media%22+AND+%22race%22&btnG=
-options: --pages 20 --depth 1
+
+**query**: "bystander intervention" AND "social media" AND "race"
+**url**: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=%22bystander+intervention%22+AND+%22social+media%22+AND+%22race%22&btnG=
+**options**: --pages 20 --depth 1
 
 ## Notes
 

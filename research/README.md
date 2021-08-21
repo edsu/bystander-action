@@ -13,7 +13,7 @@ This directory contains some data collected to visualize some Google Scholar sea
 * [Nodes CSV](search-01-nodes.csv)
 * [Edges CSV](search-02-edges.csv)
 
-<a href="search-01-all.png"><img src="search-01-all.png"></a>
+<a href="search-01-all.png"><img style="max-width: 800px;" src="search-01-all.png"></a>
 
 ## search-02
 query: "bystander intervention" AND "social media" AND "race"

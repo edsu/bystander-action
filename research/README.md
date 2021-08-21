@@ -39,6 +39,8 @@ Results:
 * [Nodes CSV](search-02-nodes.csv)
 * [Edges CSV](search-02-edges.csv)
 
+This graph was extremely dense with connections so this visualization limits to nodes that have a degree > 5, which maybe doesn't do it service. 
+
 <a href="https://raw.githubusercontent.com/edsu/bystander-action/main/research/search-02.png"><img width="700" src="search-02.png"></a>
 
 ## search-03

@@ -54,6 +54,7 @@ Results:
 * [Nodes CSV](search-03-nodes.csv)
 * [Edges CSV](search-03-edges.csv)
 
+<a href="https://raw.githubusercontent.com/edsu/bystander-action/main/research/search-03.png"><img width="700" src="search-03.png"></a>
 
 ## Notes
 

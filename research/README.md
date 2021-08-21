@@ -8,10 +8,13 @@ This directory contains some data collected to visualize some Google Scholar sea
 **url**: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=%22bystander+intervention%22+AND+%22social+media%22&btnG=  
 **options**: --pages 20 --depth 1
 
+Results:
+* 2254 nodes
+* 2927 edges
 * [GEXF file](search-01.gexf)
 * [Gephi Project](search-01.gephi)
 * [Nodes CSV](search-01-nodes.csv)
-* [Edges CSV](search-02-edges.csv)
+* [Edges CSV](search-01-edges.csv)
 
 In this image (the "social" workbook in the above Gephi project), only nodes with *degree > 1* are shown. You can see that the modularity score assigned by Gephi partitions our results into two big groups. It looks as if the blue one is the bystander intervention research and the red one is related to social media and bystander intervention. 
 
@@ -26,6 +29,31 @@ The following visualization has isolated the social media posts from the previou
 **query**: "bystander intervention" AND "social media" AND "race"  
 **url**: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=%22bystander+intervention%22+AND+%22social+media%22+AND+%22race%22&btnG=  
 **options**: --pages 20 --depth 1
+
+Results:
+
+* 2614 nodes
+* 3396 edges
+* [GEXF file](search-02.gexf)
+* [Gephi Project](search-02.gephi)
+* [Nodes CSV](search-02-nodes.csv)
+* [Edges CSV](search-02-edges.csv)
+
+<a href="https://raw.githubusercontent.com/edsu/bystander-action/main/research/search-02.png"><img width="700" src="search-02.png"></a>
+
+## search-03
+
+**query**: intitle:"bystander intervention" intext:"racism" OR "anti-Blackness" OR "anti-Black"  
+**url**: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=intitle%3A%22bystander+intervention%22+intext%3A%22racism%22+OR+%22anti-Blackness%22+OR+%22anti-Black%22&btnG=  
+**options**: --pages 20 --level 1
+
+* 1025 nodes
+* 1236 edges
+* [GEXF file](search-03.gexf)
+* [Gephi Project](search-03.gephi)
+* [Nodes CSV](search-03-nodes.csv)
+* [Edges CSV](search-03-edges.csv)
+
 
 ## Notes
 

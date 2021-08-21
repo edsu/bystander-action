@@ -4,8 +4,8 @@ This directory contains some data collected to visualize some Google Scholar sea
 
 ## search-01
 
-**query**: "bystander intervention" AND "social media"
-**url**: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=%22bystander+intervention%22+AND+%22social+media%22&btnG=
+**query**: "bystander intervention" AND "social media"  
+**url**: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=%22bystander+intervention%22+AND+%22social+media%22&btnG=  
 **options**: --pages 20 --depth 1
 
 * [GEXF file](search-01.gexf)
@@ -23,8 +23,8 @@ The following visualization has isolated the social media posts from the previou
 
 ## search-02
 
-**query**: "bystander intervention" AND "social media" AND "race"
-**url**: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=%22bystander+intervention%22+AND+%22social+media%22+AND+%22race%22&btnG=
+**query**: "bystander intervention" AND "social media" AND "race"  
+**url**: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=%22bystander+intervention%22+AND+%22social+media%22+AND+%22race%22&btnG=  
 **options**: --pages 20 --depth 1
 
 ## Notes

@@ -13,7 +13,7 @@ This directory contains some data collected to visualize some Google Scholar sea
 * [Nodes CSV](search-01-nodes.csv)
 * [Edges CSV](search-02-edges.csv)
 
-In this image, only nodes with *degree > 1* are shown. You can see that the modularity score assigned by Gephi partitions our results into two big groups. It looks as if the blue one is the bystander intervention research and the red one is related to social media and bystander intervention. 
+In this image (the "social" workbook in the above Gephi project), only nodes with *degree > 1* are shown. You can see that the modularity score assigned by Gephi partitions our results into two big groups. It looks as if the blue one is the bystander intervention research and the red one is related to social media and bystander intervention. 
 
 <a href="https://raw.githubusercontent.com/edsu/bystander-action/main/research/search-01-all.png"><img width="700" src="search-01-all.png"></a>
 

@@ -1,5 +1,6 @@
 jupyter
 pandas
-requests
-twarc
 plotly
+requests
+sh
+twarc

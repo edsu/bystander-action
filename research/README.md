@@ -58,6 +58,21 @@ This graph was extremely dense with connections so this visualization limits to 
 
 <a href="https://raw.githubusercontent.com/edsu/bystander-action/main/research/search-03.png"><img width="700" src="search-03.png"></a>
 
+## search-04
+
+**query**: "social media" within articles that cite "Bystander anti‐racism: A review of the literature"
+**url**: https://scholar.google.com/scholar?hl=en&as_sdt=5%2C39&sciodt=7%2C39&cites=10575618967084374810&scipsc=1&q=%22social+media%22&btnG=
+**options**: --pages 20 --level 1
+
+* 592 nodes
+* 659 edges
+* [GEXF file](search-04.gexf)
+* [Gephi Project](search-04.gephi)
+* [Nodes CSV](search-04-nodes.csv)
+* [Edges CSV](search-04-edges.csv)
+
+<a href="https://raw.githubusercontent.com/edsu/bystander-action/main/research/search-04.png"><img width="700" src="search-04.png"></a>
+
 ## Notes
 
 These were notes from Melissa about how to conduct the literature review.

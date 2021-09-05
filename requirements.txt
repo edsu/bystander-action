@@ -4,3 +4,4 @@ plotly
 requests
 sh
 twarc
+more-itertools

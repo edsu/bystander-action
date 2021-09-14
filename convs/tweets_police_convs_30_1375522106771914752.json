@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1375522106771914752",
+      "url": "https://twitter.com/NYCSchoolSafety/status/1375522106771914752",
+      "user": "NYCSchoolSafety",
+      "text": "\"We can have conversations about changing the uniforms so they look less like police . . . But we must always have some form of safety in the schools and the perimeter of schools to deal with [drug] traffic, gang violence.\" \\nhttps://t.co/S7l36pEFsb",
+      "sentiment": -0.3284
+    },
+    {
+      "id": "1376202792138866693",
+      "url": "https://twitter.com/atse12345/status/1376202792138866693",
+      "user": "atse12345",
+      "text": "@NYCSchoolSafety That's what I said all along. We need our School Safety Agents. They're part of the family that protects students when not under the care of their families. Our principal always says to entrust our children to him and he will do everything possible to ensure they are safe.",
+      "sentiment": 0.7889
+    }
+  ],
+  "edges": [
+    [
+      "1376202792138866693",
+      "1375522106771914752"
+    ]
+  ]
+}

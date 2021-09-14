@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1383074005733806085",
+      "url": "https://twitter.com/Pauline98476699/status/1383074005733806085",
+      "user": "Pauline98476699",
+      "text": "And be so slick about it too. If they would just use that energy towards helping us get reparations and stopping police brutality... https://t.co/7iYDiDdP9U",
+      "sentiment": -0.3182
+    },
+    {
+      "id": "1383074785651924996",
+      "url": "https://twitter.com/AlexVanHorn4/status/1383074785651924996",
+      "user": "AlexVanHorn4",
+      "text": "@Pauline98476699 \u261d\ud83c\udfff\u261d\ud83c\udfff\u261d\ud83c\udfff",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1383074785651924996",
+      "1383074005733806085"
+    ]
+  ]
+}

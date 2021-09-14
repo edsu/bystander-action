@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "gsy13xt",
+      "url": "https://www.reddit.com/r/GreenAndPleasant/comments/mhcyd1/there_is_no_institutional_racism_insist/gsy13xt/",
+      "user": "AutoModerator",
+      "text": "[Follow the Green and Pleasant twitter.](https://old.reddit.com/r/GreenAndPleasant/comments/mddjo7/we_now_have_a_twitter/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/GreenAndPleasant) if you have any questions or concerns.*",
+      "sentiment": 0.6808
+    },
+    {
+      "id": "gsy1cwn",
+      "url": "https://www.reddit.com/r/GreenAndPleasant/comments/mhcyd1/there_is_no_institutional_racism_insist/gsy1cwn/",
+      "user": "[deleted]",
+      "text": "[deleted]",
+      "sentiment": 0.0
+    },
+    {
+      "id": "gsy1fge",
+      "url": "https://www.reddit.com/r/GreenAndPleasant/comments/mhcyd1/there_is_no_institutional_racism_insist/gsy1fge/",
+      "user": "EdgarAetheling",
+      "text": "They\u2019re also pretending that the police turning up to pick a fight at the Sarah Everard vigil was reasonable behaviour. \n\nFascism is here and the media is complicit.",
+      "sentiment": -0.296
+    },
+    {
+      "id": "gsy37h6",
+      "url": "https://www.reddit.com/r/GreenAndPleasant/comments/mhcyd1/there_is_no_institutional_racism_insist/gsy37h6/",
+      "user": "legit_google",
+      "text": "Don't forget the police found themselves to have acted lawfully in the report.\n\nEmbarrassing",
+      "sentiment": -0.2344
+    },
+    {
+      "id": "gsyhmnq",
+      "url": "https://www.reddit.com/r/GreenAndPleasant/comments/mhcyd1/there_is_no_institutional_racism_insist/gsyhmnq/",
+      "user": "BearsinHumanSuits",
+      "text": "If you don't look for it, you won't find it...",
+      "sentiment": 0.0
+    },
+    {
+      "id": "gsyyhqt",
+      "url": "https://www.reddit.com/r/GreenAndPleasant/comments/mhcyd1/there_is_no_institutional_racism_insist/gsyyhqt/",
+      "user": "10poundscrote",
+      "text": "Did they get an independent in to do the review?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "gsz0o60",
+      "url": "https://www.reddit.com/r/GreenAndPleasant/comments/mhcyd1/there_is_no_institutional_racism_insist/gsz0o60/",
+      "user": "OhNoPleaseDontSir",
+      "text": "It's so laughably tone deaf you have to wonder what that boardroom meeting looked like. They finished their review and were like, \"Alrighty perfect guys! The public will be pleased to hear we defeated racism. Inform the press!\"",
+      "sentiment": 0.7563
+    },
+    {
+      "id": "gt0ud2i",
+      "url": "https://www.reddit.com/r/GreenAndPleasant/comments/mhcyd1/there_is_no_institutional_racism_insist/gt0ud2i/",
+      "user": "apacheattaccspaniard",
+      "text": "Full disclaimer that I've not read the report and probably won't get around to it for a day or two yet, but I think (from what I've gathered form other comments so please correct me if I've got the wrong end of the stick) the authors were supposedly supposed to be \"independent\". That doesn't mean they did in practice act independently with the government breathing down their necks and it definitely doesn't mean the government didn't pick people who were sympathetic to their bs.",
+      "sentiment": 0.8333
+    }
+  ],
+  "edges": [
+    [
+      "gsy13xt",
+      "mhcyd1"
+    ],
+    [
+      "gsy1cwn",
+      "gsy13xt"
+    ],
+    [
+      "gsy1fge",
+      "mhcyd1"
+    ],
+    [
+      "gsy37h6",
+      "gsy1fge"
+    ],
+    [
+      "gsyhmnq",
+      "mhcyd1"
+    ],
+    [
+      "gsyyhqt",
+      "mhcyd1"
+    ],
+    [
+      "gsz0o60",
+      "mhcyd1"
+    ],
+    [
+      "gt0ud2i",
+      "gsyyhqt"
+    ]
+  ]
+}

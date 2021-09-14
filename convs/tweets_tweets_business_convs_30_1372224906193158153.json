@@ -1,0 +1,132 @@
+{
+  "nodes": [
+    {
+      "id": "1374128453310615554",
+      "url": "https://twitter.com/SarahWiedenheft/1374128453310615554",
+      "user": "SarahWiedenheft",
+      "sentiment": 0.8999
+    },
+    {
+      "id": "1374132760101683207",
+      "url": "https://twitter.com/sheabutterbelle/1374132760101683207",
+      "user": "sheabutterbelle",
+      "sentiment": 0.9062
+    },
+    {
+      "id": "1374103719948775425",
+      "url": "https://twitter.com/sheabutterbelle/1374103719948775425",
+      "user": "sheabutterbelle",
+      "sentiment": 0.8176
+    },
+    {
+      "id": "1374101966318665733",
+      "url": "https://twitter.com/SarahWiedenheft/1374101966318665733",
+      "user": "SarahWiedenheft",
+      "sentiment": 0.7034
+    },
+    {
+      "id": "1374099714249986056",
+      "url": "https://twitter.com/sheabutterbelle/1374099714249986056",
+      "user": "sheabutterbelle",
+      "sentiment": 0.5267
+    },
+    {
+      "id": "1374101053688397825",
+      "url": "https://twitter.com/SarahWiedenheft/1374101053688397825",
+      "user": "SarahWiedenheft",
+      "sentiment": 0.5229
+    },
+    {
+      "id": "1374099153857417221",
+      "url": "https://twitter.com/SarahWiedenheft/1374099153857417221",
+      "user": "SarahWiedenheft",
+      "sentiment": 0.6966
+    },
+    {
+      "id": "1372224906193158153",
+      "url": "https://twitter.com/sheabutterbelle/1372224906193158153",
+      "user": "sheabutterbelle",
+      "sentiment": 0.906
+    },
+    {
+      "id": "1372583540391612424",
+      "url": "https://twitter.com/smiileynora/1372583540391612424",
+      "user": "smiileynora",
+      "sentiment": 0.9538
+    },
+    {
+      "id": "1372941209585520641",
+      "url": "https://twitter.com/Modernholistix/1372941209585520641",
+      "user": "Modernholistix",
+      "sentiment": 0.6124
+    },
+    {
+      "id": "1372585756296843265",
+      "url": "https://twitter.com/smiileynora/1372585756296843265",
+      "user": "smiileynora",
+      "sentiment": 0.8176
+    },
+    {
+      "id": "1372586387141234691",
+      "url": "https://twitter.com/sheabutterbelle/1372586387141234691",
+      "user": "sheabutterbelle",
+      "sentiment": 0.9823
+    },
+    {
+      "id": "1372585358270070790",
+      "url": "https://twitter.com/sheabutterbelle/1372585358270070790",
+      "user": "sheabutterbelle",
+      "sentiment": 0.8221
+    }
+  ],
+  "edges": [
+    [
+      "1374128453310615554",
+      "1374103719948775425"
+    ],
+    [
+      "1374132760101683207",
+      "1374128453310615554"
+    ],
+    [
+      "1374103719948775425",
+      "1374101966318665733"
+    ],
+    [
+      "1374101966318665733",
+      "1374099714249986056"
+    ],
+    [
+      "1374099714249986056",
+      "1374099153857417221"
+    ],
+    [
+      "1374101053688397825",
+      "1374099714249986056"
+    ],
+    [
+      "1374099153857417221",
+      "1372224906193158153"
+    ],
+    [
+      "1372583540391612424",
+      "1372224906193158153"
+    ],
+    [
+      "1372941209585520641",
+      "1372583540391612424"
+    ],
+    [
+      "1372585756296843265",
+      "1372585358270070790"
+    ],
+    [
+      "1372586387141234691",
+      "1372585756296843265"
+    ],
+    [
+      "1372585358270070790",
+      "1372583540391612424"
+    ]
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "nodes": [
+    {
+      "id": "g2ma2co",
+      "url": "https://www.reddit.com/r/kpopnoir/comments/ifa34n/six_black_people_with_experience_living_in_korea/g2ma2co/",
+      "user": "AutoModerator",
+      "text": "Thank you for posting ar r/kpopnoir!\nThe original poster and commenters will have hopefully read over the rules befor posting. If not, they may receive a removal without warning. Proceed well~\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/kpopnoir) if you have any questions or concerns.*",
+      "sentiment": 0.8524
+    },
+    {
+      "id": "g2mbu1v",
+      "url": "https://www.reddit.com/r/kpopnoir/comments/ifa34n/six_black_people_with_experience_living_in_korea/g2mbu1v/",
+      "user": "doubleupxx",
+      "text": "netizenbuzz needs to be abolished \ud83d\ude2d after what netizens did to Tablo, I have a really hard time taking any of them seriously. \n\nI\u2019m interested in seeing the actual segment though! Sam really got these news outlets talking about blackface and anti-black racism, that\u2019s a big step forward!",
+      "sentiment": -0.8165
+    },
+    {
+      "id": "g2mzbi4",
+      "url": "https://www.reddit.com/r/kpopnoir/comments/ifa34n/six_black_people_with_experience_living_in_korea/g2mzbi4/",
+      "user": "Intelligent_Still823",
+      "text": "What happened to Tablo?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "g2n0ck9",
+      "url": "https://www.reddit.com/r/kpopnoir/comments/ifa34n/six_black_people_with_experience_living_in_korea/g2n0ck9/",
+      "user": "[deleted]",
+      "text": "[deleted]",
+      "sentiment": 0.0
+    },
+    {
+      "id": "g2n0eid",
+      "url": "https://www.reddit.com/r/kpopnoir/comments/ifa34n/six_black_people_with_experience_living_in_korea/g2n0eid/",
+      "user": "doubleupxx",
+      "text": "[This](https://www.wired.com/2012/04/ff_koreanrapper/) is a great article about his whole Tajinyo scandal. Basically, there was a large group of netizens that believed he didn\u2019t actually graduate from Stanford and falsified his diploma and it became a huge witch-hunt.",
+      "sentiment": 0.2263
+    },
+    {
+      "id": "g2obfsg",
+      "url": "https://www.reddit.com/r/kpopnoir/comments/ifa34n/six_black_people_with_experience_living_in_korea/g2obfsg/",
+      "user": "lovelysweetangel89",
+      "text": "ugh the site comments gives me high blood pressure especially on the sam okyere event. the anti-blackness is off the charts over there.",
+      "sentiment": -0.6124
+    },
+    {
+      "id": "ifa34n",
+      "url": "https://www.reddit.com/r/kpopnoir/comments/ifa34n/six_black_people_with_experience_living_in_korea/",
+      "user": "thursdayzzz",
+      "text": "",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "g2ma2co",
+      "ifa34n"
+    ],
+    [
+      "g2mbu1v",
+      "ifa34n"
+    ],
+    [
+      "g2mzbi4",
+      "g2mbu1v"
+    ],
+    [
+      "g2n0ck9",
+      "ifa34n"
+    ],
+    [
+      "g2n0eid",
+      "g2mzbi4"
+    ],
+    [
+      "g2obfsg",
+      "ifa34n"
+    ]
+  ]
+}

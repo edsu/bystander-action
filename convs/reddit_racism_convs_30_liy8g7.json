@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "id": "gn6ogs5",
+      "url": "https://www.reddit.com/r/auckland/comments/liy8g7/casual_racism_in_skycity_toilets/gn6ogs5/",
+      "user": "ZRudd97",
+      "text": "From a foreigners perspective. When I visited NZ I felt sorry for the maoris, they just seemed so defeated. They lost everything but hey let\u2019s just name some streets after them!",
+      "sentiment": -0.5747
+    },
+    {
+      "id": "gnabtvt",
+      "url": "https://www.reddit.com/r/auckland/comments/liy8g7/casual_racism_in_skycity_toilets/gnabtvt/",
+      "user": "getaperm",
+      "text": "Did you visit the Te Urewera or anywhere outside the big cities? Have you been to Australia and seen how the Aboriginal people are treated?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "gnac12f",
+      "url": "https://www.reddit.com/r/auckland/comments/liy8g7/casual_racism_in_skycity_toilets/gnac12f/",
+      "user": "ZRudd97",
+      "text": "Yes they\u2019re treated a lot worse over there, doesn\u2019t take away from the fact it\u2019s any better in NZ.",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "gnafxt3",
+      "url": "https://www.reddit.com/r/auckland/comments/liy8g7/casual_racism_in_skycity_toilets/gnafxt3/",
+      "user": "getaperm",
+      "text": "Where did you visit while you were here?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "gncgpya",
+      "url": "https://www.reddit.com/r/auckland/comments/liy8g7/casual_racism_in_skycity_toilets/gncgpya/",
+      "user": "krazykiwikid69",
+      "text": "What? What Maoris did you meet and talk to? Where did you go?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "liy8g7",
+      "url": "https://www.reddit.com/r/auckland/comments/liy8g7/casual_racism_in_skycity_toilets/",
+      "user": "Draconius2",
+      "text": "",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "gn6ogs5",
+      "liy8g7"
+    ],
+    [
+      "gnabtvt",
+      "gn6ogs5"
+    ],
+    [
+      "gnac12f",
+      "gnabtvt"
+    ],
+    [
+      "gnafxt3",
+      "gnac12f"
+    ],
+    [
+      "gncgpya",
+      "gn6ogs5"
+    ]
+  ]
+}

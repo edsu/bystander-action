@@ -1,0 +1,214 @@
+{
+  "nodes": [
+    {
+      "id": "1395325107447373825",
+      "url": "https://twitter.com/chlsydzi/status/1395325107447373825",
+      "user": "chlsydzi",
+      "text": "@candyyjj Kan pake pelampung beb",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395328533740670977",
+      "url": "https://twitter.com/candyyjj/status/1395328533740670977",
+      "user": "candyyjj",
+      "text": "@chlsydzi asik sih diving di sumur",
+      "sentiment": 0.0772
+    },
+    {
+      "id": "1395323136623579136",
+      "url": "https://twitter.com/chlsydzi/status/1395323136623579136",
+      "user": "chlsydzi",
+      "text": "Mandi ga?! Kalau ga mandi, gua mandiin di sumur",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395327717776576516",
+      "url": "https://twitter.com/yellowpostityea/status/1395327717776576516",
+      "user": "yellowpostityea",
+      "text": "@chlsydzi avv mau doong dimandiin di sumur \ud83d\ude1a\ud83d\ude1a",
+      "sentiment": 0.8126
+    },
+    {
+      "id": "1395327103445344259",
+      "url": "https://twitter.com/salleeyow/status/1395327103445344259",
+      "user": "salleeyow",
+      "text": "@chlsydzi Uda, woi",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395325014883201031",
+      "url": "https://twitter.com/chlsydzi/status/1395325014883201031",
+      "user": "chlsydzi",
+      "text": "@iamyul_7 Gua bawain sumur ke rumah yul ya",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395325438419902468",
+      "url": "https://twitter.com/iamyul_7/status/1395325438419902468",
+      "user": "iamyul_7",
+      "text": "@chlsydzi Sumur kan berat\ud83d\ude1f",
+      "sentiment": -0.296
+    },
+    {
+      "id": "1395325294261596160",
+      "url": "https://twitter.com/chlsydzi/status/1395325294261596160",
+      "user": "chlsydzi",
+      "text": "@__Mykookie__ Gua otw bawa sumur",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395323452072992771",
+      "url": "https://twitter.com/castlegoogie/status/1395323452072992771",
+      "user": "castlegoogie",
+      "text": "@chlsydzi gamau",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395325248111665155",
+      "url": "https://twitter.com/chlsydzi/status/1395325248111665155",
+      "user": "chlsydzi",
+      "text": "@castleglossx Makanya mandi beb\ud83d\ude0f",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395325214590865410",
+      "url": "https://twitter.com/chlsydzi/status/1395325214590865410",
+      "user": "chlsydzi",
+      "text": "@addllyn_ Ok\ud83d\ude14",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "1395323402810892288",
+      "url": "https://twitter.com/vntaedi/status/1395323402810892288",
+      "user": "vntaedi",
+      "text": "@chlsydzi mandi donk",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395325188292562953",
+      "url": "https://twitter.com/chlsydzi/status/1395325188292562953",
+      "user": "chlsydzi",
+      "text": "@vntaedi Nahh kecee",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395323863181840390",
+      "url": "https://twitter.com/kyutiesbub/status/1395323863181840390",
+      "user": "kyutiesbub",
+      "text": "@chlsydzi LU KALI BLM MANDI",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395325165169352707",
+      "url": "https://twitter.com/chlsydzi/status/1395325165169352707",
+      "user": "chlsydzi",
+      "text": "@kyutiesbub Gua udh njir\ud83d\ude2b",
+      "sentiment": -0.4404
+    },
+    {
+      "id": "1395323350260482056",
+      "url": "https://twitter.com/candyyjj/status/1395323350260482056",
+      "user": "candyyjj",
+      "text": "@chlsydzi ntar tenggelem",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395325068167716865",
+      "url": "https://twitter.com/chlsydzi/status/1395325068167716865",
+      "user": "chlsydzi",
+      "text": "@kimmoonieeeee Makanya mandii chell\ud83d\ude0f",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395324889322508291",
+      "url": "https://twitter.com/iamyul_7/status/1395324889322508291",
+      "user": "iamyul_7",
+      "text": "@chlsydzi Ga mandi \ud83e\udd3a",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395323718570700801",
+      "url": "https://twitter.com/chlxjoon/status/1395323718570700801",
+      "user": "chlxjoon",
+      "text": "@chlsydzi ga dulu \ud83d\ude4f",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395323909159874562",
+      "url": "https://twitter.com/__Mykookie__/status/1395323909159874562",
+      "user": "__Mykookie__",
+      "text": "@chlsydzi Pengenzxz\ud83d\ude22\ud83e\udd13",
+      "sentiment": -0.6486
+    }
+  ],
+  "edges": [
+    [
+      "1395325107447373825",
+      "1395323350260482056"
+    ],
+    [
+      "1395328533740670977",
+      "1395325107447373825"
+    ],
+    [
+      "1395327717776576516",
+      "1395323136623579136"
+    ],
+    [
+      "1395327103445344259",
+      "1395323136623579136"
+    ],
+    [
+      "1395325014883201031",
+      "1395324889322508291"
+    ],
+    [
+      "1395325438419902468",
+      "1395325014883201031"
+    ],
+    [
+      "1395325294261596160",
+      "1395323909159874562"
+    ],
+    [
+      "1395323452072992771",
+      "1395323136623579136"
+    ],
+    [
+      "1395325248111665155",
+      "1395323452072992771"
+    ],
+    [
+      "1395325214590865410",
+      "1395323818751631361"
+    ],
+    [
+      "1395323402810892288",
+      "1395323136623579136"
+    ],
+    [
+      "1395325188292562953",
+      "1395323402810892288"
+    ],
+    [
+      "1395323863181840390",
+      "1395323136623579136"
+    ],
+    [
+      "1395325165169352707",
+      "1395323863181840390"
+    ],
+    [
+      "1395323350260482056",
+      "1395323136623579136"
+    ],
+    [
+      "1395325068167716865",
+      "1395323718570700801"
+    ],
+    [
+      "1395324889322508291",
+      "1395323136623579136"
+    ]
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nodes": [
+    {
+      "id": "gisrcrk",
+      "url": "https://www.reddit.com/r/offmychest/comments/kumrlb/one_of_my_friends_doesnt_see_the_issue_with_using/gisrcrk/",
+      "user": "YorkBaby2001",
+      "text": "People on discord are so weird. It doesn\u2019t matter, they\u2019ll say anything if their hiding who they are.",
+      "sentiment": -0.6997
+    },
+    {
+      "id": "giss1i7",
+      "url": "https://www.reddit.com/r/offmychest/comments/kumrlb/one_of_my_friends_doesnt_see_the_issue_with_using/giss1i7/",
+      "user": "AFKayy",
+      "text": "No kidding on the weird people of discord, I'm mostly disappointed though that I've known this guy since college and before we used discord but he's never acted like that before. It was so jarring to experience.",
+      "sentiment": -0.7853
+    },
+    {
+      "id": "gisuvlj",
+      "url": "https://www.reddit.com/r/offmychest/comments/kumrlb/one_of_my_friends_doesnt_see_the_issue_with_using/gisuvlj/",
+      "user": "throwingawaykeys",
+      "text": "Yuck. Good on you for calling that out, though. You know you did the right thing.",
+      "sentiment": 0.4404
+    },
+    {
+      "id": "gitbsio",
+      "url": "https://www.reddit.com/r/offmychest/comments/kumrlb/one_of_my_friends_doesnt_see_the_issue_with_using/gitbsio/",
+      "user": "Klstadt",
+      "text": " look even he doesn't believe his bullshit. if he's \"not saying it in a context of racism\" then why won't he say it with black people present? because, that word doesn't exist outside the context of racism. it more like personifies it.\n\n this kind of thing, i'm lost. what kind of person defends, actually makes an issue of, a fantasy \"right\" to say something abhorrent and demeaning, for no reason? and, only where HE, feels it's safe. it tells you quite a lot about character.  it's pathetic.",
+      "sentiment": -0.9201
+    },
+    {
+      "id": "giv0og2",
+      "url": "https://www.reddit.com/r/offmychest/comments/kumrlb/one_of_my_friends_doesnt_see_the_issue_with_using/giv0og2/",
+      "user": "Asntropics",
+      "text": "Sounds like you made your point to him, loud and clear. A noble point to make. That is how social constraints work.",
+      "sentiment": 0.7964
+    },
+    {
+      "id": "giwdj3d",
+      "url": "https://www.reddit.com/r/offmychest/comments/kumrlb/one_of_my_friends_doesnt_see_the_issue_with_using/giwdj3d/",
+      "user": "AFKayy",
+      "text": "I never thought of it that way, but that's actually a really good question and I wish I'd thought of it to ask him. If it ever comes up again, which I sincerely hope it doesn't, I'll have to question him on that.\nThank you!",
+      "sentiment": 0.9656
+    }
+  ],
+  "edges": [
+    [
+      "gisrcrk",
+      "kumrlb"
+    ],
+    [
+      "giss1i7",
+      "gisrcrk"
+    ],
+    [
+      "gisuvlj",
+      "kumrlb"
+    ],
+    [
+      "gitbsio",
+      "kumrlb"
+    ],
+    [
+      "giv0og2",
+      "kumrlb"
+    ],
+    [
+      "giwdj3d",
+      "gitbsio"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "1395163943988039685",
+      "url": "https://twitter.com/markrmeyer/1395163943988039685",
+      "user": "markrmeyer",
+      "sentiment": 0.2333
+    },
+    {
+      "id": "1395156660482715651",
+      "url": "https://twitter.com/markrmeyer/1395156660482715651",
+      "user": "markrmeyer",
+      "sentiment": -0.3666
+    },
+    {
+      "id": "1395163193857687560",
+      "url": "https://twitter.com/markrmeyer/1395163193857687560",
+      "user": "markrmeyer",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395154320316829698",
+      "url": "https://twitter.com/markrmeyer/1395154320316829698",
+      "user": "markrmeyer",
+      "sentiment": 0.25
+    },
+    {
+      "id": "1395153219282681856",
+      "url": "https://twitter.com/markrmeyer/1395153219282681856",
+      "user": "markrmeyer",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1395163943988039685",
+      "1395155534572032000"
+    ],
+    [
+      "1395156660482715651",
+      "1395154320316829698"
+    ],
+    [
+      "1395163193857687560",
+      "1395156660482715651"
+    ],
+    [
+      "1395154320316829698",
+      "1395153219282681856"
+    ]
+  ]
+}

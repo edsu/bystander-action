@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "id": "1324318851950063616",
+      "url": "https://twitter.com/Dhalie1/status/1324318851950063616",
+      "user": "Dhalie1",
+      "text": "@Nicolas_Rus @LivEchonews https://t.co/UyR9KcuHFe",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1324313215157886976",
+      "url": "https://twitter.com/Dhalie1/status/1324313215157886976",
+      "user": "Dhalie1",
+      "text": "@Nicolas_Rus @LivEchonews What a sausage",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1324318851950063616",
+      "1324311051777826817"
+    ],
+    [
+      "1324313215157886976",
+      "1324311051777826817"
+    ]
+  ]
+}

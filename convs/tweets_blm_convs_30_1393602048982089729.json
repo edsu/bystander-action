@@ -1,0 +1,442 @@
+{
+  "nodes": [
+    {
+      "id": "1394580877275930630",
+      "url": "https://twitter.com/doyoungkating/status/1394580877275930630",
+      "user": "doyoungkating",
+      "text": "@marklisemarang ANJING GAK GITU",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394613489482616833",
+      "url": "https://twitter.com/marklisemarang/status/1394613489482616833",
+      "user": "marklisemarang",
+      "text": "@doyoungkating \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+      "sentiment": -0.9382
+    },
+    {
+      "id": "1394581232961294341",
+      "url": "https://twitter.com/doyoungkating/status/1394581232961294341",
+      "user": "doyoungkating",
+      "text": "@dheeanvlt dhi",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394612142209331200",
+      "url": "https://twitter.com/szuyazou/status/1394612142209331200",
+      "user": "szuyazou",
+      "text": "@doyoungkating lu abis kemana lagi dah anjir",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394601490761752577",
+      "url": "https://twitter.com/doyoungkating/status/1394601490761752577",
+      "user": "doyoungkating",
+      "text": "@iPelukHaechan mending indihome",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394602543091650563",
+      "url": "https://twitter.com/iPelukHaechan/status/1394602543091650563",
+      "user": "iPelukHaechan",
+      "text": "@doyoungkating oia pintar",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394593294303199233",
+      "url": "https://twitter.com/iPelukHaechan/status/1394593294303199233",
+      "user": "iPelukHaechan",
+      "text": "@doyoungkating samaan sama org msles",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394594355629883395",
+      "url": "https://twitter.com/doyoungkating/status/1394594355629883395",
+      "user": "doyoungkating",
+      "text": "@jouhourly nee eonni saranghae",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394583915327672320",
+      "url": "https://twitter.com/lvelyjhyuk/status/1394583915327672320",
+      "user": "lvelyjhyuk",
+      "text": "@doyoungkating ava jaemin hoodie putih",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394594119473795079",
+      "url": "https://twitter.com/doyoungkating/status/1394594119473795079",
+      "user": "doyoungkating",
+      "text": "@mengkonyolmu maaf ya https://t.co/3QkhwxpWPi",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394581308987219969",
+      "url": "https://twitter.com/doyoungkating/status/1394581308987219969",
+      "user": "doyoungkating",
+      "text": "@iPelukHaechan kmrn xl kok skrg tsel",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394581265815244802",
+      "url": "https://twitter.com/doyoungkating/status/1394581265815244802",
+      "user": "doyoungkating",
+      "text": "@mengkonyolmu ini lia siapa",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394581826816004099",
+      "url": "https://twitter.com/renjunciIok/status/1394581826816004099",
+      "user": "renjunciIok",
+      "text": "@doyoungkating rindu",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394583130590244867",
+      "url": "https://twitter.com/doyoungkating/status/1394583130590244867",
+      "user": "doyoungkating",
+      "text": "@renjunciIok mana renjun",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393602048982089729",
+      "url": "https://twitter.com/doyoungkating/status/1393602048982089729",
+      "user": "doyoungkating",
+      "text": "udah ya makasih",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394581422074077188",
+      "url": "https://twitter.com/doyoungkating/status/1394581422074077188",
+      "user": "doyoungkating",
+      "text": "@silpwi suspen",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394581390482542596",
+      "url": "https://twitter.com/doyoungkating/status/1394581390482542596",
+      "user": "doyoungkating",
+      "text": "@ziajie JIAY",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394581364561694720",
+      "url": "https://twitter.com/doyoungkating/status/1394581364561694720",
+      "user": "doyoungkating",
+      "text": "@callmelof beli beras",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393604758989017090",
+      "url": "https://twitter.com/iPelukHaechan/status/1393604758989017090",
+      "user": "iPelukHaechan",
+      "text": "@doyoungkating MAU KMN LG ANJG",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393603311161548801",
+      "url": "https://twitter.com/lvelyjhyuk/status/1393603311161548801",
+      "user": "lvelyjhyuk",
+      "text": "@doyoungkating mau kemana",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393602623748513798",
+      "url": "https://twitter.com/szuyazou/status/1393602623748513798",
+      "user": "szuyazou",
+      "text": "@doyoungkating lu mau kmn lagi",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393603557740335109",
+      "url": "https://twitter.com/renjuncuteO__o/status/1393603557740335109",
+      "user": "renjuncuteO__o",
+      "text": "@doyoungkating ngapain karin",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394581198622519296",
+      "url": "https://twitter.com/doyoungkating/status/1394581198622519296",
+      "user": "doyoungkating",
+      "text": "@renjuncuteO__o beli beras mau ikut?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394581130515345409",
+      "url": "https://twitter.com/doyoungkating/status/1394581130515345409",
+      "user": "doyoungkating",
+      "text": "@bwobubi cri nafkah untk ank\u201d kita buk",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393603179997106186",
+      "url": "https://twitter.com/terprik/status/1393603179997106186",
+      "user": "terprik",
+      "text": "@doyoungkating UDAH APAAN",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394581021673148419",
+      "url": "https://twitter.com/doyoungkating/status/1394581021673148419",
+      "user": "doyoungkating",
+      "text": "@terprik apaan ya",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394580955868766209",
+      "url": "https://twitter.com/doyoungkating/status/1394580955868766209",
+      "user": "doyoungkating",
+      "text": "@tiwaair HEH",
+      "sentiment": -0.3254
+    },
+    {
+      "id": "1393604858406608899",
+      "url": "https://twitter.com/marklisemarang/status/1393604858406608899",
+      "user": "marklisemarang",
+      "text": "@doyoungkating see u soon",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394580924440797187",
+      "url": "https://twitter.com/doyoungkating/status/1394580924440797187",
+      "user": "doyoungkating",
+      "text": "@marklisemarang ya allah w mnta maaf",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394580904408879104",
+      "url": "https://twitter.com/doyoungkating/status/1394580904408879104",
+      "user": "doyoungkating",
+      "text": "@marklisemarang APSIH \ud83d\ude29",
+      "sentiment": -0.2732
+    },
+    {
+      "id": "1393604019528945667",
+      "url": "https://twitter.com/ifleejeno/status/1393604019528945667",
+      "user": "ifleejeno",
+      "text": "@doyoungkating kemana lagi",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394580852516950021",
+      "url": "https://twitter.com/doyoungkating/status/1394580852516950021",
+      "user": "doyoungkating",
+      "text": "@ifleejeno \ud83d\ude4f\ud83c\udffb",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393602686096871425",
+      "url": "https://twitter.com/doyoungkating/status/1393602686096871425",
+      "user": "doyoungkating",
+      "text": "@seulgike2 ANJING IYA \ud83d\ude2d",
+      "sentiment": -0.4767
+    },
+    {
+      "id": "1393602831177814018",
+      "url": "https://twitter.com/seulgike2/status/1393602831177814018",
+      "user": "seulgike2",
+      "text": "@doyoungkating NGEPET",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393602640076886020",
+      "url": "https://twitter.com/doyoungkating/status/1393602640076886020",
+      "user": "doyoungkating",
+      "text": "@LHCNXX ngga",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393602764962369542",
+      "url": "https://twitter.com/LHCNXX/status/1393602764962369542",
+      "user": "LHCNXX",
+      "text": "@doyoungkating \u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f",
+      "sentiment": -0.9914
+    },
+    {
+      "id": "1393602458543292417",
+      "url": "https://twitter.com/seulgike2/status/1393602458543292417",
+      "user": "seulgike2",
+      "text": "@doyoungkating REP GUE BLM DIBALESS",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393602703440322561",
+      "url": "https://twitter.com/doyoungkating/status/1393602703440322561",
+      "user": "doyoungkating",
+      "text": "@seulgike2 demi allah",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393602587442618375",
+      "url": "https://twitter.com/LHCNXX/status/1393602587442618375",
+      "user": "LHCNXX",
+      "text": "@doyoungkating AKTIF IG GA?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393602548452368384",
+      "url": "https://twitter.com/LHCNXX/status/1393602548452368384",
+      "user": "LHCNXX",
+      "text": "@doyoungkating ILANG LAGI LU?",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1394580877275930630",
+      "1393604858406608899"
+    ],
+    [
+      "1394613489482616833",
+      "1394580877275930630"
+    ],
+    [
+      "1394581232961294341",
+      "1393602623748513798"
+    ],
+    [
+      "1394612142209331200",
+      "1394581232961294341"
+    ],
+    [
+      "1394601490761752577",
+      "1394593294303199233"
+    ],
+    [
+      "1394602543091650563",
+      "1394601490761752577"
+    ],
+    [
+      "1394593294303199233",
+      "1394581308987219969"
+    ],
+    [
+      "1394594355629883395",
+      "1394583509906300934"
+    ],
+    [
+      "1394583915327672320",
+      "1394581265815244802"
+    ],
+    [
+      "1394594119473795079",
+      "1394583915327672320"
+    ],
+    [
+      "1394581308987219969",
+      "1393604758989017090"
+    ],
+    [
+      "1394581265815244802",
+      "1393603311161548801"
+    ],
+    [
+      "1394581826816004099",
+      "1393602048982089729"
+    ],
+    [
+      "1394583130590244867",
+      "1394581826816004099"
+    ],
+    [
+      "1394581422074077188",
+      "1393604171639660544"
+    ],
+    [
+      "1394581390482542596",
+      "1393603004700319750"
+    ],
+    [
+      "1394581364561694720",
+      "1393609145706635264"
+    ],
+    [
+      "1393604758989017090",
+      "1393602048982089729"
+    ],
+    [
+      "1393603311161548801",
+      "1393602048982089729"
+    ],
+    [
+      "1393602623748513798",
+      "1393602048982089729"
+    ],
+    [
+      "1393603557740335109",
+      "1393602048982089729"
+    ],
+    [
+      "1394581198622519296",
+      "1393603557740335109"
+    ],
+    [
+      "1394581130515345409",
+      "1393603133088043008"
+    ],
+    [
+      "1393603179997106186",
+      "1393602048982089729"
+    ],
+    [
+      "1394581021673148419",
+      "1393603179997106186"
+    ],
+    [
+      "1394580955868766209",
+      "1393602979652009986"
+    ],
+    [
+      "1393604858406608899",
+      "1393602048982089729"
+    ],
+    [
+      "1394580924440797187",
+      "1393604858406608899"
+    ],
+    [
+      "1394580904408879104",
+      "1393604858406608899"
+    ],
+    [
+      "1393604019528945667",
+      "1393602048982089729"
+    ],
+    [
+      "1394580852516950021",
+      "1393604019528945667"
+    ],
+    [
+      "1393602686096871425",
+      "1393602458543292417"
+    ],
+    [
+      "1393602831177814018",
+      "1393602686096871425"
+    ],
+    [
+      "1393602640076886020",
+      "1393602587442618375"
+    ],
+    [
+      "1393602764962369542",
+      "1393602640076886020"
+    ],
+    [
+      "1393602458543292417",
+      "1393602048982089729"
+    ],
+    [
+      "1393602703440322561",
+      "1393602458543292417"
+    ],
+    [
+      "1393602587442618375",
+      "1393602048982089729"
+    ],
+    [
+      "1393602548452368384",
+      "1393602048982089729"
+    ]
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "nodes": [
+    {
+      "id": "1321529355596693504",
+      "url": "https://twitter.com/PhilGotCake/status/1321529355596693504",
+      "user": "PhilGotCake",
+      "text": "Chile wtf is going on https://t.co/4hXOm2VEmE",
+      "sentiment": -0.5859
+    },
+    {
+      "id": "1321858986879127553",
+      "url": "https://twitter.com/GlazedPlump/status/1321858986879127553",
+      "user": "GlazedPlump",
+      "text": "@PhilGotCake thanks @PhilGotCake",
+      "sentiment": 0.4404
+    },
+    {
+      "id": "1321756954423889921",
+      "url": "https://twitter.com/Christi48240085/status/1321756954423889921",
+      "user": "Christi48240085",
+      "text": "@PhilGotCake Good grief",
+      "sentiment": -0.0772
+    },
+    {
+      "id": "1321755803502682112",
+      "url": "https://twitter.com/da_thick_bubble/status/1321755803502682112",
+      "user": "da_thick_bubble",
+      "text": "@barnesboiyadig @PhilGotCake It\u2019s prob not ! Carolinas maybe !",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1321555656709705736",
+      "url": "https://twitter.com/PhilGotCake/status/1321555656709705736",
+      "user": "PhilGotCake",
+      "text": "@BigLeonard_77 Acting a plum fool",
+      "sentiment": -0.4404
+    },
+    {
+      "id": "1321543973027172353",
+      "url": "https://twitter.com/PhilGotCake/status/1321543973027172353",
+      "user": "PhilGotCake",
+      "text": "@chicostixXx \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+      "sentiment": 0.8271
+    },
+    {
+      "id": "1321532549726760960",
+      "url": "https://twitter.com/Killenkillem/status/1321532549726760960",
+      "user": "Killenkillem",
+      "text": "@PhilGotCake Doing what they do best colonize and fight",
+      "sentiment": 0.3818
+    },
+    {
+      "id": "1321530987226955776",
+      "url": "https://twitter.com/xdxnnx/status/1321530987226955776",
+      "user": "xdxnnx",
+      "text": "@PhilGotCake White on white crime. We gonna mind our business lol",
+      "sentiment": -0.1779
+    },
+    {
+      "id": "1321531216089227264",
+      "url": "https://twitter.com/PhilGotCake/status/1321531216089227264",
+      "user": "PhilGotCake",
+      "text": "@PisanDream Hollering \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+      "sentiment": 0.926
+    }
+  ],
+  "edges": [
+    [
+      "1321858986879127553",
+      "1321529355596693504"
+    ],
+    [
+      "1321756954423889921",
+      "1321529355596693504"
+    ],
+    [
+      "1321755803502682112",
+      "1321628926851112961"
+    ],
+    [
+      "1321555656709705736",
+      "1321553543774511105"
+    ],
+    [
+      "1321543973027172353",
+      "1321535708696399874"
+    ],
+    [
+      "1321532549726760960",
+      "1321529355596693504"
+    ],
+    [
+      "1321530987226955776",
+      "1321529355596693504"
+    ],
+    [
+      "1321531216089227264",
+      "1321530987226955776"
+    ]
+  ]
+}

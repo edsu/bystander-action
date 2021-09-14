@@ -1,0 +1,83 @@
+{
+  "nodes": [
+    {
+      "id": "779041604493516800",
+      "url": "https://twitter.com/TarenceTf/status/779041604493516800",
+      "user": "TarenceTf",
+      "text": "@HowdyDinduu  we have jails for people who break the law, not morgues.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "779040966393131008",
+      "url": "https://twitter.com/TarenceTf/status/779040966393131008",
+      "user": "TarenceTf",
+      "text": "@HowdyDinduu if Charlotte PD releases the video then perhaps we can see if he had a book or not. I'll trust video over a cop's \"sacred\" word",
+      "sentiment": -0.4023
+    },
+    {
+      "id": "779040335745937412",
+      "url": "https://twitter.com/TarenceTf/status/779040335745937412",
+      "user": "TarenceTf",
+      "text": "@HowdyDinduu it is possible to protest \"black on black\" crime and police brutality. We've been known to walk and chew gum at the same time",
+      "sentiment": -0.8591
+    },
+    {
+      "id": "779039912884596736",
+      "url": "https://twitter.com/TarenceTf/status/779039912884596736",
+      "user": "TarenceTf",
+      "text": "@HowdyDinduu yes all we negroes do is loot CVS's.....that's all the black race lives for. Sure buddy",
+      "sentiment": 0.6124
+    },
+    {
+      "id": "779039606599802881",
+      "url": "https://twitter.com/TarenceTf/status/779039606599802881",
+      "user": "TarenceTf",
+      "text": "@HowdyDinduu you don't seem convinced but it's not surprising......people believe what they want to believe. Facts be damned",
+      "sentiment": -0.5543
+    },
+    {
+      "id": "779038438960033792",
+      "url": "https://twitter.com/TarenceTf/status/779038438960033792",
+      "user": "TarenceTf",
+      "text": "@HowdyDinduu i have personally witnessed quite a few Stop The Violence rallies in my lifetime...but like i said it doesn't fit the narrative",
+      "sentiment": -0.733
+    },
+    {
+      "id": "779038203915427840",
+      "url": "https://twitter.com/TarenceTf/status/779038203915427840",
+      "user": "TarenceTf",
+      "text": "@HowdyDinduu people do protest against \"black on black crime\" but people conviently ignore that because it does not fit their narrative",
+      "sentiment": -0.8255
+    }
+  ],
+  "edges": [
+    [
+      "779041604493516800",
+      "779040823543369728"
+    ],
+    [
+      "779040966393131008",
+      "779040479102894080"
+    ],
+    [
+      "779040335745937412",
+      "779039471828213760"
+    ],
+    [
+      "779039912884596736",
+      "779039471828213760"
+    ],
+    [
+      "779039606599802881",
+      "779039329175769088"
+    ],
+    [
+      "779038438960033792",
+      "779037591450505217"
+    ],
+    [
+      "779038203915427840",
+      "779037591450505217"
+    ]
+  ]
+}

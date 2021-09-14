@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1368222405609553933",
+      "url": "https://twitter.com/jaderesearch/status/1368222405609553933",
+      "user": "jaderesearch",
+      "text": "Three qualified African American Gov candidates are being pushed aside by McA, which is a real disgrace. Instead of helping African Americans succeed, McAuliffe /Northam are holding them back. Governor controls VA sources which TM needs to rob to attack JB &amp; @VP @FreePressRVA .",
+      "sentiment": -0.6705
+    },
+    {
+      "id": "1368223287420018688",
+      "url": "https://twitter.com/jaderesearch/status/1368223287420018688",
+      "user": "jaderesearch",
+      "text": "But of course they will expect African Americans to vote for him after such a knife in the back.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1368209387798605825",
+      "url": "https://twitter.com/jaderesearch/status/1368209387798605825",
+      "user": "jaderesearch",
+      "text": "@RTDSchapiro You did not even mention Northam's endorsement of McAuliffe. You're one of the journos in McA's pocket for whitewashing embarrassing stories, part of the spin machine. Your story was to conceal that ugly fact. #RVA @FreePressRVA @bluevirginia https://t.co/PvNYyDxQwF",
+      "sentiment": -0.5574
+    }
+  ],
+  "edges": [
+    [
+      "1368222405609553933",
+      "1368209387798605825"
+    ],
+    [
+      "1368223287420018688",
+      "1368222405609553933"
+    ]
+  ]
+}

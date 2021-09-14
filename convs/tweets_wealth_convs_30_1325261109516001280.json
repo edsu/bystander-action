@@ -1,0 +1,167 @@
+{
+  "nodes": [
+    {
+      "id": "1325261109516001280",
+      "url": "https://twitter.com/hamiltonnolan/status/1325261109516001280",
+      "user": "hamiltonnolan",
+      "text": "This would mean closing the racial wealth gap, which is conveniently measurable. We\u2019ll check back in a couple years and see. https://t.co/bFZagQPdhD",
+      "sentiment": 0.4939
+    },
+    {
+      "id": "1325306273273958400",
+      "url": "https://twitter.com/angelhairparm/status/1325306273273958400",
+      "user": "angelhairparm",
+      "text": "@hamiltonnolan LOL and how do you propose Biden pull that off?\\n\\nLOL aside, this is a serious question.",
+      "sentiment": 0.4995
+    },
+    {
+      "id": "1325266125999968256",
+      "url": "https://twitter.com/Chicago_Chubbbs/status/1325266125999968256",
+      "user": "Chicago_Chubbbs",
+      "text": "@hamiltonnolan Hopefully the Dems have learnt the lesson: POC on the ticket gets you a win. You want the power, you gotta share the power. With us.",
+      "sentiment": 0.8402
+    },
+    {
+      "id": "1325305981908168704",
+      "url": "https://twitter.com/angelhairparm/status/1325305981908168704",
+      "user": "angelhairparm",
+      "text": "@Chicago_Chubbbs @hamiltonnolan It's cute that you think that's why Joe won.",
+      "sentiment": 0.7717
+    },
+    {
+      "id": "1325263893740974081",
+      "url": "https://twitter.com/wcthunderesq/status/1325263893740974081",
+      "user": "wcthunderesq",
+      "text": "@hamiltonnolan The racial wealth gap is virtually nonexistent at the bottom rung of society, is noticeable but increases only slightly and consistently among the vast middle, and then explodes within the top 10%.",
+      "sentiment": 0.5106
+    },
+    {
+      "id": "1325296297725865984",
+      "url": "https://twitter.com/mike61847223/status/1325296297725865984",
+      "user": "mike61847223",
+      "text": "@wcthunderesq @hamiltonnolan Nah, you're an ignorant Chud. \\n\\nYou act like you know something but you don't. \\n\\nBTW if you going to call someone a name? \\n\\nGoing with twits? \\n\\nCringe AF.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1325268474730582019",
+      "url": "https://twitter.com/upde31/status/1325268474730582019",
+      "user": "upde31",
+      "text": "@hamiltonnolan \u201cWe\u2019ll see.\u201d - The Zen Master",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1325265335398920192",
+      "url": "https://twitter.com/voiceofchinatv/status/1325265335398920192",
+      "user": "voiceofchinatv",
+      "text": "@hamiltonnolan @swin24 You mean Obama didn't do it?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1325264944967790592",
+      "url": "https://twitter.com/ScriptGal1/status/1325264944967790592",
+      "user": "ScriptGal1",
+      "text": "@hamiltonnolan Why be so pessimistic tonight?",
+      "sentiment": -0.5009
+    },
+    {
+      "id": "1325264263837986818",
+      "url": "https://twitter.com/wcthunderesq/status/1325264263837986818",
+      "user": "wcthunderesq",
+      "text": "@hamiltonnolan In short, you and Kendi are a pair of twits who have consistently failed upwards.",
+      "sentiment": -0.5106
+    },
+    {
+      "id": "1325262442692182016",
+      "url": "https://twitter.com/wcthunderesq/status/1325262442692182016",
+      "user": "wcthunderesq",
+      "text": "@hamiltonnolan A policy to actually close the racial wealth gap directly would involve funneling millions of dollars to some of the most affluent Americans of any race and buying homeless black people a cheeseburger.",
+      "sentiment": 0.4767
+    },
+    {
+      "id": "1325262336425418754",
+      "url": "https://twitter.com/NicoleLevay/status/1325262336425418754",
+      "user": "NicoleLevay",
+      "text": "@hamiltonnolan Now that there\u2019s an opportunity to close it, I\u2019m gonna do my dang best to help",
+      "sentiment": 0.8658
+    },
+    {
+      "id": "1325261428492804096",
+      "url": "https://twitter.com/diequalder/status/1325261428492804096",
+      "user": "diequalder",
+      "text": "@hamiltonnolan https://t.co/uYMUpAtMtl",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1325261338860548096",
+      "url": "https://twitter.com/nyxpol/status/1325261338860548096",
+      "user": "nyxpol",
+      "text": "@hamiltonnolan \ud83d\udd95",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1325261332858417154",
+      "url": "https://twitter.com/pennywinkie/status/1325261332858417154",
+      "user": "pennywinkie",
+      "text": "@hamiltonnolan Ibram will certainly benefit",
+      "sentiment": 0.6597
+    }
+  ],
+  "edges": [
+    [
+      "1325306273273958400",
+      "1325261109516001280"
+    ],
+    [
+      "1325266125999968256",
+      "1325261109516001280"
+    ],
+    [
+      "1325305981908168704",
+      "1325266125999968256"
+    ],
+    [
+      "1325263893740974081",
+      "1325262442692182016"
+    ],
+    [
+      "1325296297725865984",
+      "1325263893740974081"
+    ],
+    [
+      "1325268474730582019",
+      "1325261109516001280"
+    ],
+    [
+      "1325265335398920192",
+      "1325261109516001280"
+    ],
+    [
+      "1325264944967790592",
+      "1325261109516001280"
+    ],
+    [
+      "1325264263837986818",
+      "1325263893740974081"
+    ],
+    [
+      "1325262442692182016",
+      "1325261109516001280"
+    ],
+    [
+      "1325262336425418754",
+      "1325261109516001280"
+    ],
+    [
+      "1325261428492804096",
+      "1325261109516001280"
+    ],
+    [
+      "1325261338860548096",
+      "1325261109516001280"
+    ],
+    [
+      "1325261332858417154",
+      "1325261109516001280"
+    ]
+  ]
+}

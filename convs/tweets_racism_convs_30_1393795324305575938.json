@@ -1,0 +1,365 @@
+{
+  "nodes": [
+    {
+      "id": "1394015392071180293",
+      "url": "https://twitter.com/kathlabean/status/1394015392071180293",
+      "user": "kathlabean",
+      "text": "@five15design Why weren\u2019t the Greens in that poll? Or were they?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394024819855826944",
+      "url": "https://twitter.com/five15design/status/1394024819855826944",
+      "user": "five15design",
+      "text": "@kathlabean Greens 3rd above ACT",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394024739736145920",
+      "url": "https://twitter.com/five15design/status/1394024739736145920",
+      "user": "five15design",
+      "text": "@kathlabean Yeah just focusing on Collins that graphic.",
+      "sentiment": 0.296
+    },
+    {
+      "id": "1393829243801399299",
+      "url": "https://twitter.com/five15design/status/1393829243801399299",
+      "user": "five15design",
+      "text": "If only I could laugh about it. https://t.co/WjVgRx89M6",
+      "sentiment": 0.5574
+    },
+    {
+      "id": "1393799642928713729",
+      "url": "https://twitter.com/we_dollar/status/1393799642928713729",
+      "user": "we_dollar",
+      "text": "@five15design @NZNationalParty Nice return by Ng\u0101i Tahu! It's about governance not ownership.",
+      "sentiment": 0.4753
+    },
+    {
+      "id": "1394000065543376901",
+      "url": "https://twitter.com/1anonymousbloke/status/1394000065543376901",
+      "user": "1anonymousbloke",
+      "text": "@we_dollar @five15design @NZNationalParty Ownership is an issue, just not in the direction Collins is pointing:\\n\\n\"a safeguard against any future government that wants to privatise the waters assets\"",
+      "sentiment": 0.5106
+    },
+    {
+      "id": "1393798131645489152",
+      "url": "https://twitter.com/1anonymousbloke/status/1393798131645489152",
+      "user": "1anonymousbloke",
+      "text": "@tauhenare @five15design @NZNationalParty She's certainly getting traction with it. Not enough to win in 2023, maybe enough for Labour to require confidence &amp; supply from the Greens...\\n\\n...and for Collins to cling onto the leader's salary.",
+      "sentiment": 0.3875
+    },
+    {
+      "id": "1393994081412386819",
+      "url": "https://twitter.com/1anonymousbloke/status/1393994081412386819",
+      "user": "1anonymousbloke",
+      "text": "@tauhenare @five15design @NZNationalParty How refreshing to be wrong about this. No traction, no poll bump.",
+      "sentiment": -0.5286
+    },
+    {
+      "id": "1393841653002080265",
+      "url": "https://twitter.com/RataMiller/status/1393841653002080265",
+      "user": "RataMiller",
+      "text": "@five15design Ahh yes the true blue working class men who think that they work harder than anyone else and women belong in their place.\\n\\nComparably Australia has some of their finest examples running their country atm....",
+      "sentiment": 0.6705
+    },
+    {
+      "id": "1393841909450166278",
+      "url": "https://twitter.com/five15design/status/1393841909450166278",
+      "user": "five15design",
+      "text": "@RataMiller &amp; what that country's old boys network did to Julia Gillard will never be forgiven.",
+      "sentiment": -0.2924
+    },
+    {
+      "id": "1393830768883892226",
+      "url": "https://twitter.com/five15design/status/1393830768883892226",
+      "user": "five15design",
+      "text": "@RataMiller I would be to as a conservative voter...\\n\\nMind you I think that may be some inherent misogyny in the fan base me thinks?",
+      "sentiment": 0.3182
+    },
+    {
+      "id": "1393799399751311362",
+      "url": "https://twitter.com/MariaSherwood2/status/1393799399751311362",
+      "user": "MariaSherwood2",
+      "text": "@five15design @tauhenare @NZNationalParty Have you listened to Reti\u2019s interview on Q+A this morning? Please do. So confusing and couldn\u2019t answer a question with a straight answer on Collins racism.",
+      "sentiment": -0.4754
+    },
+    {
+      "id": "1393831482959953923",
+      "url": "https://twitter.com/WenDeeHynes/status/1393831482959953923",
+      "user": "WenDeeHynes",
+      "text": "@MariaSherwood2 @five15design @tauhenare @NZNationalParty Contradictory, confusing, hypocritical and I think will ride the coat tail all the way out the door.",
+      "sentiment": -0.743
+    },
+    {
+      "id": "1393830272580218885",
+      "url": "https://twitter.com/RataMiller/status/1393830272580218885",
+      "user": "RataMiller",
+      "text": "@five15design Are people still clutching on to the Key life raft? What a sad state of affairs the Nats have become",
+      "sentiment": -0.4767
+    },
+    {
+      "id": "1393827246012461057",
+      "url": "https://twitter.com/tauhenare/status/1393827246012461057",
+      "user": "tauhenare",
+      "text": "@MariaSherwood2 @five15design @NZNationalParty I have but I cut him some slack in the knowledge that it\u2019s fark in hard as a M\u0101ori inside the Nats.",
+      "sentiment": -0.5023
+    },
+    {
+      "id": "1393829735860293635",
+      "url": "https://twitter.com/Phil_Wheeler/status/1393829735860293635",
+      "user": "Phil_Wheeler",
+      "text": "@tauhenare @MariaSherwood2 @five15design @NZNationalParty I mean, that in itself deserves exploring. If National are trying to say \"we're not racist. We represent everyone\" with a straight face, they surely would want to address that very well-understood, publicly visible culture.",
+      "sentiment": 0.8085
+    },
+    {
+      "id": "1393795324305575938",
+      "url": "https://twitter.com/five15design/status/1393795324305575938",
+      "user": "five15design",
+      "text": "Someone not on crack cocaine or a racist pls explain to me. \\n\\nPrivate company co-ownership of (KEY) public assets under PPE agreements are good. \\n\\nCo-ownership, honouring the FOUNDING documents of our nation aren\u2019t good according to @NZNationalParty \\n\\n\u2026 tumbleweeds! Racists. https://t.co/QfrKENZFgD",
+      "sentiment": 0.5848
+    },
+    {
+      "id": "1393826852385398795",
+      "url": "https://twitter.com/tauhenare/status/1393826852385398795",
+      "user": "tauhenare",
+      "text": "@PouTepou @five15design @NZNationalParty Watch Tainui go to court over Watercare and AKL City taking more water.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393827918309040129",
+      "url": "https://twitter.com/five15design/status/1393827918309040129",
+      "user": "five15design",
+      "text": "@tauhenare @PouTepou @NZNationalParty Water &amp; M\u0101ori, it's not going to go away &amp; bloody good too!",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393805634718494720",
+      "url": "https://twitter.com/kiwialliance/status/1393805634718494720",
+      "user": "kiwialliance",
+      "text": "@tauhenare @five15design @NZNationalParty It\u2019s confirmed my stand on anti-racism and made me very very angry, and getting angrier every time she opens her mouth. So not working on me. This out of date, stuck in the past, irrelevant party she leads has two choices. I wonder if they\u2019ll chose the correct path?",
+      "sentiment": -0.7559
+    },
+    {
+      "id": "1393826983927173121",
+      "url": "https://twitter.com/tauhenare/status/1393826983927173121",
+      "user": "tauhenare",
+      "text": "@kiwialliance @five15design @NZNationalParty Can\u2019t see it at the moment.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393807245343739904",
+      "url": "https://twitter.com/PouTepou/status/1393807245343739904",
+      "user": "PouTepou",
+      "text": "@tauhenare @five15design @NZNationalParty Not much different to the relationship regarding water supply with Tainui and for that matter a heck of a lot more conservative then Nationals deal with my Iwi over Te Urewera .",
+      "sentiment": 0.0258
+    },
+    {
+      "id": "1393813474715729921",
+      "url": "https://twitter.com/4myxtc/status/1393813474715729921",
+      "user": "4myxtc",
+      "text": "@five15design @NZNationalParty I trust the leadership of my proud tribe Ng\u0101i Tahu to take up the challenge of schooling Judith. Deceptive and duplicitous as ever.",
+      "sentiment": 0.7717
+    },
+    {
+      "id": "1393796873878532098",
+      "url": "https://twitter.com/tauhenare/status/1393796873878532098",
+      "user": "tauhenare",
+      "text": "@five15design @NZNationalParty National lying about Water Deals to incite Racist and Racial disharmony. Old school bullshit politics that won\u2019t change the next election result. Just damages the party.",
+      "sentiment": -0.9081
+    },
+    {
+      "id": "1393803582240034816",
+      "url": "https://twitter.com/gabsi/status/1393803582240034816",
+      "user": "gabsi",
+      "text": "@five15design @NZNationalParty Turns out it's co-governance, ownership remains with councils.\\n\\nShe just trying cause racial disharmony as usual by, lying.",
+      "sentiment": -0.5267
+    },
+    {
+      "id": "1393803873454751745",
+      "url": "https://twitter.com/gabsi/status/1393803873454751745",
+      "user": "gabsi",
+      "text": "@five15design @NZNationalParty We see you Judith, and we don't like what we see.",
+      "sentiment": -0.2755
+    },
+    {
+      "id": "1393803347996463110",
+      "url": "https://twitter.com/pm323/status/1393803347996463110",
+      "user": "pm323",
+      "text": "@1anonymousbloke @tauhenare @five15design @NZNationalParty I would welcome that. Andrew Little's appalling arrogance regarding decriminalization deserves massive portions of karma.",
+      "sentiment": -0.4404
+    },
+    {
+      "id": "1393801759055777797",
+      "url": "https://twitter.com/originalalison/status/1393801759055777797",
+      "user": "originalalison",
+      "text": "@five15design @NZNationalParty Irrelevant party unable to find a way to be relevant based on old beliefs. Should just get the hell out of politics instead of embarrassing themselves.",
+      "sentiment": -0.6705
+    },
+    {
+      "id": "1393799634129088515",
+      "url": "https://twitter.com/five15design/status/1393799634129088515",
+      "user": "five15design",
+      "text": "@MariaSherwood2 @tauhenare @NZNationalParty Like his interview on morning report the other day.",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "1393797952380960768",
+      "url": "https://twitter.com/five15design/status/1393797952380960768",
+      "user": "five15design",
+      "text": "@tauhenare @NZNationalParty &amp; I refuse to believe that all within the party agree with this play.",
+      "sentiment": 0.6597
+    },
+    {
+      "id": "1393798922670206977",
+      "url": "https://twitter.com/CardsToast/status/1393798922670206977",
+      "user": "CardsToast",
+      "text": "@five15design @tauhenare @NZNationalParty whether they agree or not - they won't publicly disagree.",
+      "sentiment": 0.5696
+    },
+    {
+      "id": "1393798407647502340",
+      "url": "https://twitter.com/1anonymousbloke/status/1393798407647502340",
+      "user": "1anonymousbloke",
+      "text": "@five15design @tauhenare @NZNationalParty Conservatism is gaslighting. Successfully gaslit people believe all kinds of crap.",
+      "sentiment": 0.1531
+    },
+    {
+      "id": "1393796509267755009",
+      "url": "https://twitter.com/TheM_Bird/status/1393796509267755009",
+      "user": "TheM_Bird",
+      "text": "@five15design @NZNationalParty This was a rhetorical question, right?",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1394015392071180293",
+      "1393829243801399299"
+    ],
+    [
+      "1394024819855826944",
+      "1394015392071180293"
+    ],
+    [
+      "1394024739736145920",
+      "1394015392071180293"
+    ],
+    [
+      "1393829243801399299",
+      "1393795324305575938"
+    ],
+    [
+      "1393799642928713729",
+      "1393795324305575938"
+    ],
+    [
+      "1394000065543376901",
+      "1393799642928713729"
+    ],
+    [
+      "1393798131645489152",
+      "1393796873878532098"
+    ],
+    [
+      "1393994081412386819",
+      "1393798131645489152"
+    ],
+    [
+      "1393841653002080265",
+      "1393830768883892226"
+    ],
+    [
+      "1393841909450166278",
+      "1393841653002080265"
+    ],
+    [
+      "1393830768883892226",
+      "1393830272580218885"
+    ],
+    [
+      "1393799399751311362",
+      "1393797952380960768"
+    ],
+    [
+      "1393831482959953923",
+      "1393799399751311362"
+    ],
+    [
+      "1393830272580218885",
+      "1393829243801399299"
+    ],
+    [
+      "1393827246012461057",
+      "1393799399751311362"
+    ],
+    [
+      "1393829735860293635",
+      "1393827246012461057"
+    ],
+    [
+      "1393826852385398795",
+      "1393807245343739904"
+    ],
+    [
+      "1393827918309040129",
+      "1393826852385398795"
+    ],
+    [
+      "1393805634718494720",
+      "1393796873878532098"
+    ],
+    [
+      "1393826983927173121",
+      "1393805634718494720"
+    ],
+    [
+      "1393807245343739904",
+      "1393796873878532098"
+    ],
+    [
+      "1393813474715729921",
+      "1393795324305575938"
+    ],
+    [
+      "1393796873878532098",
+      "1393795324305575938"
+    ],
+    [
+      "1393803582240034816",
+      "1393795324305575938"
+    ],
+    [
+      "1393803873454751745",
+      "1393803582240034816"
+    ],
+    [
+      "1393803347996463110",
+      "1393798131645489152"
+    ],
+    [
+      "1393801759055777797",
+      "1393795324305575938"
+    ],
+    [
+      "1393799634129088515",
+      "1393799399751311362"
+    ],
+    [
+      "1393797952380960768",
+      "1393796873878532098"
+    ],
+    [
+      "1393798922670206977",
+      "1393797952380960768"
+    ],
+    [
+      "1393798407647502340",
+      "1393797952380960768"
+    ],
+    [
+      "1393796509267755009",
+      "1393795324305575938"
+    ]
+  ]
+}

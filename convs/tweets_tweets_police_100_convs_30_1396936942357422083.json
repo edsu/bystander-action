@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "1388449207258914816",
+      "url": "https://twitter.com/SociologistRay/1388449207258914816",
+      "user": "SociologistRay",
+      "sentiment": 0.8625
+    },
+    {
+      "id": "1396945780456361987",
+      "url": "https://twitter.com/BToneVibes/1396945780456361987",
+      "user": "BToneVibes",
+      "sentiment": 0.4588
+    },
+    {
+      "id": "1396945783774007298",
+      "url": "https://twitter.com/BToneVibes/1396945783774007298",
+      "user": "BToneVibes",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396945775289012228",
+      "url": "https://twitter.com/BToneVibes/1396945775289012228",
+      "user": "BToneVibes",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1280953836086202380",
+      "url": "https://twitter.com/NiskanenCenter/1280953836086202380",
+      "user": "NiskanenCenter",
+      "sentiment": 0.7579
+    },
+    {
+      "id": "1396945771765764099",
+      "url": "https://twitter.com/BToneVibes/1396945771765764099",
+      "user": "BToneVibes",
+      "sentiment": -0.1779
+    },
+    {
+      "id": "1280953581173182467",
+      "url": "https://twitter.com/NiskanenCenter/1280953581173182467",
+      "user": "NiskanenCenter",
+      "sentiment": -0.34
+    },
+    {
+      "id": "1396945769391788033",
+      "url": "https://twitter.com/BToneVibes/1396945769391788033",
+      "user": "BToneVibes",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1280953315308822534",
+      "url": "https://twitter.com/NiskanenCenter/1280953315308822534",
+      "user": "NiskanenCenter",
+      "sentiment": 0.7887
+    },
+    {
+      "id": "1396945766959091712",
+      "url": "https://twitter.com/BToneVibes/1396945766959091712",
+      "user": "BToneVibes",
+      "sentiment": -0.9607
+    },
+    {
+      "id": "1280952816878706692",
+      "url": "https://twitter.com/NiskanenCenter/1280952816878706692",
+      "user": "NiskanenCenter",
+      "sentiment": -0.6124
+    },
+    {
+      "id": "1396936942357422083",
+      "url": "https://twitter.com/BToneVibes/1396936942357422083",
+      "user": "BToneVibes",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1396945780456361987",
+      "1396945775289012228"
+    ],
+    [
+      "1396945783774007298",
+      "1396945780456361987"
+    ],
+    [
+      "1396945775289012228",
+      "1396945771765764099"
+    ],
+    [
+      "1280953836086202380",
+      "1280953581173182467"
+    ],
+    [
+      "1396945771765764099",
+      "1396945769391788033"
+    ],
+    [
+      "1280953581173182467",
+      "1280953319331172352"
+    ],
+    [
+      "1396945769391788033",
+      "1396945766959091712"
+    ],
+    [
+      "1280953315308822534",
+      "1280953313714941955"
+    ],
+    [
+      "1396945766959091712",
+      "1396936942357422083"
+    ]
+  ]
+}

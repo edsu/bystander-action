@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "gosk0hy",
+      "url": "https://www.reddit.com/r/TooAfraidToAsk/comments/lspdve/if_youre_not_supposed_to_treat_black_people_as/gosk0hy/",
+      "user": "PICKEDWRONGHOUSEFOOL",
+      "text": "you do treat them as equals...\n\nyou just don\u2019t have to mention their skin colour",
+      "sentiment": 0.4019
+    },
+    {
+      "id": "goskinm",
+      "url": "https://www.reddit.com/r/TooAfraidToAsk/comments/lspdve/if_youre_not_supposed_to_treat_black_people_as/goskinm/",
+      "user": "chasse89",
+      "text": "Treat us as equals, but don't forget what black people have experienced. There's a sweet spot between being racist and pretending that racism doesn't exist. Don't overthink it.",
+      "sentiment": -0.6909
+    },
+    {
+      "id": "goskx4v",
+      "url": "https://www.reddit.com/r/TooAfraidToAsk/comments/lspdve/if_youre_not_supposed_to_treat_black_people_as/goskx4v/",
+      "user": "WayzeeMary",
+      "text": "It\u2019s not that people who \u201cdon\u2019t see color\u201d are racists. It\u2019s that they\u2019re denying the existence of some very real phenomena.",
+      "sentiment": -0.7096
+    },
+    {
+      "id": "goskxy8",
+      "url": "https://www.reddit.com/r/TooAfraidToAsk/comments/lspdve/if_youre_not_supposed_to_treat_black_people_as/goskxy8/",
+      "user": "NoiseProvesNothing",
+      "text": "The pushback against the \"I don't see color\" is because it's ridiculous. Of course you notice someone's skin color, hair color, hair style, height, general body shape, etc etc. Your eyes and brain do this with no conscious input or effort. Pretending that your eyes don't work is just dumb and simplistic.\n\nThe issue is the subjective associations that go along with every objective physical attribute, often ones that operate subconsciously or even in conflict with our conscious thoughts or ideals of who we want to be. What people are trying to say with the stupid phrase (I think) is that they have overcome the subjective associations and see/treat people as individuals rather than as representatives of a particular group.",
+      "sentiment": -0.8807
+    },
+    {
+      "id": "goslwgh",
+      "url": "https://www.reddit.com/r/TooAfraidToAsk/comments/lspdve/if_youre_not_supposed_to_treat_black_people_as/goslwgh/",
+      "user": "[deleted]",
+      "text": "[removed]",
+      "sentiment": 0.0
+    },
+    {
+      "id": "gosmzha",
+      "url": "https://www.reddit.com/r/TooAfraidToAsk/comments/lspdve/if_youre_not_supposed_to_treat_black_people_as/gosmzha/",
+      "user": "RepresentativeSun937",
+      "text": "Yes but what are you supposed to do about it, or how do you treat someone differently?",
+      "sentiment": 0.6597
+    },
+    {
+      "id": "gospd9y",
+      "url": "https://www.reddit.com/r/TooAfraidToAsk/comments/lspdve/if_youre_not_supposed_to_treat_black_people_as/gospd9y/",
+      "user": "Ideas2lamb",
+      "text": "Treat me with respect and realize that racism still exists today. Then realize that racism is deeply rooted and understand where it comes from. So if you say you don't see color you can end up erasing certain facts about who I am. \n\nExample: Talking to your darker black friend about tanning and asking them to join you so they can also tan. \n\nA person that doesn't see color might think they are including their black friend. But this is a pretty dumb thing to say to a person who was born with all the melanin they need. A person who respects the color of a black persons skin might say, \"Are you cool with hanging out while I tan? I don't want you to be bored and there's other things to do at this beach.\" Or something like this.",
+      "sentiment": 0.8468
+    },
+    {
+      "id": "gosqii8",
+      "url": "https://www.reddit.com/r/TooAfraidToAsk/comments/lspdve/if_youre_not_supposed_to_treat_black_people_as/gosqii8/",
+      "user": "TransFattyAcid",
+      "text": "You're supposed to have empathy. Treat everyone equally by having empathy for everyone. Your white friends have problems that probably aren't based on their skin color and need your support. Your black friends have problems that may be based on their skin color and need your support. Give people the support they need, not some generic chum bucket of support.",
+      "sentiment": 0.9231
+    }
+  ],
+  "edges": [
+    [
+      "gosk0hy",
+      "lspdve"
+    ],
+    [
+      "goskinm",
+      "lspdve"
+    ],
+    [
+      "goskx4v",
+      "lspdve"
+    ],
+    [
+      "goskxy8",
+      "lspdve"
+    ],
+    [
+      "goslwgh",
+      "lspdve"
+    ],
+    [
+      "gosmzha",
+      "goskx4v"
+    ],
+    [
+      "gospd9y",
+      "lspdve"
+    ],
+    [
+      "gosqii8",
+      "gosmzha"
+    ]
+  ]
+}

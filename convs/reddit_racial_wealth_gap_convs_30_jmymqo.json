@@ -1,0 +1,83 @@
+{
+  "nodes": [
+    {
+      "id": "gayju3o",
+      "url": "https://www.reddit.com/r/Capitalism/comments/jmymqo/joe_bidens_policy_roadmap_aims_to_create_a_new/gayju3o/",
+      "user": "ISeeYouSeeAsISee",
+      "text": "tf...",
+      "sentiment": 0.0
+    },
+    {
+      "id": "gayqkdi",
+      "url": "https://www.reddit.com/r/Capitalism/comments/jmymqo/joe_bidens_policy_roadmap_aims_to_create_a_new/gayqkdi/",
+      "user": "MultiGeneric",
+      "text": "So more welfare.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "gayupx0",
+      "url": "https://www.reddit.com/r/Capitalism/comments/jmymqo/joe_bidens_policy_roadmap_aims_to_create_a_new/gayupx0/",
+      "user": "kwtransporter66",
+      "text": "Add food stamps, wic, and housing assistance.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "gb07zi9",
+      "url": "https://www.reddit.com/r/Capitalism/comments/jmymqo/joe_bidens_policy_roadmap_aims_to_create_a_new/gb07zi9/",
+      "user": "Qzman",
+      "text": "This gave me a good laugh... So there is discrimination now because it happened 50 years ago? \n\nAnd...\n\n&gt; \u201cThe common mantra is credit scores are objective,\u201d Wu says. \u201cYeah, they\u2019re an objective measurement. But when you go ahead and use them, you\u2019re perpetuating the racial biases that they measure.\u201d \n\nSeriously??",
+      "sentiment": 0.5484
+    },
+    {
+      "id": "gb0fson",
+      "url": "https://www.reddit.com/r/Capitalism/comments/jmymqo/joe_bidens_policy_roadmap_aims_to_create_a_new/gb0fson/",
+      "user": "baronmad",
+      "text": "I am dismayed at what i see in the media today, dont they have a single brain cell firing anymore.\n\nSo lets take the 2008 recession as an example where black people saw a sharp decline in median networth. What happened prior to this? Well it was the state forcing the banks to pay out loans to people with bad credits against the banks own wishes.\n\nSo a lot of people with bad credits took out loans to buy a house and the housing crises happened, when they couldnt afford to pay the interest rate on said loans and defaulted, this in conjunction with fractional reserve banking. So to use that as an example of why the state has to do something seems rather stupid to me, because it was because of the state interfering with the banking system which caused the fucking thing to happen so severly.\n\nThis is just more redistribution to close the racial wealth gap, this doesnt work for anyone, because when you tax the rich and the companies more they hire less people and produce less with the added problem of higher prices, and it will be even harder to get a job and get out of poverty.\n\nSo if they only measure it racially sure it can have an effect, but at the cost of everyone. Slower wage growth, less jobs to find and more need for even more education, which so far has not helped a lot either.",
+      "sentiment": 0.1619
+    },
+    {
+      "id": "gb1nnmt",
+      "url": "https://www.reddit.com/r/Capitalism/comments/jmymqo/joe_bidens_policy_roadmap_aims_to_create_a_new/gb1nnmt/",
+      "user": "DasKapitalist",
+      "text": "Telling someone you wont lend to them due to their 550 credit score is rayciss.  Why is it rayciss?  Because it hurts feelings, which are clearly more important than quantifiable, objective data like credit scores that solely factor in your ability to repay debt.",
+      "sentiment": 0.8016
+    },
+    {
+      "id": "gb1oadn",
+      "url": "https://www.reddit.com/r/Capitalism/comments/jmymqo/joe_bidens_policy_roadmap_aims_to_create_a_new/gb1oadn/",
+      "user": "DasKapitalist",
+      "text": "It's because no one wants to acknowledge that credit risk analysis is a price signal.  If the price tag on a Maserati is $300,000 dollars, and you dont have $300,000, you shouldnt buy a Maserati.  It's no different than if a bank refuses to lend to you because you're a bad credit risk.  They just saved you, the borrower, from an idiotic decision through the simple method of an interest rate or a loan denial.  You dont need to be a credit analyst crunching numbers to grasp that - the price signal is clear and simple.",
+      "sentiment": 0.128
+    }
+  ],
+  "edges": [
+    [
+      "gayju3o",
+      "jmymqo"
+    ],
+    [
+      "gayqkdi",
+      "jmymqo"
+    ],
+    [
+      "gayupx0",
+      "gayqkdi"
+    ],
+    [
+      "gb07zi9",
+      "jmymqo"
+    ],
+    [
+      "gb0fson",
+      "jmymqo"
+    ],
+    [
+      "gb1nnmt",
+      "gb07zi9"
+    ],
+    [
+      "gb1oadn",
+      "gb0fson"
+    ]
+  ]
+}

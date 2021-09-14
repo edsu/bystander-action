@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "id": "g4wop6r",
+      "url": "https://www.reddit.com/r/WhitePeopleTwitter/comments/ir7jei/serious_question_is_this_subreddit_suppose_to_be/g4wop6r/",
+      "user": "nvralon",
+      "text": "I don't remember why I even follow this sub.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "g4wotdp",
+      "url": "https://www.reddit.com/r/WhitePeopleTwitter/comments/ir7jei/serious_question_is_this_subreddit_suppose_to_be/g4wotdp/",
+      "user": "swimmingmars",
+      "text": "This is gonna end up on r/fragilewhiteredditor.  I\u2019m calling it.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "g4wozcf",
+      "url": "https://www.reddit.com/r/WhitePeopleTwitter/comments/ir7jei/serious_question_is_this_subreddit_suppose_to_be/g4wozcf/",
+      "user": "jochem4208",
+      "text": "Sometimes it has some /r/funny content",
+      "sentiment": 0.0
+    },
+    {
+      "id": "g4xnuwf",
+      "url": "https://www.reddit.com/r/WhitePeopleTwitter/comments/ir7jei/serious_question_is_this_subreddit_suppose_to_be/g4xnuwf/",
+      "user": "Hazard0usH1ppy",
+      "text": "I think this is pretty easy to explain. This sub was filled with funny things white people tweeted. As American politics turned into the dumpster fire that it has become, more and more people started to focus on that (and rightfully so, because it does effect a lot of us) so more and more tweets became about that stuff. More and more people are getting involved in politics, human rights, etc. which means less of the one liner jokes and more tweets about the current issues. Some people still try to be witty and funny, but some are more serious.\nI see a lot of people complaining about what this sub has \"turned into\", but it just boils down to the fact that the majority of the people posting on this sub have become more political (which there isn't anything wrong with). If subscribers to this sub want it be more funny things and less political, then we should get people together to scour Twitter for the funny one liners to post so that more of that is here.",
+      "sentiment": 0.9358
+    },
+    {
+      "id": "g4yevur",
+      "url": "https://www.reddit.com/r/WhitePeopleTwitter/comments/ir7jei/serious_question_is_this_subreddit_suppose_to_be/g4yevur/",
+      "user": "imrealmb",
+      "text": "That\u2019s a pretty good explanation. Thankyou for telling me",
+      "sentiment": 0.7269
+    }
+  ],
+  "edges": [
+    [
+      "g4wop6r",
+      "ir7jei"
+    ],
+    [
+      "g4wotdp",
+      "ir7jei"
+    ],
+    [
+      "g4wozcf",
+      "g4wop6r"
+    ],
+    [
+      "g4xnuwf",
+      "ir7jei"
+    ],
+    [
+      "g4yevur",
+      "g4xnuwf"
+    ]
+  ]
+}

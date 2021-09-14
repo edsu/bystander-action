@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "id": "1382092920371691522",
+      "url": "https://twitter.com/ndvh/status/1382092920371691522",
+      "user": "ndvh",
+      "text": "We stand in solidarity with Black communities and those who have continued to be on the frontlines of this struggle for justice. To impacted survivors of systemic racism and discrimination, we are here for you 24/7/365.",
+      "sentiment": -0.2789
+    },
+    {
+      "id": "1382092923265777669",
+      "url": "https://twitter.com/ndvh/status/1382092923265777669",
+      "user": "ndvh",
+      "text": "To stand in solidarity, you can donate and support these Black-led organizations working in Minnesota and across the country:\\n@BlackVisionsMN \\n@reclaimtheblock\\n@BCCS286 \\n@CAPIUSA1982 \\n@ColorOfChange",
+      "sentiment": 0.5994
+    },
+    {
+      "id": "1382092917553123331",
+      "url": "https://twitter.com/ndvh/status/1382092917553123331",
+      "user": "ndvh",
+      "text": "The National Domestic Violence Hotline remains committed to dismantling the systems that oppress Black, Indigenous, and non-Black communities of color, including the survivors we support every day. We all deserve safety and respect.",
+      "sentiment": 0.6808
+    },
+    {
+      "id": "1382092914344521737",
+      "url": "https://twitter.com/ndvh/status/1382092914344521737",
+      "user": "ndvh",
+      "text": "Police violence is a symptom of larger systemic racism that disproportionately impacts Black communities' lived experiences, and the ability for others including other people of color, immigrants, and LGBTQ+ people to thrive and survive.",
+      "sentiment": -0.7845
+    },
+    {
+      "id": "1382092909948850176",
+      "url": "https://twitter.com/ndvh/status/1382092909948850176",
+      "user": "ndvh",
+      "text": "On Sunday, Daunte Wright was killed by a police officer just ten miles from where Derek Chauvin is on trial for the murder of George Floyd, underscoring how horrifically commonplace it is for police to murder Black people in the United States. https://t.co/C3RmaMzDa8",
+      "sentiment": -0.9517
+    }
+  ],
+  "edges": [
+    [
+      "1382092920371691522",
+      "1382092917553123331"
+    ],
+    [
+      "1382092923265777669",
+      "1382092920371691522"
+    ],
+    [
+      "1382092917553123331",
+      "1382092914344521737"
+    ],
+    [
+      "1382092914344521737",
+      "1382092909948850176"
+    ]
+  ]
+}

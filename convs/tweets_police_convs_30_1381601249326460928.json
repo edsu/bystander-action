@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1381601250962202626",
+      "url": "https://twitter.com/destinyithink/status/1381601250962202626",
+      "user": "destinyithink",
+      "text": "Y\u2019all act like y\u2019all can\u2019t Google shit, yall Google everything else BUT how to keep yourself informed",
+      "sentiment": -0.1406
+    },
+    {
+      "id": "1381601251746533380",
+      "url": "https://twitter.com/destinyithink/status/1381601251746533380",
+      "user": "destinyithink",
+      "text": "Y\u2019all are so damn annoying",
+      "sentiment": -0.7557
+    },
+    {
+      "id": "1381601249326460928",
+      "url": "https://twitter.com/destinyithink/status/1381601249326460928",
+      "user": "destinyithink",
+      "text": "Google: Free, do the damn research yourself age isn\u2019t a excuse, there have been police brutality victims YOUNGER THAN ME, and clearly their age wasn\u2019t a good enough excuse for them not to die so go do the damn research https://t.co/zxpvqo2638",
+      "sentiment": 0.2373
+    }
+  ],
+  "edges": [
+    [
+      "1381601250962202626",
+      "1381601249326460928"
+    ],
+    [
+      "1381601251746533380",
+      "1381601250962202626"
+    ]
+  ]
+}

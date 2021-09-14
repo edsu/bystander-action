@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "1376799229834719234",
+      "url": "https://twitter.com/MarieRi49424211/status/1376799229834719234",
+      "user": "MarieRi49424211",
+      "text": "i don\u2019t get it. the person who attacked the asian-american elderly, told her \u201cyou don\u2019t belong here,\u201d is african-american?\\nwhy? you\u2019re also a victim of hate. why do that to another person? https://t.co/LrrPXwS342",
+      "sentiment": -0.8534
+    },
+    {
+      "id": "1376826934273843201",
+      "url": "https://twitter.com/jeannieDV/status/1376826934273843201",
+      "user": "jeannieDV",
+      "text": "@MarieRi49424211 gosh.. pinagsarhan pa ng pinto",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1376806206329614338",
+      "url": "https://twitter.com/mnggy33/status/1376806206329614338",
+      "user": "mnggy33",
+      "text": "@MarieRi49424211 ..and those guys inside the building who simply watched and close the door...???",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1376807399642652680",
+      "url": "https://twitter.com/MarieRi49424211/status/1376807399642652680",
+      "user": "MarieRi49424211",
+      "text": "@mnggy33 yes. they just watched.",
+      "sentiment": 0.4019
+    }
+  ],
+  "edges": [
+    [
+      "1376826934273843201",
+      "1376799229834719234"
+    ],
+    [
+      "1376806206329614338",
+      "1376799229834719234"
+    ],
+    [
+      "1376807399642652680",
+      "1376806206329614338"
+    ]
+  ]
+}

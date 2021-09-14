@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "1393665399905046529",
+      "url": "https://twitter.com/nagsholekah/status/1393665399905046529",
+      "user": "nagsholekah",
+      "text": "@Rizkitaj Gimana mao kurus \ud83d\ude43",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393762788242116616",
+      "url": "https://twitter.com/Rizkitaj/status/1393762788242116616",
+      "user": "Rizkitaj",
+      "text": "@nagsholekah Laiyaaa \ud83e\udd2a",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393762750761869315",
+      "url": "https://twitter.com/Rizkitaj/status/1393762750761869315",
+      "user": "Rizkitaj",
+      "text": "@rievamadyna FIIXXXXXX \ud83d\ude2d\ud83d\ude2d",
+      "sentiment": -0.7351
+    },
+    {
+      "id": "1393602021823959042",
+      "url": "https://twitter.com/Rizkitaj/status/1393602021823959042",
+      "user": "Rizkitaj",
+      "text": "Ngeliat ini sebel bgt krn dr kmaren nyariin stock rengginang yg blm di goreng gak nemu2, muter2in rumah tetep gak ada tu rengginang. Padahal beli sebelum puasa dan masih utuh blm dibuka samsek, kalimat hiburan dr ibuk \u201cbsk beli lagi\u201d \\n\\nTAPI GK BISA! Tu rengginang harus ketemu! https://t.co/qJ8zjxSxHU",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1393665399905046529",
+      "1393602021823959042"
+    ],
+    [
+      "1393762788242116616",
+      "1393665399905046529"
+    ],
+    [
+      "1393762750761869315",
+      "1393635441253883905"
+    ]
+  ]
+}

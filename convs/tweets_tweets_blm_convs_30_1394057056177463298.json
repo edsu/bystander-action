@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "1394057056177463298",
+      "url": "https://twitter.com/AkaunAnon/1394057056177463298",
+      "user": "AkaunAnon",
+      "sentiment": 0.2869
+    },
+    {
+      "id": "1394066208719208450",
+      "url": "https://twitter.com/MarilynSkinhd/1394066208719208450",
+      "user": "MarilynSkinhd",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "1394058916187672579",
+      "url": "https://twitter.com/AkaunAnon/1394058916187672579",
+      "user": "AkaunAnon",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1394057270443474944",
+      "url": "https://twitter.com/AkaunAnon/1394057270443474944",
+      "user": "AkaunAnon",
+      "sentiment": 0.5916
+    }
+  ],
+  "edges": [
+    [
+      "1394066208719208450",
+      "1394057056177463298"
+    ],
+    [
+      "1394058916187672579",
+      "1394057652624183301"
+    ],
+    [
+      "1394057270443474944",
+      "1394057056177463298"
+    ]
+  ]
+}

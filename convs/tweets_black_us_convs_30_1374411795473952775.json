@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "1374541875344982020",
+      "url": "https://twitter.com/sockwett/status/1374541875344982020",
+      "user": "sockwett",
+      "text": "@2009lights African American Vernacular English. Here\u2019s one of the most commonly used carrds to give you a basic understanding :) https://t.co/WqTQsfaRBG",
+      "sentiment": 0.4588
+    },
+    {
+      "id": "1374542030882230272",
+      "url": "https://twitter.com/2009lights/status/1374542030882230272",
+      "user": "2009lights",
+      "text": "@sockwett thank you sm :)",
+      "sentiment": 0.6705
+    },
+    {
+      "id": "1374540892392976388",
+      "url": "https://twitter.com/2009lights/status/1374540892392976388",
+      "user": "2009lights",
+      "text": "@sockwett i feel like i sound dumb but what\u2019s aave?",
+      "sentiment": -0.1027
+    },
+    {
+      "id": "1374539924829995010",
+      "url": "https://twitter.com/sockwett/status/1374539924829995010",
+      "user": "sockwett",
+      "text": "@2009lights I\u2019m unsure about other things, but she keeps using AAVE and refuses to acknowledge its harmful to bipoc even with harmful intent. \u00d6-o",
+      "sentiment": -0.128
+    },
+    {
+      "id": "1374539205007659012",
+      "url": "https://twitter.com/2009lights/status/1374539205007659012",
+      "user": "2009lights",
+      "text": "@sockwett wait huh? could you tell me what happened idk what\u2019s going on",
+      "sentiment": -0.1027
+    },
+    {
+      "id": "1374411795473952775",
+      "url": "https://twitter.com/sockwett/status/1374411795473952775",
+      "user": "sockwett",
+      "text": "// K@ceytron //\\nI don\u2019t understand why her defence is that people should educate before attacking. Everyone was educating her at first. She has seen it and still doesn\u2019t seem to be trying to understand why what she did/said was harmful/wrong.",
+      "sentiment": -0.3818
+    },
+    {
+      "id": "1374411797084606464",
+      "url": "https://twitter.com/sockwett/status/1374411797084606464",
+      "user": "sockwett",
+      "text": "When you continuously provoke a community of people that only wanted to educate you of your wrongdoings with childlike insults, they are going to be mad.",
+      "sentiment": -0.8271
+    },
+    {
+      "id": "1374411798615494665",
+      "url": "https://twitter.com/sockwett/status/1374411798615494665",
+      "user": "sockwett",
+      "text": "The majority of Dreams audience are teenagers. K@cey is 30 years old. Surely a 30 year old with a large online presence should\u2019ve been able to handle this situation much better.",
+      "sentiment": 0.8176
+    }
+  ],
+  "edges": [
+    [
+      "1374541875344982020",
+      "1374540892392976388"
+    ],
+    [
+      "1374542030882230272",
+      "1374541875344982020"
+    ],
+    [
+      "1374540892392976388",
+      "1374539924829995010"
+    ],
+    [
+      "1374539924829995010",
+      "1374539205007659012"
+    ],
+    [
+      "1374539205007659012",
+      "1374411795473952775"
+    ],
+    [
+      "1374411797084606464",
+      "1374411795473952775"
+    ],
+    [
+      "1374411798615494665",
+      "1374411797084606464"
+    ]
+  ]
+}

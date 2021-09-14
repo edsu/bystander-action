@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "1390458488317308932",
+      "url": "https://twitter.com/rocksandbears/status/1390458488317308932",
+      "user": "rocksandbears",
+      "text": "Morally, local governments that ignore or justify police brutality deserve to be really damn uncomfortable.",
+      "sentiment": -0.9076
+    },
+    {
+      "id": "1390459061955567616",
+      "url": "https://twitter.com/rocksandbears/status/1390459061955567616",
+      "user": "rocksandbears",
+      "text": "You say \u201cbusinesses don\u2019t deserve this hassle,\u201d and you\u2019ll hear back \u201cBlack and brown people don\u2019t deserve to be murdered,\u201d and \u201cI\u2019m sorry I can\u2019t hear you over the sound of my head being pounded in\u201d",
+      "sentiment": -0.0772
+    },
+    {
+      "id": "1390458197182357506",
+      "url": "https://twitter.com/rocksandbears/status/1390458197182357506",
+      "user": "rocksandbears",
+      "text": "This is not a moral claim, but a factual one.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1390458102890201089",
+      "url": "https://twitter.com/rocksandbears/status/1390458102890201089",
+      "user": "rocksandbears",
+      "text": "If local governments continue to ignore or justify police violence but jump on a chair and clutch their pearls whenever there\u2019s any kind of social unrest there\u2019s going to be more social unrest.",
+      "sentiment": -0.5106
+    }
+  ],
+  "edges": [
+    [
+      "1390458488317308932",
+      "1390458197182357506"
+    ],
+    [
+      "1390459061955567616",
+      "1390458488317308932"
+    ],
+    [
+      "1390458197182357506",
+      "1390458102890201089"
+    ]
+  ]
+}

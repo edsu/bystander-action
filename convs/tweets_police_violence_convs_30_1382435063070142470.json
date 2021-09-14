@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1382435063070142470",
+      "url": "https://twitter.com/EatWithNia/status/1382435063070142470",
+      "user": "EatWithNia",
+      "text": "How do you show up to the protest for a victim of police violence while telling people you\u2019re going to increase the budget and power of the largest police force in the country. I hope people continue to let Andrew Yang know he isn\u2019t welcomed.",
+      "sentiment": -0.1531
+    },
+    {
+      "id": "1382435255831842816",
+      "url": "https://twitter.com/vickylikesfood/status/1382435255831842816",
+      "user": "vickylikesfood",
+      "text": "@EatWithNia Useless.",
+      "sentiment": -0.4215
+    }
+  ],
+  "edges": [
+    [
+      "1382435255831842816",
+      "1382435063070142470"
+    ]
+  ]
+}

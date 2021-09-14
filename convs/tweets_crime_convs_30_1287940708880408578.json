@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1287940708880408578",
+      "url": "https://twitter.com/Coach_King20/status/1287940708880408578",
+      "user": "Coach_King20",
+      "text": "How come only \u201cblack on black crime\u201d exist? How come their are never headlines \u201cwhite on white crime\u201d or \u201cAsian on Asian crime\u201d.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1288118632195579905",
+      "url": "https://twitter.com/CoachWaltHayes/status/1288118632195579905",
+      "user": "CoachWaltHayes",
+      "text": "@Coach_King20 Black on black was created to make us look like animals... It\u2019s CRIME... No other race has this as a way to describe crime. It\u2019s CRIME or unlawful behavior...",
+      "sentiment": -0.8926
+    },
+    {
+      "id": "1287969693400289280",
+      "url": "https://twitter.com/AbeautifulDECAY/status/1287969693400289280",
+      "user": "AbeautifulDECAY",
+      "text": "@Coach_King20 I\u2019ve asked this for a while now. Never got an answer.",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1288118632195579905",
+      "1287940708880408578"
+    ],
+    [
+      "1287969693400289280",
+      "1287940708880408578"
+    ]
+  ]
+}

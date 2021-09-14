@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "id": "1394116138691354629",
+      "url": "https://twitter.com/strivenword/status/1394116138691354629",
+      "user": "strivenword",
+      "text": "@TweakingO A pastor friend of mine recently challenged me to read it. I've been procrastinating because I want to take notes and I couldn't figure out what note platform I want to use, so now I'll Twitter hold me accountable to just do it.",
+      "sentiment": 0.5267
+    },
+    {
+      "id": "1394112926160666630",
+      "url": "https://twitter.com/strivenword/status/1394112926160666630",
+      "user": "strivenword",
+      "text": "@TweakingO Reading now:\\n\\nhttps://t.co/wJsQLE7tD0\\n\\nThere are audiobook recordings of the manifesto there on Project Gutenberg.",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1394116138691354629",
+      "1394115100169093122"
+    ],
+    [
+      "1394112926160666630",
+      "1394107650942570499"
+    ]
+  ]
+}

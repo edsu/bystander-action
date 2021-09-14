@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1386572088488513536",
+      "url": "https://twitter.com/dumbbitchtaurus/status/1386572088488513536",
+      "user": "dumbbitchtaurus",
+      "text": "i\u2019m sorry because just what the hell... when we have medical evidence of the myriad causes of depression, many of which are connected to systemic racism? maybe read a book before WRITING A TEXTBOOK",
+      "sentiment": -0.9287
+    },
+    {
+      "id": "1386572171812605952",
+      "url": "https://twitter.com/dumbbitchtaurus/status/1386572171812605952",
+      "user": "dumbbitchtaurus",
+      "text": "very irresponsible!",
+      "sentiment": -0.54
+    },
+    {
+      "id": "1386571896313942018",
+      "url": "https://twitter.com/dumbbitchtaurus/status/1386571896313942018",
+      "user": "dumbbitchtaurus",
+      "text": "\u201cdepression\u201d and \u201cno depression\u201d is such a stretch lmfao. this is why we need psychologists, psychiatrists etc with a decolonial framework https://t.co/L1xfQRsuJx",
+      "sentiment": 0.5423
+    }
+  ],
+  "edges": [
+    [
+      "1386572088488513536",
+      "1386571896313942018"
+    ],
+    [
+      "1386572171812605952",
+      "1386572088488513536"
+    ]
+  ]
+}

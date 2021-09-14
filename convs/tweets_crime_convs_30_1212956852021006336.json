@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1212956852021006336",
+      "url": "https://twitter.com/brownfemme/status/1212956852021006336",
+      "user": "brownfemme",
+      "text": "The \"only black men are disrespectful towards their women\" discussion is very similar to how people cry about black on black crime. Men of all races are saying wildly disrespectful shit to women.",
+      "sentiment": -0.8807
+    },
+    {
+      "id": "1212956852926976001",
+      "url": "https://twitter.com/brownfemme/status/1212956852926976001",
+      "user": "brownfemme",
+      "text": "But we do need to talk about how black men are disrespectful to black women is closely related to how they want the power and privilege that white men have. The whole white patriarchy.",
+      "sentiment": 0.5719
+    }
+  ],
+  "edges": [
+    [
+      "1212956852926976001",
+      "1212956852021006336"
+    ]
+  ]
+}

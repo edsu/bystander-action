@@ -1,0 +1,2260 @@
+{
+  "nodes": [
+    {
+      "id": "1395245262126391296",
+      "url": "https://twitter.com/ElijahSchaffer/1395245262126391296",
+      "user": "ElijahSchaffer",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1398451886609649664",
+      "url": "https://twitter.com/la_la_la_leigh/1398451886609649664",
+      "user": "la_la_la_leigh",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395460786458296320",
+      "url": "https://twitter.com/cjladuck/1395460786458296320",
+      "user": "cjladuck",
+      "sentiment": 0.7351
+    },
+    {
+      "id": "1397252509731893249",
+      "url": "https://twitter.com/steezenz/1397252509731893249",
+      "user": "steezenz",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1397235893321228288",
+      "url": "https://twitter.com/proreviewer1/1397235893321228288",
+      "user": "proreviewer1",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1397236216815292421",
+      "url": "https://twitter.com/HamCoHoosier/1397236216815292421",
+      "user": "HamCoHoosier",
+      "sentiment": -0.5267
+    },
+    {
+      "id": "1395389864758108170",
+      "url": "https://twitter.com/HamCoHoosier/1395389864758108170",
+      "user": "HamCoHoosier",
+      "sentiment": -0.3612
+    },
+    {
+      "id": "1395315062500433920",
+      "url": "https://twitter.com/SarahjaneSquad/1395315062500433920",
+      "user": "SarahjaneSquad",
+      "sentiment": -0.3434
+    },
+    {
+      "id": "1397235735208603655",
+      "url": "https://twitter.com/proreviewer1/1397235735208603655",
+      "user": "proreviewer1",
+      "sentiment": -0.4374
+    },
+    {
+      "id": "1397234442863796225",
+      "url": "https://twitter.com/proreviewer1/1397234442863796225",
+      "user": "proreviewer1",
+      "sentiment": 0.4215
+    },
+    {
+      "id": "1397235308119347207",
+      "url": "https://twitter.com/dhr192/1397235308119347207",
+      "user": "dhr192",
+      "sentiment": -0.4939
+    },
+    {
+      "id": "1395245821419917314",
+      "url": "https://twitter.com/killfile/1395245821419917314",
+      "user": "killfile",
+      "sentiment": 0.5719
+    },
+    {
+      "id": "1397235060345131011",
+      "url": "https://twitter.com/proreviewer1/1397235060345131011",
+      "user": "proreviewer1",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1397234937875533839",
+      "url": "https://twitter.com/proreviewer1/1397234937875533839",
+      "user": "proreviewer1",
+      "sentiment": -0.4164
+    },
+    {
+      "id": "1395255236994822144",
+      "url": "https://twitter.com/dhr192/1395255236994822144",
+      "user": "dhr192",
+      "sentiment": -0.25
+    },
+    {
+      "id": "1396636470371307521",
+      "url": "https://twitter.com/KLG77348431/1396636470371307521",
+      "user": "KLG77348431",
+      "sentiment": -0.7531
+    },
+    {
+      "id": "1395496770361335809",
+      "url": "https://twitter.com/Lisebeti/1395496770361335809",
+      "user": "Lisebeti",
+      "sentiment": 0.1625
+    },
+    {
+      "id": "1396532906764521472",
+      "url": "https://twitter.com/Randy7017/1396532906764521472",
+      "user": "Randy7017",
+      "sentiment": 0.0839
+    },
+    {
+      "id": "1396455030283247625",
+      "url": "https://twitter.com/RealDesst/1396455030283247625",
+      "user": "RealDesst",
+      "sentiment": -0.9209
+    },
+    {
+      "id": "1396308883451355136",
+      "url": "https://twitter.com/RabMeir/1396308883451355136",
+      "user": "RabMeir",
+      "sentiment": 0.7717
+    },
+    {
+      "id": "1396037999390085120",
+      "url": "https://twitter.com/Heidi_VanVeghel/1396037999390085120",
+      "user": "Heidi_VanVeghel",
+      "sentiment": -0.8555
+    },
+    {
+      "id": "1396076392526254082",
+      "url": "https://twitter.com/wtrsc66/1396076392526254082",
+      "user": "wtrsc66",
+      "sentiment": -0.7184
+    },
+    {
+      "id": "1395396912098856962",
+      "url": "https://twitter.com/KremlinKristof1/1395396912098856962",
+      "user": "KremlinKristof1",
+      "sentiment": -0.6597
+    },
+    {
+      "id": "1396036785935986689",
+      "url": "https://twitter.com/Heidi_VanVeghel/1396036785935986689",
+      "user": "Heidi_VanVeghel",
+      "sentiment": -0.2484
+    },
+    {
+      "id": "1396035759510114307",
+      "url": "https://twitter.com/Heidi_VanVeghel/1396035759510114307",
+      "user": "Heidi_VanVeghel",
+      "sentiment": -0.7845
+    },
+    {
+      "id": "1395266483870003200",
+      "url": "https://twitter.com/KremlinKristof1/1395266483870003200",
+      "user": "KremlinKristof1",
+      "sentiment": 0.0258
+    },
+    {
+      "id": "1395783371545092102",
+      "url": "https://twitter.com/MortonMania1/1395783371545092102",
+      "user": "MortonMania1",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395521343555256324",
+      "url": "https://twitter.com/randomnamegen11/1395521343555256324",
+      "user": "randomnamegen11",
+      "sentiment": -0.1531
+    },
+    {
+      "id": "1395392858954387460",
+      "url": "https://twitter.com/centerrightsin1/1395392858954387460",
+      "user": "centerrightsin1",
+      "sentiment": -0.4256
+    },
+    {
+      "id": "1395508448926879750",
+      "url": "https://twitter.com/pieceofabanana/1395508448926879750",
+      "user": "pieceofabanana",
+      "sentiment": -0.3235
+    },
+    {
+      "id": "1395498022843322379",
+      "url": "https://twitter.com/Lisebeti/1395498022843322379",
+      "user": "Lisebeti",
+      "sentiment": 0.5106
+    },
+    {
+      "id": "1395506422985728002",
+      "url": "https://twitter.com/YarnDarn/1395506422985728002",
+      "user": "YarnDarn",
+      "sentiment": -0.0516
+    },
+    {
+      "id": "1395502399935193089",
+      "url": "https://twitter.com/Lisebeti/1395502399935193089",
+      "user": "Lisebeti",
+      "sentiment": -0.0516
+    },
+    {
+      "id": "1395500119408136198",
+      "url": "https://twitter.com/Lisebeti/1395500119408136198",
+      "user": "Lisebeti",
+      "sentiment": 0.0772
+    },
+    {
+      "id": "1395502373297168386",
+      "url": "https://twitter.com/Virtual_Prof/1395502373297168386",
+      "user": "Virtual_Prof",
+      "sentiment": -0.0644
+    },
+    {
+      "id": "1395500553212416003",
+      "url": "https://twitter.com/Lisebeti/1395500553212416003",
+      "user": "Lisebeti",
+      "sentiment": -0.8591
+    },
+    {
+      "id": "1395451584839049221",
+      "url": "https://twitter.com/Virtual_Prof/1395451584839049221",
+      "user": "Virtual_Prof",
+      "sentiment": -0.802
+    },
+    {
+      "id": "1395499846023397377",
+      "url": "https://twitter.com/Lisebeti/1395499846023397377",
+      "user": "Lisebeti",
+      "sentiment": -0.4939
+    },
+    {
+      "id": "1395380234502000641",
+      "url": "https://twitter.com/MissAnthrope44/1395380234502000641",
+      "user": "MissAnthrope44",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395499627454115847",
+      "url": "https://twitter.com/Lisebeti/1395499627454115847",
+      "user": "Lisebeti",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395498388293095427",
+      "url": "https://twitter.com/Lisebeti/1395498388293095427",
+      "user": "Lisebeti",
+      "sentiment": 0.2023
+    },
+    {
+      "id": "1395499414958002182",
+      "url": "https://twitter.com/RyanRenee9/1395499414958002182",
+      "user": "RyanRenee9",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395499410352742401",
+      "url": "https://twitter.com/Lisebeti/1395499410352742401",
+      "user": "Lisebeti",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395364000901345280",
+      "url": "https://twitter.com/LanceMBerland/1395364000901345280",
+      "user": "LanceMBerland",
+      "sentiment": -0.2982
+    },
+    {
+      "id": "1395498476985794564",
+      "url": "https://twitter.com/Lisebeti/1395498476985794564",
+      "user": "Lisebeti",
+      "sentiment": -0.5423
+    },
+    {
+      "id": "1395407771529629696",
+      "url": "https://twitter.com/RyanRenee9/1395407771529629696",
+      "user": "RyanRenee9",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395464545880219658",
+      "url": "https://twitter.com/ProudLiberal687/1395464545880219658",
+      "user": "ProudLiberal687",
+      "sentiment": -0.4939
+    },
+    {
+      "id": "1395498283997401091",
+      "url": "https://twitter.com/LT_FM/1395498283997401091",
+      "user": "LT_FM",
+      "sentiment": -0.1531
+    },
+    {
+      "id": "1395460549874315264",
+      "url": "https://twitter.com/cjladuck/1395460549874315264",
+      "user": "cjladuck",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395498182159880193",
+      "url": "https://twitter.com/Lisebeti/1395498182159880193",
+      "user": "Lisebeti",
+      "sentiment": 0.3182
+    },
+    {
+      "id": "1395405024717688832",
+      "url": "https://twitter.com/YarnDarn/1395405024717688832",
+      "user": "YarnDarn",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395363918529318912",
+      "url": "https://twitter.com/Jazzyass59/1395363918529318912",
+      "user": "Jazzyass59",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395497914445742092",
+      "url": "https://twitter.com/Lisebeti/1395497914445742092",
+      "user": "Lisebeti",
+      "sentiment": -0.4404
+    },
+    {
+      "id": "1395372746637410312",
+      "url": "https://twitter.com/2020IsNuts/1395372746637410312",
+      "user": "2020IsNuts",
+      "sentiment": -0.8794
+    },
+    {
+      "id": "1395497548606058500",
+      "url": "https://twitter.com/Lisebeti/1395497548606058500",
+      "user": "Lisebeti",
+      "sentiment": -0.3305
+    },
+    {
+      "id": "1395479263835410435",
+      "url": "https://twitter.com/istheAngelica/1395479263835410435",
+      "user": "istheAngelica",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395497410022068233",
+      "url": "https://twitter.com/Lisebeti/1395497410022068233",
+      "user": "Lisebeti",
+      "sentiment": 0.1119
+    },
+    {
+      "id": "1395402264769093634",
+      "url": "https://twitter.com/Randy7017/1395402264769093634",
+      "user": "Randy7017",
+      "sentiment": 0.6486
+    },
+    {
+      "id": "1395467267706654722",
+      "url": "https://twitter.com/BonesJohny/1395467267706654722",
+      "user": "BonesJohny",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395496266268913665",
+      "url": "https://twitter.com/Lisebeti/1395496266268913665",
+      "user": "Lisebeti",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395398591238139906",
+      "url": "https://twitter.com/vinnumbskull/1395398591238139906",
+      "user": "vinnumbskull",
+      "sentiment": 0.8176
+    },
+    {
+      "id": "1395492782534316033",
+      "url": "https://twitter.com/KremlinKristof1/1395492782534316033",
+      "user": "KremlinKristof1",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395481565724041219",
+      "url": "https://twitter.com/wtrsc66/1395481565724041219",
+      "user": "wtrsc66",
+      "sentiment": -0.7579
+    },
+    {
+      "id": "1395491770323009536",
+      "url": "https://twitter.com/KremlinKristof1/1395491770323009536",
+      "user": "KremlinKristof1",
+      "sentiment": -0.0572
+    },
+    {
+      "id": "1395483938362204162",
+      "url": "https://twitter.com/wtrsc66/1395483938362204162",
+      "user": "wtrsc66",
+      "sentiment": 0.4767
+    },
+    {
+      "id": "1395484815432962051",
+      "url": "https://twitter.com/KremlinKristof1/1395484815432962051",
+      "user": "KremlinKristof1",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395481112059682819",
+      "url": "https://twitter.com/KremlinKristof1/1395481112059682819",
+      "user": "KremlinKristof1",
+      "sentiment": 0.0258
+    },
+    {
+      "id": "1395401383436640258",
+      "url": "https://twitter.com/SpazzySpastic/1395401383436640258",
+      "user": "SpazzySpastic",
+      "sentiment": -0.9218
+    },
+    {
+      "id": "1395481586875846657",
+      "url": "https://twitter.com/istheAngelica/1395481586875846657",
+      "user": "istheAngelica",
+      "sentiment": -0.933
+    },
+    {
+      "id": "1395480609087131651",
+      "url": "https://twitter.com/KremlinKristof1/1395480609087131651",
+      "user": "KremlinKristof1",
+      "sentiment": -0.6908
+    },
+    {
+      "id": "1395480821138591744",
+      "url": "https://twitter.com/wtrsc66/1395480821138591744",
+      "user": "wtrsc66",
+      "sentiment": 0.7579
+    },
+    {
+      "id": "1395479256793296901",
+      "url": "https://twitter.com/wtrsc66/1395479256793296901",
+      "user": "wtrsc66",
+      "sentiment": -0.7
+    },
+    {
+      "id": "1395480255381614598",
+      "url": "https://twitter.com/wtrsc66/1395480255381614598",
+      "user": "wtrsc66",
+      "sentiment": -0.9824
+    },
+    {
+      "id": "1395480466543632384",
+      "url": "https://twitter.com/istheAngelica/1395480466543632384",
+      "user": "istheAngelica",
+      "sentiment": 0.7269
+    },
+    {
+      "id": "1395478663253139461",
+      "url": "https://twitter.com/KremlinKristof1/1395478663253139461",
+      "user": "KremlinKristof1",
+      "sentiment": -0.6597
+    },
+    {
+      "id": "1395466146896297990",
+      "url": "https://twitter.com/ItsSpelledZatch/1395466146896297990",
+      "user": "ItsSpelledZatch",
+      "sentiment": 0.4939
+    },
+    {
+      "id": "1395479986753064973",
+      "url": "https://twitter.com/KremlinKristof1/1395479986753064973",
+      "user": "KremlinKristof1",
+      "sentiment": -0.5859
+    },
+    {
+      "id": "1395479655881261058",
+      "url": "https://twitter.com/KremlinKristof1/1395479655881261058",
+      "user": "KremlinKristof1",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395345491676827655",
+      "url": "https://twitter.com/Lisebeti/1395345491676827655",
+      "user": "Lisebeti",
+      "sentiment": -0.6908
+    },
+    {
+      "id": "1395478355420528642",
+      "url": "https://twitter.com/wtrsc66/1395478355420528642",
+      "user": "wtrsc66",
+      "sentiment": 0.4404
+    },
+    {
+      "id": "1395289906755391488",
+      "url": "https://twitter.com/ProudLiberal687/1395289906755391488",
+      "user": "ProudLiberal687",
+      "sentiment": -0.9081
+    },
+    {
+      "id": "1395475422574379010",
+      "url": "https://twitter.com/BrownBrandon503/1395475422574379010",
+      "user": "BrownBrandon503",
+      "sentiment": -0.9562
+    },
+    {
+      "id": "1395465279497555969",
+      "url": "https://twitter.com/KremlinKristof1/1395465279497555969",
+      "user": "KremlinKristof1",
+      "sentiment": 0.5574
+    },
+    {
+      "id": "1395463840356192257",
+      "url": "https://twitter.com/LT_FM/1395463840356192257",
+      "user": "LT_FM",
+      "sentiment": 0.6124
+    },
+    {
+      "id": "1395290109889630208",
+      "url": "https://twitter.com/ProudLiberal687/1395290109889630208",
+      "user": "ProudLiberal687",
+      "sentiment": -0.296
+    },
+    {
+      "id": "1395411062095323144",
+      "url": "https://twitter.com/steezenz/1395411062095323144",
+      "user": "steezenz",
+      "sentiment": 0.34
+    },
+    {
+      "id": "1395400666403807237",
+      "url": "https://twitter.com/centerrightsin1/1395400666403807237",
+      "user": "centerrightsin1",
+      "sentiment": -0.8596
+    },
+    {
+      "id": "1395453089046405120",
+      "url": "https://twitter.com/KremlinKristof1/1395453089046405120",
+      "user": "KremlinKristof1",
+      "sentiment": -0.4019
+    },
+    {
+      "id": "1395452923895685121",
+      "url": "https://twitter.com/KremlinKristof1/1395452923895685121",
+      "user": "KremlinKristof1",
+      "sentiment": -0.8225
+    },
+    {
+      "id": "1395373060975468545",
+      "url": "https://twitter.com/wtrsc66/1395373060975468545",
+      "user": "wtrsc66",
+      "sentiment": 0.1531
+    },
+    {
+      "id": "1395423862762975235",
+      "url": "https://twitter.com/add_shogun/1395423862762975235",
+      "user": "add_shogun",
+      "sentiment": -0.6249
+    },
+    {
+      "id": "1395423191997292545",
+      "url": "https://twitter.com/add_shogun/1395423191997292545",
+      "user": "add_shogun",
+      "sentiment": -0.8316
+    },
+    {
+      "id": "1395414210037776387",
+      "url": "https://twitter.com/ElijahSchaffer/1395414210037776387",
+      "user": "ElijahSchaffer",
+      "sentiment": -0.8962
+    },
+    {
+      "id": "1395414888760102914",
+      "url": "https://twitter.com/JasonRCharter/1395414888760102914",
+      "user": "JasonRCharter",
+      "sentiment": -0.6486
+    },
+    {
+      "id": "1395415965899309058",
+      "url": "https://twitter.com/jasonbuck75/1395415965899309058",
+      "user": "jasonbuck75",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395413708394962954",
+      "url": "https://twitter.com/chirol90525877/1395413708394962954",
+      "user": "chirol90525877",
+      "sentiment": 0.3818
+    },
+    {
+      "id": "1395408922836496386",
+      "url": "https://twitter.com/MansoonCharles/1395408922836496386",
+      "user": "MansoonCharles",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1392545646213746691",
+      "url": "https://twitter.com/ReallyAmerican1/1392545646213746691",
+      "user": "ReallyAmerican1",
+      "sentiment": -0.8689
+    },
+    {
+      "id": "1395405889864028160",
+      "url": "https://twitter.com/Mad_as_heII/1395405889864028160",
+      "user": "Mad_as_heII",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395405325432500226",
+      "url": "https://twitter.com/rockystjohns/1395405325432500226",
+      "user": "rockystjohns",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395403845790994438",
+      "url": "https://twitter.com/EscheeKhyl/1395403845790994438",
+      "user": "EscheeKhyl",
+      "sentiment": 0.4939
+    },
+    {
+      "id": "1395249686806597634",
+      "url": "https://twitter.com/malo_j/1395249686806597634",
+      "user": "malo_j",
+      "sentiment": 0.4466
+    },
+    {
+      "id": "1395402759025876999",
+      "url": "https://twitter.com/Randy7017/1395402759025876999",
+      "user": "Randy7017",
+      "sentiment": 0.5837
+    },
+    {
+      "id": "1395254685498372096",
+      "url": "https://twitter.com/dhr192/1395254685498372096",
+      "user": "dhr192",
+      "sentiment": 0.1506
+    },
+    {
+      "id": "1395396166339100672",
+      "url": "https://twitter.com/KremlinKristof1/1395396166339100672",
+      "user": "KremlinKristof1",
+      "sentiment": -0.8402
+    },
+    {
+      "id": "1395398068376379398",
+      "url": "https://twitter.com/TheExesWeOwe1/1395398068376379398",
+      "user": "TheExesWeOwe1",
+      "sentiment": -0.7311
+    },
+    {
+      "id": "1395396607835873286",
+      "url": "https://twitter.com/wtrsc66/1395396607835873286",
+      "user": "wtrsc66",
+      "sentiment": -0.0337
+    },
+    {
+      "id": "1395395321857937410",
+      "url": "https://twitter.com/KremlinKristof1/1395395321857937410",
+      "user": "KremlinKristof1",
+      "sentiment": -0.9081
+    },
+    {
+      "id": "1395395296503468034",
+      "url": "https://twitter.com/centerrightsin1/1395395296503468034",
+      "user": "centerrightsin1",
+      "sentiment": -0.6808
+    },
+    {
+      "id": "1395394475678109707",
+      "url": "https://twitter.com/Heidi_VanVeghel/1395394475678109707",
+      "user": "Heidi_VanVeghel",
+      "sentiment": -0.9201
+    },
+    {
+      "id": "1395366246024060940",
+      "url": "https://twitter.com/KremlinKristof1/1395366246024060940",
+      "user": "KremlinKristof1",
+      "sentiment": -0.6664
+    },
+    {
+      "id": "1395378173282447361",
+      "url": "https://twitter.com/KremlinKristof1/1395378173282447361",
+      "user": "KremlinKristof1",
+      "sentiment": -0.8481
+    },
+    {
+      "id": "1395382738539143168",
+      "url": "https://twitter.com/HardHab1t2break/1395382738539143168",
+      "user": "HardHab1t2break",
+      "sentiment": -0.0772
+    },
+    {
+      "id": "1395389543759728646",
+      "url": "https://twitter.com/shokonin_/1395389543759728646",
+      "user": "shokonin_",
+      "sentiment": 0.8625
+    },
+    {
+      "id": "1395389317497999366",
+      "url": "https://twitter.com/shokonin_/1395389317497999366",
+      "user": "shokonin_",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395386255131648001",
+      "url": "https://twitter.com/deplorocker/1395386255131648001",
+      "user": "deplorocker",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395386202983997447",
+      "url": "https://twitter.com/LawfulEvil5/1395386202983997447",
+      "user": "LawfulEvil5",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395385603487936517",
+      "url": "https://twitter.com/soua02291992/1395385603487936517",
+      "user": "soua02291992",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395366730772492295",
+      "url": "https://twitter.com/centerrightsin1/1395366730772492295",
+      "user": "centerrightsin1",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395380964461846528",
+      "url": "https://twitter.com/pieceofabanana/1395380964461846528",
+      "user": "pieceofabanana",
+      "sentiment": 0.6177
+    },
+    {
+      "id": "1395377544627736580",
+      "url": "https://twitter.com/HardHab1t2break/1395377544627736580",
+      "user": "HardHab1t2break",
+      "sentiment": -0.8658
+    },
+    {
+      "id": "1395379773845778432",
+      "url": "https://twitter.com/elaineS0001/1395379773845778432",
+      "user": "elaineS0001",
+      "sentiment": -0.8027
+    },
+    {
+      "id": "1395303532580966401",
+      "url": "https://twitter.com/BunnanaKatana/1395303532580966401",
+      "user": "BunnanaKatana",
+      "sentiment": -0.9145
+    },
+    {
+      "id": "1395379430135042048",
+      "url": "https://twitter.com/HardHab1t2break/1395379430135042048",
+      "user": "HardHab1t2break",
+      "sentiment": -0.9307
+    },
+    {
+      "id": "1395378768403963904",
+      "url": "https://twitter.com/HardHab1t2break/1395378768403963904",
+      "user": "HardHab1t2break",
+      "sentiment": -0.3374
+    },
+    {
+      "id": "1395377809296560132",
+      "url": "https://twitter.com/KremlinKristof1/1395377809296560132",
+      "user": "KremlinKristof1",
+      "sentiment": -0.5983
+    },
+    {
+      "id": "1395377312657547264",
+      "url": "https://twitter.com/wtrsc66/1395377312657547264",
+      "user": "wtrsc66",
+      "sentiment": -0.8926
+    },
+    {
+      "id": "1395277477451386880",
+      "url": "https://twitter.com/elaineS0001/1395277477451386880",
+      "user": "elaineS0001",
+      "sentiment": -0.8271
+    },
+    {
+      "id": "1395375276268326915",
+      "url": "https://twitter.com/KremlinKristof1/1395375276268326915",
+      "user": "KremlinKristof1",
+      "sentiment": -0.9013
+    },
+    {
+      "id": "1395377281644834820",
+      "url": "https://twitter.com/The_AmberK/1395377281644834820",
+      "user": "The_AmberK",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395377212514205701",
+      "url": "https://twitter.com/OfficalLiberty/1395377212514205701",
+      "user": "OfficalLiberty",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395373892995276801",
+      "url": "https://twitter.com/wtrsc66/1395373892995276801",
+      "user": "wtrsc66",
+      "sentiment": -0.8591
+    },
+    {
+      "id": "1395320983100198912",
+      "url": "https://twitter.com/add_shogun/1395320983100198912",
+      "user": "add_shogun",
+      "sentiment": -0.1027
+    },
+    {
+      "id": "1395349506095554568",
+      "url": "https://twitter.com/pieceofabanana/1395349506095554568",
+      "user": "pieceofabanana",
+      "sentiment": -0.7096
+    },
+    {
+      "id": "1395365400226017280",
+      "url": "https://twitter.com/centerrightsin1/1395365400226017280",
+      "user": "centerrightsin1",
+      "sentiment": -0.3182
+    },
+    {
+      "id": "1395317399658766339",
+      "url": "https://twitter.com/KremlinKristof1/1395317399658766339",
+      "user": "KremlinKristof1",
+      "sentiment": -0.7096
+    },
+    {
+      "id": "1395359893046050816",
+      "url": "https://twitter.com/ChadPal08448273/1395359893046050816",
+      "user": "ChadPal08448273",
+      "sentiment": -0.4767
+    },
+    {
+      "id": "1395357696115847171",
+      "url": "https://twitter.com/lona_barrett/1395357696115847171",
+      "user": "lona_barrett",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "1395354932983836679",
+      "url": "https://twitter.com/Kelrus98/1395354932983836679",
+      "user": "Kelrus98",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395349342417035265",
+      "url": "https://twitter.com/ArthurCleroux/1395349342417035265",
+      "user": "ArthurCleroux",
+      "sentiment": -0.5106
+    },
+    {
+      "id": "1395344504090136580",
+      "url": "https://twitter.com/StankinsLeeroy/1395344504090136580",
+      "user": "StankinsLeeroy",
+      "sentiment": 0.5106
+    },
+    {
+      "id": "1395339731211366402",
+      "url": "https://twitter.com/JoshIsRad1/1395339731211366402",
+      "user": "JoshIsRad1",
+      "sentiment": -0.8357
+    },
+    {
+      "id": "1395338901355704322",
+      "url": "https://twitter.com/BerryLiberal/1395338901355704322",
+      "user": "BerryLiberal",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395338229210038273",
+      "url": "https://twitter.com/TheGreaterFyrd/1395338229210038273",
+      "user": "TheGreaterFyrd",
+      "sentiment": -0.5267
+    },
+    {
+      "id": "1395250999523119104",
+      "url": "https://twitter.com/SpazzySpastic/1395250999523119104",
+      "user": "SpazzySpastic",
+      "sentiment": -0.0258
+    },
+    {
+      "id": "1395336161242099716",
+      "url": "https://twitter.com/witchywoman444/1395336161242099716",
+      "user": "witchywoman444",
+      "sentiment": -0.8788
+    },
+    {
+      "id": "1395329950962569226",
+      "url": "https://twitter.com/CJ_253/1395329950962569226",
+      "user": "CJ_253",
+      "sentiment": -0.6908
+    },
+    {
+      "id": "1395329530462605312",
+      "url": "https://twitter.com/Alright75286188/1395329530462605312",
+      "user": "Alright75286188",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395320203005792256",
+      "url": "https://twitter.com/niceguyshawn2/1395320203005792256",
+      "user": "niceguyshawn2",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395314222783893509",
+      "url": "https://twitter.com/TheClownShow3/1395314222783893509",
+      "user": "TheClownShow3",
+      "sentiment": -0.5994
+    },
+    {
+      "id": "1395313042456383489",
+      "url": "https://twitter.com/backdocmike/1395313042456383489",
+      "user": "backdocmike",
+      "sentiment": -0.0191
+    },
+    {
+      "id": "1395307928983281666",
+      "url": "https://twitter.com/KremlinKristof1/1395307928983281666",
+      "user": "KremlinKristof1",
+      "sentiment": -0.8999
+    },
+    {
+      "id": "1395288815556825088",
+      "url": "https://twitter.com/ProudLiberal687/1395288815556825088",
+      "user": "ProudLiberal687",
+      "sentiment": -0.7003
+    },
+    {
+      "id": "1395306590987821058",
+      "url": "https://twitter.com/Flangedangle/1395306590987821058",
+      "user": "Flangedangle",
+      "sentiment": -0.8573
+    },
+    {
+      "id": "1395306345226805248",
+      "url": "https://twitter.com/jestershark/1395306345226805248",
+      "user": "jestershark",
+      "sentiment": 0.3098
+    },
+    {
+      "id": "1395274692601294850",
+      "url": "https://twitter.com/Shortst50604025/1395274692601294850",
+      "user": "Shortst50604025",
+      "sentiment": 0.6983
+    },
+    {
+      "id": "1395294211973566464",
+      "url": "https://twitter.com/tflynn34/1395294211973566464",
+      "user": "tflynn34",
+      "sentiment": 0.5719
+    },
+    {
+      "id": "1395250864537800707",
+      "url": "https://twitter.com/LT_FM/1395250864537800707",
+      "user": "LT_FM",
+      "sentiment": -0.3182
+    },
+    {
+      "id": "1395251252494176258",
+      "url": "https://twitter.com/BrownBrandon503/1395251252494176258",
+      "user": "BrownBrandon503",
+      "sentiment": -0.9467
+    },
+    {
+      "id": "1395258717793394688",
+      "url": "https://twitter.com/Flangedangle/1395258717793394688",
+      "user": "Flangedangle",
+      "sentiment": -0.7717
+    },
+    {
+      "id": "1395286377521192962",
+      "url": "https://twitter.com/RedRock1T/1395286377521192962",
+      "user": "RedRock1T",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395245742353231875",
+      "url": "https://twitter.com/MortonMania1/1395245742353231875",
+      "user": "MortonMania1",
+      "sentiment": 0.9736
+    },
+    {
+      "id": "1395281989264019458",
+      "url": "https://twitter.com/Clayton43790046/1395281989264019458",
+      "user": "Clayton43790046",
+      "sentiment": -0.6597
+    },
+    {
+      "id": "1395281444436643841",
+      "url": "https://twitter.com/ChronoLuminaire/1395281444436643841",
+      "user": "ChronoLuminaire",
+      "sentiment": -0.2023
+    },
+    {
+      "id": "1395246181421174784",
+      "url": "https://twitter.com/TLordstone/1395246181421174784",
+      "user": "TLordstone",
+      "sentiment": 0.1027
+    },
+    {
+      "id": "1395277039821807617",
+      "url": "https://twitter.com/elaineS0001/1395277039821807617",
+      "user": "elaineS0001",
+      "sentiment": -0.5
+    },
+    {
+      "id": "1395275195238207494",
+      "url": "https://twitter.com/Shortst50604025/1395275195238207494",
+      "user": "Shortst50604025",
+      "sentiment": -0.5538
+    },
+    {
+      "id": "1395276271744032770",
+      "url": "https://twitter.com/ErinMedium/1395276271744032770",
+      "user": "ErinMedium",
+      "sentiment": -0.3612
+    },
+    {
+      "id": "1395275688437944321",
+      "url": "https://twitter.com/dalene_wssranch/1395275688437944321",
+      "user": "dalene_wssranch",
+      "sentiment": 0.6486
+    },
+    {
+      "id": "1395269108514574336",
+      "url": "https://twitter.com/MortonMania1/1395269108514574336",
+      "user": "MortonMania1",
+      "sentiment": -0.2991
+    },
+    {
+      "id": "1395273800451772416",
+      "url": "https://twitter.com/Virtual_Prof/1395273800451772416",
+      "user": "Virtual_Prof",
+      "sentiment": -0.2037
+    },
+    {
+      "id": "1395270520023646208",
+      "url": "https://twitter.com/OdinAwakens/1395270520023646208",
+      "user": "OdinAwakens",
+      "sentiment": 0.3919
+    },
+    {
+      "id": "1395268804289212417",
+      "url": "https://twitter.com/leedideel/1395268804289212417",
+      "user": "leedideel",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395268170487844867",
+      "url": "https://twitter.com/leedideel/1395268170487844867",
+      "user": "leedideel",
+      "sentiment": -0.5676
+    },
+    {
+      "id": "1395245874750660610",
+      "url": "https://twitter.com/MortonMania1/1395245874750660610",
+      "user": "MortonMania1",
+      "sentiment": 0.4019
+    },
+    {
+      "id": "1395262802936406021",
+      "url": "https://twitter.com/JohnSmith_4077/1395262802936406021",
+      "user": "JohnSmith_4077",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395259680482594816",
+      "url": "https://twitter.com/JackySuey/1395259680482594816",
+      "user": "JackySuey",
+      "sentiment": -0.3875
+    },
+    {
+      "id": "1395248637777641472",
+      "url": "https://twitter.com/Papajonsz/1395248637777641472",
+      "user": "Papajonsz",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395259038351376385",
+      "url": "https://twitter.com/DeplorableGoldn/1395259038351376385",
+      "user": "DeplorableGoldn",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395248020476895236",
+      "url": "https://twitter.com/ProudLiberal687/1395248020476895236",
+      "user": "ProudLiberal687",
+      "sentiment": -0.5719
+    },
+    {
+      "id": "1395256918587809792",
+      "url": "https://twitter.com/real_bob_wiley/1395256918587809792",
+      "user": "real_bob_wiley",
+      "sentiment": 0.4939
+    },
+    {
+      "id": "1395256902867554309",
+      "url": "https://twitter.com/jackieliu0801/1395256902867554309",
+      "user": "jackieliu0801",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395255839502467075",
+      "url": "https://twitter.com/NancyGo22432376/1395255839502467075",
+      "user": "NancyGo22432376",
+      "sentiment": -0.5423
+    },
+    {
+      "id": "1395247816562200576",
+      "url": "https://twitter.com/BidensHryLegs/1395247816562200576",
+      "user": "BidensHryLegs",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395254963010523138",
+      "url": "https://twitter.com/iveryyyyy/1395254963010523138",
+      "user": "iveryyyyy",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395254546063110144",
+      "url": "https://twitter.com/TweetHeckle/1395254546063110144",
+      "user": "TweetHeckle",
+      "sentiment": 0.5719
+    },
+    {
+      "id": "1395253253340868611",
+      "url": "https://twitter.com/schlomotion613/1395253253340868611",
+      "user": "schlomotion613",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395252614577623041",
+      "url": "https://twitter.com/MtnTha/1395252614577623041",
+      "user": "MtnTha",
+      "sentiment": -0.5574
+    },
+    {
+      "id": "1395247173151825921",
+      "url": "https://twitter.com/TeresaMPinky/1395247173151825921",
+      "user": "TeresaMPinky",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395252470373179393",
+      "url": "https://twitter.com/KremlinKristof1/1395252470373179393",
+      "user": "KremlinKristof1",
+      "sentiment": 0.3182
+    },
+    {
+      "id": "1395249256454316034",
+      "url": "https://twitter.com/ProudLiberal687/1395249256454316034",
+      "user": "ProudLiberal687",
+      "sentiment": 0.4019
+    },
+    {
+      "id": "1395252109273034759",
+      "url": "https://twitter.com/BidensHryLegs/1395252109273034759",
+      "user": "BidensHryLegs",
+      "sentiment": 0.128
+    },
+    {
+      "id": "1395252057930567680",
+      "url": "https://twitter.com/LT_FM/1395252057930567680",
+      "user": "LT_FM",
+      "sentiment": -0.4767
+    },
+    {
+      "id": "1395252000191827969",
+      "url": "https://twitter.com/Hannah5309/1395252000191827969",
+      "user": "Hannah5309",
+      "sentiment": 0.4588
+    },
+    {
+      "id": "1395251549472006148",
+      "url": "https://twitter.com/hinman_andy/1395251549472006148",
+      "user": "hinman_andy",
+      "sentiment": 0.3089
+    },
+    {
+      "id": "1395246846621061129",
+      "url": "https://twitter.com/Glavset/1395246846621061129",
+      "user": "Glavset",
+      "sentiment": -0.743
+    },
+    {
+      "id": "1395251199784497157",
+      "url": "https://twitter.com/timmybombs89/1395251199784497157",
+      "user": "timmybombs89",
+      "sentiment": 0.743
+    },
+    {
+      "id": "1395245950344437763",
+      "url": "https://twitter.com/PhuckSea/1395245950344437763",
+      "user": "PhuckSea",
+      "sentiment": 0.1027
+    },
+    {
+      "id": "1349665638248284160",
+      "url": "https://twitter.com/KurtBW_News/1349665638248284160",
+      "user": "KurtBW_News",
+      "sentiment": -0.3804
+    },
+    {
+      "id": "1395250878253191169",
+      "url": "https://twitter.com/KurtBW_News/1395250878253191169",
+      "user": "KurtBW_News",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395250087396356097",
+      "url": "https://twitter.com/ProudLiberal687/1395250087396356097",
+      "user": "ProudLiberal687",
+      "sentiment": -0.4767
+    },
+    {
+      "id": "1395250416703639552",
+      "url": "https://twitter.com/ThomasAGiorgi/1395250416703639552",
+      "user": "ThomasAGiorgi",
+      "sentiment": -0.886
+    },
+    {
+      "id": "1395250219445456896",
+      "url": "https://twitter.com/Your_Eminence20/1395250219445456896",
+      "user": "Your_Eminence20",
+      "sentiment": 0.4902
+    },
+    {
+      "id": "1395248986710102017",
+      "url": "https://twitter.com/LT_FM/1395248986710102017",
+      "user": "LT_FM",
+      "sentiment": 0.3875
+    },
+    {
+      "id": "1395249543239798786",
+      "url": "https://twitter.com/KremlinKristof1/1395249543239798786",
+      "user": "KremlinKristof1",
+      "sentiment": -0.7506
+    },
+    {
+      "id": "1395247101844496384",
+      "url": "https://twitter.com/BidensHryLegs/1395247101844496384",
+      "user": "BidensHryLegs",
+      "sentiment": 0.0772
+    },
+    {
+      "id": "1395246118477434880",
+      "url": "https://twitter.com/ProudLiberal687/1395246118477434880",
+      "user": "ProudLiberal687",
+      "sentiment": -0.5423
+    },
+    {
+      "id": "1395248699576619009",
+      "url": "https://twitter.com/Corumos/1395248699576619009",
+      "user": "Corumos",
+      "sentiment": 0.4168
+    },
+    {
+      "id": "1395246332466450442",
+      "url": "https://twitter.com/LT_FM/1395246332466450442",
+      "user": "LT_FM",
+      "sentiment": -0.6486
+    },
+    {
+      "id": "1395247980609953794",
+      "url": "https://twitter.com/Starbies4/1395247980609953794",
+      "user": "Starbies4",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395245806458839040",
+      "url": "https://twitter.com/dbcooper19941/1395245806458839040",
+      "user": "dbcooper19941",
+      "sentiment": -0.016
+    },
+    {
+      "id": "1395247949299412993",
+      "url": "https://twitter.com/KremlinKristof1/1395247949299412993",
+      "user": "KremlinKristof1",
+      "sentiment": -0.9136
+    },
+    {
+      "id": "1395247417168105472",
+      "url": "https://twitter.com/iveryyyyy/1395247417168105472",
+      "user": "iveryyyyy",
+      "sentiment": -0.5574
+    },
+    {
+      "id": "1395246507234836486",
+      "url": "https://twitter.com/ProudLiberal687/1395246507234836486",
+      "user": "ProudLiberal687",
+      "sentiment": 0.7281
+    },
+    {
+      "id": "1395247437980200960",
+      "url": "https://twitter.com/BidensHryLegs/1395247437980200960",
+      "user": "BidensHryLegs",
+      "sentiment": -0.5719
+    },
+    {
+      "id": "1395247275736133636",
+      "url": "https://twitter.com/JVarCont2/1395247275736133636",
+      "user": "JVarCont2",
+      "sentiment": 0.3182
+    },
+    {
+      "id": "1395246980343894018",
+      "url": "https://twitter.com/AIOverlord777/1395246980343894018",
+      "user": "AIOverlord777",
+      "sentiment": -0.0165
+    },
+    {
+      "id": "1395246929974497287",
+      "url": "https://twitter.com/KremlinKristof1/1395246929974497287",
+      "user": "KremlinKristof1",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395246768514867202",
+      "url": "https://twitter.com/ProudLiberal687/1395246768514867202",
+      "user": "ProudLiberal687",
+      "sentiment": -0.6908
+    },
+    {
+      "id": "1395246742564605952",
+      "url": "https://twitter.com/_MNmisfit/1395246742564605952",
+      "user": "_MNmisfit",
+      "sentiment": -0.6124
+    },
+    {
+      "id": "1395246037313286146",
+      "url": "https://twitter.com/BidensHryLegs/1395246037313286146",
+      "user": "BidensHryLegs",
+      "sentiment": -0.5267
+    },
+    {
+      "id": "1395246424590147588",
+      "url": "https://twitter.com/Dorktanian/1395246424590147588",
+      "user": "Dorktanian",
+      "sentiment": -0.2495
+    },
+    {
+      "id": "1395245760006983686",
+      "url": "https://twitter.com/ProudLiberal687/1395245760006983686",
+      "user": "ProudLiberal687",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395245532587700224",
+      "url": "https://twitter.com/Corumos/1395245532587700224",
+      "user": "Corumos",
+      "sentiment": -0.7184
+    },
+    {
+      "id": "1395246039032995840",
+      "url": "https://twitter.com/killfile/1395246039032995840",
+      "user": "killfile",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395245584227831810",
+      "url": "https://twitter.com/LT_FM/1395245584227831810",
+      "user": "LT_FM",
+      "sentiment": -0.296
+    },
+    {
+      "id": "1395245652762759172",
+      "url": "https://twitter.com/Vox_Incognitus/1395245652762759172",
+      "user": "Vox_Incognitus",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1398451886609649664",
+      "1395245262126391296"
+    ],
+    [
+      "1395460786458296320",
+      "1395411062095323144"
+    ],
+    [
+      "1397252509731893249",
+      "1395460786458296320"
+    ],
+    [
+      "1397235893321228288",
+      "1395389864758108170"
+    ],
+    [
+      "1397236216815292421",
+      "1397235893321228288"
+    ],
+    [
+      "1395389864758108170",
+      "1395245262126391296"
+    ],
+    [
+      "1395315062500433920",
+      "1395245262126391296"
+    ],
+    [
+      "1397235735208603655",
+      "1395315062500433920"
+    ],
+    [
+      "1397234442863796225",
+      "1395255236994822144"
+    ],
+    [
+      "1397235308119347207",
+      "1397234442863796225"
+    ],
+    [
+      "1395245821419917314",
+      "1395245262126391296"
+    ],
+    [
+      "1397235060345131011",
+      "1395245821419917314"
+    ],
+    [
+      "1397234937875533839",
+      "1395389544820879361"
+    ],
+    [
+      "1395255236994822144",
+      "1395245742353231875"
+    ],
+    [
+      "1396636470371307521",
+      "1395245262126391296"
+    ],
+    [
+      "1395496770361335809",
+      "1395402264769093634"
+    ],
+    [
+      "1396532906764521472",
+      "1395496770361335809"
+    ],
+    [
+      "1396455030283247625",
+      "1395245262126391296"
+    ],
+    [
+      "1396308883451355136",
+      "1395245262126391296"
+    ],
+    [
+      "1396037999390085120",
+      "1395396912098856962"
+    ],
+    [
+      "1396076392526254082",
+      "1396037999390085120"
+    ],
+    [
+      "1395396912098856962",
+      "1395396607835873286"
+    ],
+    [
+      "1396036785935986689",
+      "1395396912098856962"
+    ],
+    [
+      "1396035759510114307",
+      "1395396912098856962"
+    ],
+    [
+      "1395266483870003200",
+      "1395245874750660610"
+    ],
+    [
+      "1395783371545092102",
+      "1395266483870003200"
+    ],
+    [
+      "1395521343555256324",
+      "1395245262126391296"
+    ],
+    [
+      "1395392858954387460",
+      "1395382738539143168"
+    ],
+    [
+      "1395508448926879750",
+      "1395392858954387460"
+    ],
+    [
+      "1395498022843322379",
+      "1395405024717688832"
+    ],
+    [
+      "1395506422985728002",
+      "1395498022843322379"
+    ],
+    [
+      "1395502399935193089",
+      "1395356047552942087"
+    ],
+    [
+      "1395500119408136198",
+      "1395451584839049221"
+    ],
+    [
+      "1395502373297168386",
+      "1395500119408136198"
+    ],
+    [
+      "1395500553212416003",
+      "1395414529991925764"
+    ],
+    [
+      "1395451584839049221",
+      "1395345491676827655"
+    ],
+    [
+      "1395499846023397377",
+      "1395376982666395649"
+    ],
+    [
+      "1395380234502000641",
+      "1395345491676827655"
+    ],
+    [
+      "1395499627454115847",
+      "1395380234502000641"
+    ],
+    [
+      "1395498388293095427",
+      "1395407771529629696"
+    ],
+    [
+      "1395499414958002182",
+      "1395498388293095427"
+    ],
+    [
+      "1395499410352742401",
+      "1395381809622384641"
+    ],
+    [
+      "1395364000901345280",
+      "1395345491676827655"
+    ],
+    [
+      "1395498476985794564",
+      "1395364000901345280"
+    ],
+    [
+      "1395407771529629696",
+      "1395345491676827655"
+    ],
+    [
+      "1395464545880219658",
+      "1395463840356192257"
+    ],
+    [
+      "1395498283997401091",
+      "1395464545880219658"
+    ],
+    [
+      "1395460549874315264",
+      "1395345491676827655"
+    ],
+    [
+      "1395498182159880193",
+      "1395460549874315264"
+    ],
+    [
+      "1395405024717688832",
+      "1395345491676827655"
+    ],
+    [
+      "1395363918529318912",
+      "1395345491676827655"
+    ],
+    [
+      "1395497914445742092",
+      "1395363918529318912"
+    ],
+    [
+      "1395372746637410312",
+      "1395345491676827655"
+    ],
+    [
+      "1395497548606058500",
+      "1395372746637410312"
+    ],
+    [
+      "1395479263835410435",
+      "1395345491676827655"
+    ],
+    [
+      "1395497410022068233",
+      "1395479263835410435"
+    ],
+    [
+      "1395402264769093634",
+      "1395345491676827655"
+    ],
+    [
+      "1395467267706654722",
+      "1395345491676827655"
+    ],
+    [
+      "1395496266268913665",
+      "1395467267706654722"
+    ],
+    [
+      "1395398591238139906",
+      "1395396166339100672"
+    ],
+    [
+      "1395492782534316033",
+      "1395398591238139906"
+    ],
+    [
+      "1395481565724041219",
+      "1395480609087131651"
+    ],
+    [
+      "1395491770323009536",
+      "1395481565724041219"
+    ],
+    [
+      "1395483938362204162",
+      "1395481112059682819"
+    ],
+    [
+      "1395484815432962051",
+      "1395483938362204162"
+    ],
+    [
+      "1395481112059682819",
+      "1395480821138591744"
+    ],
+    [
+      "1395401383436640258",
+      "1395254685498372096"
+    ],
+    [
+      "1395481586875846657",
+      "1395401383436640258"
+    ],
+    [
+      "1395480609087131651",
+      "1395480255381614598"
+    ],
+    [
+      "1395480821138591744",
+      "1395479256793296901"
+    ],
+    [
+      "1395479256793296901",
+      "1395463300788457477"
+    ],
+    [
+      "1395480255381614598",
+      "1395478663253139461"
+    ],
+    [
+      "1395480466543632384",
+      "1395364000901345280"
+    ],
+    [
+      "1395478663253139461",
+      "1395478355420528642"
+    ],
+    [
+      "1395466146896297990",
+      "1395465279497555969"
+    ],
+    [
+      "1395479986753064973",
+      "1395466146896297990"
+    ],
+    [
+      "1395479655881261058",
+      "1395479256793296901"
+    ],
+    [
+      "1395345491676827655",
+      "1395245262126391296"
+    ],
+    [
+      "1395478355420528642",
+      "1395463300788457477"
+    ],
+    [
+      "1395289906755391488",
+      "1395251252494176258"
+    ],
+    [
+      "1395475422574379010",
+      "1395289906755391488"
+    ],
+    [
+      "1395465279497555969",
+      "1395463300788457477"
+    ],
+    [
+      "1395463840356192257",
+      "1395290109889630208"
+    ],
+    [
+      "1395290109889630208",
+      "1395250864537800707"
+    ],
+    [
+      "1395411062095323144",
+      "1395245262126391296"
+    ],
+    [
+      "1395400666403807237",
+      "1395397562459426818"
+    ],
+    [
+      "1395453089046405120",
+      "1395400666403807237"
+    ],
+    [
+      "1395452923895685121",
+      "1395397562459426818"
+    ],
+    [
+      "1395373060975468545",
+      "1395320983100198912"
+    ],
+    [
+      "1395423862762975235",
+      "1395373060975468545"
+    ],
+    [
+      "1395423191997292545",
+      "1395354785604325378"
+    ],
+    [
+      "1395414888760102914",
+      "1395245262126391296"
+    ],
+    [
+      "1395415965899309058",
+      "1395414888760102914"
+    ],
+    [
+      "1395413708394962954",
+      "1395345491676827655"
+    ],
+    [
+      "1395408922836496386",
+      "1395245262126391296"
+    ],
+    [
+      "1395405889864028160",
+      "1395245262126391296"
+    ],
+    [
+      "1395405325432500226",
+      "1395245262126391296"
+    ],
+    [
+      "1395403845790994438",
+      "1395245262126391296"
+    ],
+    [
+      "1395249686806597634",
+      "1395246846621061129"
+    ],
+    [
+      "1395402759025876999",
+      "1395249686806597634"
+    ],
+    [
+      "1395254685498372096",
+      "1395250999523119104"
+    ],
+    [
+      "1395396166339100672",
+      "1395395296503468034"
+    ],
+    [
+      "1395398068376379398",
+      "1395245262126391296"
+    ],
+    [
+      "1395396607835873286",
+      "1395395321857937410"
+    ],
+    [
+      "1395395321857937410",
+      "1395394475678109707"
+    ],
+    [
+      "1395395296503468034",
+      "1395366246024060940"
+    ],
+    [
+      "1395394475678109707",
+      "1395378173282447361"
+    ],
+    [
+      "1395366246024060940",
+      "1395365400226017280"
+    ],
+    [
+      "1395378173282447361",
+      "1395377809296560132"
+    ],
+    [
+      "1395382738539143168",
+      "1395366730772492295"
+    ],
+    [
+      "1395389543759728646",
+      "1395249686806597634"
+    ],
+    [
+      "1395389317497999366",
+      "1395345491676827655"
+    ],
+    [
+      "1395386255131648001",
+      "1395245262126391296"
+    ],
+    [
+      "1395386202983997447",
+      "1395245262126391296"
+    ],
+    [
+      "1395385603487936517",
+      "1395345491676827655"
+    ],
+    [
+      "1395366730772492295",
+      "1395349506095554568"
+    ],
+    [
+      "1395380964461846528",
+      "1395366730772492295"
+    ],
+    [
+      "1395377544627736580",
+      "1395277477451386880"
+    ],
+    [
+      "1395379773845778432",
+      "1395377544627736580"
+    ],
+    [
+      "1395303532580966401",
+      "1395245262126391296"
+    ],
+    [
+      "1395379430135042048",
+      "1395303532580966401"
+    ],
+    [
+      "1395378768403963904",
+      "1395314894011043841"
+    ],
+    [
+      "1395377809296560132",
+      "1395377312657547264"
+    ],
+    [
+      "1395377312657547264",
+      "1395375276268326915"
+    ],
+    [
+      "1395277477451386880",
+      "1395246181421174784"
+    ],
+    [
+      "1395375276268326915",
+      "1395373892995276801"
+    ],
+    [
+      "1395377281644834820",
+      "1395245262126391296"
+    ],
+    [
+      "1395377212514205701",
+      "1395245262126391296"
+    ],
+    [
+      "1395373892995276801",
+      "1395366246024060940"
+    ],
+    [
+      "1395320983100198912",
+      "1395245262126391296"
+    ],
+    [
+      "1395349506095554568",
+      "1395245262126391296"
+    ],
+    [
+      "1395365400226017280",
+      "1395317399658766339"
+    ],
+    [
+      "1395317399658766339",
+      "1395258040253919236"
+    ],
+    [
+      "1395359893046050816",
+      "1395245262126391296"
+    ],
+    [
+      "1395357696115847171",
+      "1395245262126391296"
+    ],
+    [
+      "1395354932983836679",
+      "1395245262126391296"
+    ],
+    [
+      "1395349342417035265",
+      "1395245262126391296"
+    ],
+    [
+      "1395344504090136580",
+      "1395245262126391296"
+    ],
+    [
+      "1395339731211366402",
+      "1395245262126391296"
+    ],
+    [
+      "1395338901355704322",
+      "1395245262126391296"
+    ],
+    [
+      "1395338229210038273",
+      "1395245262126391296"
+    ],
+    [
+      "1395250999523119104",
+      "1395245950344437763"
+    ],
+    [
+      "1395336161242099716",
+      "1395250999523119104"
+    ],
+    [
+      "1395329950962569226",
+      "1395245262126391296"
+    ],
+    [
+      "1395329530462605312",
+      "1395245262126391296"
+    ],
+    [
+      "1395320203005792256",
+      "1395245262126391296"
+    ],
+    [
+      "1395314222783893509",
+      "1395245262126391296"
+    ],
+    [
+      "1395313042456383489",
+      "1395245262126391296"
+    ],
+    [
+      "1395307928983281666",
+      "1395290109889630208"
+    ],
+    [
+      "1395288815556825088",
+      "1395258717793394688"
+    ],
+    [
+      "1395306590987821058",
+      "1395288815556825088"
+    ],
+    [
+      "1395306345226805248",
+      "1395245262126391296"
+    ],
+    [
+      "1395274692601294850",
+      "1395269108514574336"
+    ],
+    [
+      "1395294211973566464",
+      "1395274692601294850"
+    ],
+    [
+      "1395250864537800707",
+      "1395250087396356097"
+    ],
+    [
+      "1395251252494176258",
+      "1395248020476895236"
+    ],
+    [
+      "1395258717793394688",
+      "1395248020476895236"
+    ],
+    [
+      "1395286377521192962",
+      "1395245262126391296"
+    ],
+    [
+      "1395245742353231875",
+      "1395245262126391296"
+    ],
+    [
+      "1395281989264019458",
+      "1395245742353231875"
+    ],
+    [
+      "1395281444436643841",
+      "1395245262126391296"
+    ],
+    [
+      "1395246181421174784",
+      "1395245262126391296"
+    ],
+    [
+      "1395277039821807617",
+      "1395249686806597634"
+    ],
+    [
+      "1395275195238207494",
+      "1395268441754451970"
+    ],
+    [
+      "1395276271744032770",
+      "1395275195238207494"
+    ],
+    [
+      "1395275688437944321",
+      "1395249686806597634"
+    ],
+    [
+      "1395269108514574336",
+      "1395255236994822144"
+    ],
+    [
+      "1395273800451772416",
+      "1395245262126391296"
+    ],
+    [
+      "1395270520023646208",
+      "1395245262126391296"
+    ],
+    [
+      "1395268804289212417",
+      "1395249686806597634"
+    ],
+    [
+      "1395268170487844867",
+      "1395245262126391296"
+    ],
+    [
+      "1395245874750660610",
+      "1395245584227831810"
+    ],
+    [
+      "1395262802936406021",
+      "1395245262126391296"
+    ],
+    [
+      "1395259680482594816",
+      "1395245262126391296"
+    ],
+    [
+      "1395248637777641472",
+      "1395245262126391296"
+    ],
+    [
+      "1395259038351376385",
+      "1395248637777641472"
+    ],
+    [
+      "1395248020476895236",
+      "1395246332466450442"
+    ],
+    [
+      "1395256918587809792",
+      "1395245262126391296"
+    ],
+    [
+      "1395256902867554309",
+      "1395255679754047488"
+    ],
+    [
+      "1395255839502467075",
+      "1395245262126391296"
+    ],
+    [
+      "1395247816562200576",
+      "1395247417168105472"
+    ],
+    [
+      "1395254963010523138",
+      "1395247816562200576"
+    ],
+    [
+      "1395254546063110144",
+      "1395245262126391296"
+    ],
+    [
+      "1395253253340868611",
+      "1395245262126391296"
+    ],
+    [
+      "1395252614577623041",
+      "1395245262126391296"
+    ],
+    [
+      "1395247173151825921",
+      "1395245262126391296"
+    ],
+    [
+      "1395252470373179393",
+      "1395247173151825921"
+    ],
+    [
+      "1395249256454316034",
+      "1395247101844496384"
+    ],
+    [
+      "1395252109273034759",
+      "1395249256454316034"
+    ],
+    [
+      "1395252057930567680",
+      "1395251252494176258"
+    ],
+    [
+      "1395252000191827969",
+      "1395245262126391296"
+    ],
+    [
+      "1395251549472006148",
+      "1395245262126391296"
+    ],
+    [
+      "1395246846621061129",
+      "1395245262126391296"
+    ],
+    [
+      "1395251199784497157",
+      "1395246846621061129"
+    ],
+    [
+      "1395245950344437763",
+      "1395245262126391296"
+    ],
+    [
+      "1395250878253191169",
+      "1395245262126391296"
+    ],
+    [
+      "1395250087396356097",
+      "1395248986710102017"
+    ],
+    [
+      "1395250416703639552",
+      "1395245262126391296"
+    ],
+    [
+      "1395250219445456896",
+      "1395245262126391296"
+    ],
+    [
+      "1395248986710102017",
+      "1395248020476895236"
+    ],
+    [
+      "1395249543239798786",
+      "1395248986710102017"
+    ],
+    [
+      "1395247101844496384",
+      "1395246507234836486"
+    ],
+    [
+      "1395246118477434880",
+      "1395245532587700224"
+    ],
+    [
+      "1395248699576619009",
+      "1395246118477434880"
+    ],
+    [
+      "1395246332466450442",
+      "1395245760006983686"
+    ],
+    [
+      "1395247980609953794",
+      "1395245262126391296"
+    ],
+    [
+      "1395245806458839040",
+      "1395245262126391296"
+    ],
+    [
+      "1395247949299412993",
+      "1395245806458839040"
+    ],
+    [
+      "1395247417168105472",
+      "1395247101844496384"
+    ],
+    [
+      "1395246507234836486",
+      "1395246037313286146"
+    ],
+    [
+      "1395247437980200960",
+      "1395246507234836486"
+    ],
+    [
+      "1395247275736133636",
+      "1395245262126391296"
+    ],
+    [
+      "1395246980343894018",
+      "1395246507234836486"
+    ],
+    [
+      "1395246929974497287",
+      "1395245262126391296"
+    ],
+    [
+      "1395246768514867202",
+      "1395245262126391296"
+    ],
+    [
+      "1395246742564605952",
+      "1395245262126391296"
+    ],
+    [
+      "1395246037313286146",
+      "1395245262126391296"
+    ],
+    [
+      "1395246424590147588",
+      "1395245262126391296"
+    ],
+    [
+      "1395245760006983686",
+      "1395245584227831810"
+    ],
+    [
+      "1395245532587700224",
+      "1395245262126391296"
+    ],
+    [
+      "1395246039032995840",
+      "1395245534508691456"
+    ],
+    [
+      "1395245584227831810",
+      "1395245262126391296"
+    ],
+    [
+      "1395245652762759172",
+      "1395245262126391296"
+    ]
+  ]
+}

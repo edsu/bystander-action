@@ -1,0 +1,112 @@
+{
+  "nodes": [
+    {
+      "id": "gw56o9o",
+      "url": "https://www.reddit.com/r/SeattleWA/comments/n07vzw/seattle_mayor_candidate_jessyn_farrell_calls_for/gw56o9o/",
+      "user": "speak_data_to_power",
+      "text": "Can't one make the same proposal without all the pandering buzzwords? Even people of color\u2014_especially_ people of color\u2014must think these politicians are so full of shit. Just white people filling out bingo cards on the backs of minorities they've never met.\n\nThe proposal itself seems reasonable though.",
+      "sentiment": -0.6204
+    },
+    {
+      "id": "gw5ei1v",
+      "url": "https://www.reddit.com/r/SeattleWA/comments/n07vzw/seattle_mayor_candidate_jessyn_farrell_calls_for/gw5ei1v/",
+      "user": "Mangoman777",
+      "text": "in this city I'm not sure if you can...",
+      "sentiment": -0.2411
+    },
+    {
+      "id": "gw668td",
+      "url": "https://www.reddit.com/r/SeattleWA/comments/n07vzw/seattle_mayor_candidate_jessyn_farrell_calls_for/gw668td/",
+      "user": "non-member",
+      "text": "I\u2019m all for providing folks with free job training and placement, but there\u2019s no need to make it a race thing...  that\u2019s just more of the typical sleezy \u201cvote for me\u201d ethics most politicians tend to embrace and IMO is a warning NOT to vote for that person more than anything else.",
+      "sentiment": -0.2023
+    },
+    {
+      "id": "gw67y6b",
+      "url": "https://www.reddit.com/r/SeattleWA/comments/n07vzw/seattle_mayor_candidate_jessyn_farrell_calls_for/gw67y6b/",
+      "user": "Udderlypendulous",
+      "text": "A program like this already exists. It  called SYEP, Seattle youth employment program. It is more focused on poor kids in Seattle.  When I did the program there were all types of kids. This was also 20+  years ago.",
+      "sentiment": 0.2568
+    },
+    {
+      "id": "gw6ahhk",
+      "url": "https://www.reddit.com/r/SeattleWA/comments/n07vzw/seattle_mayor_candidate_jessyn_farrell_calls_for/gw6ahhk/",
+      "user": "sykoticwit",
+      "text": "She\u2019s not talking to them. She\u2019s talking to a bunch of rich white people, hence the social justice buzzwords",
+      "sentiment": 0.7906
+    },
+    {
+      "id": "gw6jnlh",
+      "url": "https://www.reddit.com/r/SeattleWA/comments/n07vzw/seattle_mayor_candidate_jessyn_farrell_calls_for/gw6jnlh/",
+      "user": "OsvuldMandius",
+      "text": "Yeah, let's re-institutionalize political patronage!  Jobs for votes!  Let's show those historical losers at Tammany Hall how it's \\_really\\_ done!",
+      "sentiment": -0.4724
+    },
+    {
+      "id": "gw7zknm",
+      "url": "https://www.reddit.com/r/SeattleWA/comments/n07vzw/seattle_mayor_candidate_jessyn_farrell_calls_for/gw7zknm/",
+      "user": "Welshy141",
+      "text": "Absolutely astounding that the city is already bending over and throwing millions of dollars at 7% of the population, but some people think \"we just need a little bit more!\"",
+      "sentiment": 0.3266
+    },
+    {
+      "id": "gw8amf7",
+      "url": "https://www.reddit.com/r/SeattleWA/comments/n07vzw/seattle_mayor_candidate_jessyn_farrell_calls_for/gw8amf7/",
+      "user": "Le_ciel_dore",
+      "text": "That 7% of the population doesn\u2019t really matter to them. The real people they are pandering to are the wealthy liberal donors who want to absolve themselves of their wealth guilt by pushing policies and narratives that will have no impact on them but disproportionately impact the middle and lower classes. Look at how all that liberal wealth ruined KUOW, Crosscut, etc. By pushing racist narratives they get to distract from the fact they have too much money.",
+      "sentiment": -0.852
+    },
+    {
+      "id": "gw8duwm",
+      "url": "https://www.reddit.com/r/SeattleWA/comments/n07vzw/seattle_mayor_candidate_jessyn_farrell_calls_for/gw8duwm/",
+      "user": "Welshy141",
+      "text": "Yep, and often they *happen* to be the ones receiving a lot of those funds...",
+      "sentiment": 0.296
+    },
+    {
+      "id": "n07vzw",
+      "url": "https://www.reddit.com/r/SeattleWA/comments/n07vzw/seattle_mayor_candidate_jessyn_farrell_calls_for/",
+      "user": "edmundvon",
+      "text": "",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "gw56o9o",
+      "n07vzw"
+    ],
+    [
+      "gw5ei1v",
+      "gw56o9o"
+    ],
+    [
+      "gw668td",
+      "n07vzw"
+    ],
+    [
+      "gw67y6b",
+      "n07vzw"
+    ],
+    [
+      "gw6ahhk",
+      "gw56o9o"
+    ],
+    [
+      "gw6jnlh",
+      "n07vzw"
+    ],
+    [
+      "gw7zknm",
+      "n07vzw"
+    ],
+    [
+      "gw8amf7",
+      "gw7zknm"
+    ],
+    [
+      "gw8duwm",
+      "gw8amf7"
+    ]
+  ]
+}

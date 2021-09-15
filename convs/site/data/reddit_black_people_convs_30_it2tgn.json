@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "g5bxna7",
+      "url": "https://www.reddit.com/r/ShitLiberalsSay/comments/it2tgn/blaming_black_people_for_climate_change_is/g5bxna7/",
+      "user": "transcriber_mu",
+      "text": "*Image Transcription: YouTube Comment*\n\n---\n\n*Shadow Croix*:\n\nToo bad we're all going to die thanks to BLM getting Donald Trump re-elected at such a crucial time to turn around climate change. Now we're just going to end up another Venus.\n\n[*This comment has 2 likes.*]\n\n---\n\n^^I'm&amp;#32;a&amp;#32;human&amp;#32;volunteer&amp;#32;content&amp;#32;transcriber&amp;#32;for&amp;#32;Reddit&amp;#32;and&amp;#32;you&amp;#32;could&amp;#32;be&amp;#32;too!&amp;#32;[If&amp;#32;you'd&amp;#32;like&amp;#32;more&amp;#32;information&amp;#32;on&amp;#32;what&amp;#32;we&amp;#32;do&amp;#32;and&amp;#32;why&amp;#32;we&amp;#32;do&amp;#32;it,&amp;#32;click&amp;#32;here!](https://www.reddit.com/r/TranscribersOfReddit/wiki/index)",
+      "sentiment": -0.508
+    },
+    {
+      "id": "g5bzmye",
+      "url": "https://www.reddit.com/r/ShitLiberalsSay/comments/it2tgn/blaming_black_people_for_climate_change_is/g5bzmye/",
+      "user": "[deleted]",
+      "text": "[removed]",
+      "sentiment": 0.0
+    },
+    {
+      "id": "g5cl8yi",
+      "url": "https://www.reddit.com/r/ShitLiberalsSay/comments/it2tgn/blaming_black_people_for_climate_change_is/g5cl8yi/",
+      "user": "ssjtito",
+      "text": "hey now, they say there might be life on Venus, so that's a pretty optimistic outlook.",
+      "sentiment": 0.6969
+    },
+    {
+      "id": "g5cnwez",
+      "url": "https://www.reddit.com/r/ShitLiberalsSay/comments/it2tgn/blaming_black_people_for_climate_change_is/g5cnwez/",
+      "user": "Anakin_I_Am_High",
+      "text": "Darn black people wanting equality! You\u2019re helping trump!",
+      "sentiment": 0.4184
+    },
+    {
+      "id": "g5d1cyp",
+      "url": "https://www.reddit.com/r/ShitLiberalsSay/comments/it2tgn/blaming_black_people_for_climate_change_is/g5d1cyp/",
+      "user": "Victoriaaaaaa1",
+      "text": "Those are called \u201ceco-fascists\u201d",
+      "sentiment": 0.0
+    },
+    {
+      "id": "g5d50gw",
+      "url": "https://www.reddit.com/r/ShitLiberalsSay/comments/it2tgn/blaming_black_people_for_climate_change_is/g5d50gw/",
+      "user": "CCCommunist",
+      "text": "Imagine thinking Biden will do absolute jack shit about climate-change.",
+      "sentiment": -0.5574
+    },
+    {
+      "id": "g5dkqgk",
+      "url": "https://www.reddit.com/r/ShitLiberalsSay/comments/it2tgn/blaming_black_people_for_climate_change_is/g5dkqgk/",
+      "user": "MurderSuicideNChill",
+      "text": "The green new deal is entirely insufficient to make an impact, and it's considered beyond the pale of acceptable policy. \n\nThey won't even put ending fossil fuel subsidies on their platform, which is like less than the bare minimum, lol.",
+      "sentiment": 0.765
+    },
+    {
+      "id": "it2tgn",
+      "url": "https://www.reddit.com/r/ShitLiberalsSay/comments/it2tgn/blaming_black_people_for_climate_change_is/",
+      "user": "yuritopiaposadism",
+      "text": "",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "g5bxna7",
+      "it2tgn"
+    ],
+    [
+      "g5bzmye",
+      "it2tgn"
+    ],
+    [
+      "g5cl8yi",
+      "it2tgn"
+    ],
+    [
+      "g5cnwez",
+      "it2tgn"
+    ],
+    [
+      "g5d1cyp",
+      "it2tgn"
+    ],
+    [
+      "g5d50gw",
+      "it2tgn"
+    ],
+    [
+      "g5dkqgk",
+      "g5d50gw"
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "1291367831011983362",
+      "url": "https://twitter.com/thesouthernmade/1291367831011983362",
+      "user": "thesouthernmade",
+      "sentiment": -0.6249
+    },
+    {
+      "id": "1291833530343989249",
+      "url": "https://twitter.com/thesouthernmade/1291833530343989249",
+      "user": "thesouthernmade",
+      "sentiment": 0.2617
+    },
+    {
+      "id": "1291088469461278720",
+      "url": "https://twitter.com/thesouthernmade/1291088469461278720",
+      "user": "thesouthernmade",
+      "sentiment": 0.4588
+    }
+  ],
+  "edges": [
+    [
+      "1291367831011983362",
+      "1291088469461278720"
+    ],
+    [
+      "1291833530343989249",
+      "1291367831011983362"
+    ]
+  ]
+}

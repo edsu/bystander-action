@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "1306557445561614337",
+      "url": "https://twitter.com/Alt_HoCoSchools/status/1306557445561614337",
+      "user": "Alt_HoCoSchools",
+      "text": "@HoCoGovExec @HCPSS Has virtual leaning stopped up the school to prison pipeline?",
+      "sentiment": -0.6369
+    },
+    {
+      "id": "1306717538085154817",
+      "url": "https://twitter.com/tinahorncae/status/1306717538085154817",
+      "user": "tinahorncae",
+      "text": "@Alt_HoCoSchools @HoCoGovExec @HCPSS I\u2019m guessing that it\u2019s too early to see from the data, but I think that\u2019ll be a good question. This gives me pause. https://t.co/zz19H9rrH3",
+      "sentiment": 0.5927
+    },
+    {
+      "id": "1306284450209099777",
+      "url": "https://twitter.com/HoCoGovExec/status/1306284450209099777",
+      "user": "HoCoGovExec",
+      "text": "The well-being and safety of our students, staff and school community is our number one priority and any decision will be made with that priority in mind.\\n\\nPlease read our joint statement with @HCPSS &amp; Board of Education Chair Mavis Ellis regarding SROs.\\n\\nhttps://t.co/Qyp3bPCpkz https://t.co/f6UtpHlGVz",
+      "sentiment": 0.4767
+    },
+    {
+      "id": "1306293446399885325",
+      "url": "https://twitter.com/mrxxxxxxx1776/status/1306293446399885325",
+      "user": "mrxxxxxxx1776",
+      "text": "@HoCoGovExec @HCPSS A very small number want SROs removed, stop acting like there is some huge opposition.  Let me guess, SROs are racist?  You and your progressive racist democrat friends are a joke.",
+      "sentiment": 0.0109
+    }
+  ],
+  "edges": [
+    [
+      "1306557445561614337",
+      "1306284450209099777"
+    ],
+    [
+      "1306717538085154817",
+      "1306557445561614337"
+    ],
+    [
+      "1306293446399885325",
+      "1306284450209099777"
+    ]
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "id": "1396950151898533890",
+      "url": "https://twitter.com/HuffPost/status/1396950151898533890",
+      "user": "HuffPost",
+      "text": "Floyd\u2019s family gathered with activists, citizens and others who have lost loved ones to police brutality for a rally. https://t.co/J1UzEvXJ9x",
+      "sentiment": -0.34
+    },
+    {
+      "id": "1397137240220917764",
+      "url": "https://twitter.com/leedodington/status/1397137240220917764",
+      "user": "leedodington",
+      "text": "@HuffPost Drug dealing thug George died of Fentanyl at the scene  https://t.co/gIzVVGknGk",
+      "sentiment": -0.5574
+    },
+    {
+      "id": "1397107231485829123",
+      "url": "https://twitter.com/bolton2021/status/1397107231485829123",
+      "user": "bolton2021",
+      "text": "@HuffPost He was a criminal and you want justice is actually funny",
+      "sentiment": 0.4939
+    },
+    {
+      "id": "1397060758362488832",
+      "url": "https://twitter.com/MrAndyNgo/status/1397060758362488832",
+      "user": "MrAndyNgo",
+      "text": "People jump on and damage an occupied police vehicle in St. Louis, Mo. https://t.co/UDLmWjYa84",
+      "sentiment": -0.4939
+    },
+    {
+      "id": "1397100859482333186",
+      "url": "https://twitter.com/erica4ou/status/1397100859482333186",
+      "user": "erica4ou",
+      "text": "@HuffPost Yeah, they seem terrified \ud83d\udc47\\n\\nhttps://t.co/l69saKGVAM",
+      "sentiment": -0.4215
+    },
+    {
+      "id": "1396953722262106114",
+      "url": "https://twitter.com/nicmichelakos1/status/1396953722262106114",
+      "user": "nicmichelakos1",
+      "text": "@HuffPost African Americans need to stop playing the victim since slavery ended 1865. Many African Americans have succeeded and are succeeding in every walk of life and every sector of U.S. society.",
+      "sentiment": -0.3182
+    },
+    {
+      "id": "1396951217067134979",
+      "url": "https://twitter.com/door2theknown/status/1396951217067134979",
+      "user": "door2theknown",
+      "text": "@HuffPost @huffpost fails to remind readers that more people have lost loved ones to criminals than police brutality.",
+      "sentiment": -0.8467
+    },
+    {
+      "id": "1396950773385383945",
+      "url": "https://twitter.com/Sir_loin81/status/1396950773385383945",
+      "user": "Sir_loin81",
+      "text": "@HuffPost Was that pregnant lady Jr. beat and robbed there?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396950632452345857",
+      "url": "https://twitter.com/JamesPoirierNYC/status/1396950632452345857",
+      "user": "JamesPoirierNYC",
+      "text": "@HuffPost The 28th Amendment will abolish police patrols by legally limiting cops\u2019 power of arrest to 9|11 phone call complaints\\n\\nCellphones outnumber police officers 408-to-1 in America\\n\\nNostradamus wrote the word \u201cPhoenix\u201d 466 years ago",
+      "sentiment": -0.25
+    }
+  ],
+  "edges": [
+    [
+      "1397137240220917764",
+      "1396950151898533890"
+    ],
+    [
+      "1397107231485829123",
+      "1396950151898533890"
+    ],
+    [
+      "1397100859482333186",
+      "1396950151898533890"
+    ],
+    [
+      "1396953722262106114",
+      "1396950151898533890"
+    ],
+    [
+      "1396951217067134979",
+      "1396950151898533890"
+    ],
+    [
+      "1396950773385383945",
+      "1396950151898533890"
+    ],
+    [
+      "1396950632452345857",
+      "1396950151898533890"
+    ]
+  ]
+}

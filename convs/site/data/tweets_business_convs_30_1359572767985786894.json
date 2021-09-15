@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1359572767985786894",
+      "url": "https://twitter.com/_NjabuloMkhize/status/1359572767985786894",
+      "user": "_NjabuloMkhize",
+      "text": "@Mk3Tebz promote black business \ud83d\ude02 https://t.co/qX6ynCVbDv",
+      "sentiment": 0.6705
+    },
+    {
+      "id": "1359651428646682626",
+      "url": "https://twitter.com/anthonyleneage/status/1359651428646682626",
+      "user": "anthonyleneage",
+      "text": "@_NjabuloMkhize @jaybug1313 @Mk3Tebz \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+      "sentiment": 0.8271
+    },
+    {
+      "id": "1359590036312850435",
+      "url": "https://twitter.com/jaybug1313/status/1359590036312850435",
+      "user": "jaybug1313",
+      "text": "@_NjabuloMkhize @Mk3Tebz \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+      "sentiment": 0.8271
+    }
+  ],
+  "edges": [
+    [
+      "1359651428646682626",
+      "1359572767985786894"
+    ],
+    [
+      "1359590036312850435",
+      "1359572767985786894"
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1390352739020984321",
+      "url": "https://twitter.com/nathanpboston/status/1390352739020984321",
+      "user": "nathanpboston",
+      "text": "CW: angry wanton police brutality https://t.co/5wr20ERyYX",
+      "sentiment": -0.8074
+    },
+    {
+      "id": "1390355888481910788",
+      "url": "https://twitter.com/0htheguilt/status/1390355888481910788",
+      "user": "0htheguilt",
+      "text": "@nathanpboston WTH, that was over the biker \"running a red light.\" You just cannot reform this attitude and entitlement.",
+      "sentiment": -0.6289
+    }
+  ],
+  "edges": [
+    [
+      "1390355888481910788",
+      "1390352739020984321"
+    ]
+  ]
+}

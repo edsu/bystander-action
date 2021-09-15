@@ -1,0 +1,714 @@
+{
+  "nodes": [
+    {
+      "id": "1396876943572697092",
+      "url": "https://twitter.com/FreeBlckThought/1396876943572697092",
+      "user": "FreeBlckThought",
+      "sentiment": -0.9332
+    },
+    {
+      "id": "1400098339840987137",
+      "url": "https://twitter.com/JustTeressa/1400098339840987137",
+      "user": "JustTeressa",
+      "sentiment": 0.128
+    },
+    {
+      "id": "1399083613971382273",
+      "url": "https://twitter.com/jeoncenap/1399083613971382273",
+      "user": "jeoncenap",
+      "sentiment": -0.5859
+    },
+    {
+      "id": "1399084551742234625",
+      "url": "https://twitter.com/jeoncenap/1399084551742234625",
+      "user": "jeoncenap",
+      "sentiment": 0.7783
+    },
+    {
+      "id": "1396876945271394306",
+      "url": "https://twitter.com/FreeBlckThought/1396876945271394306",
+      "user": "FreeBlckThought",
+      "sentiment": 0.6597
+    },
+    {
+      "id": "1397280567151013892",
+      "url": "https://twitter.com/markjburton2/1397280567151013892",
+      "user": "markjburton2",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1397246690579595264",
+      "url": "https://twitter.com/ReturnVoltaire/1397246690579595264",
+      "user": "ReturnVoltaire",
+      "sentiment": 0.1655
+    },
+    {
+      "id": "1397247094004633604",
+      "url": "https://twitter.com/arthurwatkins/1397247094004633604",
+      "user": "arthurwatkins",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1397218826564079621",
+      "url": "https://twitter.com/arthurwatkins/1397218826564079621",
+      "user": "arthurwatkins",
+      "sentiment": -0.8225
+    },
+    {
+      "id": "1397225160634155010",
+      "url": "https://twitter.com/wayne01692557/1397225160634155010",
+      "user": "wayne01692557",
+      "sentiment": 0.7351
+    },
+    {
+      "id": "1397217078747312133",
+      "url": "https://twitter.com/ReturnVoltaire/1397217078747312133",
+      "user": "ReturnVoltaire",
+      "sentiment": 0.6652
+    },
+    {
+      "id": "1397216557193904128",
+      "url": "https://twitter.com/ReturnVoltaire/1397216557193904128",
+      "user": "ReturnVoltaire",
+      "sentiment": -0.5423
+    },
+    {
+      "id": "1397217142697824256",
+      "url": "https://twitter.com/arthurwatkins/1397217142697824256",
+      "user": "arthurwatkins",
+      "sentiment": 0.3252
+    },
+    {
+      "id": "1397186468083294212",
+      "url": "https://twitter.com/arthurwatkins/1397186468083294212",
+      "user": "arthurwatkins",
+      "sentiment": -0.0516
+    },
+    {
+      "id": "1397151574108082176",
+      "url": "https://twitter.com/ReturnVoltaire/1397151574108082176",
+      "user": "ReturnVoltaire",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1397184152764665859",
+      "url": "https://twitter.com/BermudaGulag/1397184152764665859",
+      "user": "BermudaGulag",
+      "sentiment": -0.7311
+    },
+    {
+      "id": "1397181000984121348",
+      "url": "https://twitter.com/CeciliaRJones/1397181000984121348",
+      "user": "CeciliaRJones",
+      "sentiment": -0.945
+    },
+    {
+      "id": "1397162368006770688",
+      "url": "https://twitter.com/JoeMackmack/1397162368006770688",
+      "user": "JoeMackmack",
+      "sentiment": -0.4459
+    },
+    {
+      "id": "1396888808977690625",
+      "url": "https://twitter.com/FreeBlckThought/1396888808977690625",
+      "user": "FreeBlckThought",
+      "sentiment": 0.0276
+    },
+    {
+      "id": "1397151850529447946",
+      "url": "https://twitter.com/ReturnVoltaire/1397151850529447946",
+      "user": "ReturnVoltaire",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396880214454636546",
+      "url": "https://twitter.com/arthurwatkins/1396880214454636546",
+      "user": "arthurwatkins",
+      "sentiment": 0.4215
+    },
+    {
+      "id": "1397055931108585477",
+      "url": "https://twitter.com/lattes3000/1397055931108585477",
+      "user": "lattes3000",
+      "sentiment": 0.7964
+    },
+    {
+      "id": "1397056184708788225",
+      "url": "https://twitter.com/FreeBlckThought/1397056184708788225",
+      "user": "FreeBlckThought",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "1397050403670282244",
+      "url": "https://twitter.com/FreeBlckThought/1397050403670282244",
+      "user": "FreeBlckThought",
+      "sentiment": 0.2023
+    },
+    {
+      "id": "1397051784099602433",
+      "url": "https://twitter.com/FreeBlckThought/1397051784099602433",
+      "user": "FreeBlckThought",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1397055767270678534",
+      "url": "https://twitter.com/lattes3000/1397055767270678534",
+      "user": "lattes3000",
+      "sentiment": 0.9158
+    },
+    {
+      "id": "1397051729133273091",
+      "url": "https://twitter.com/FreeBlckThought/1397051729133273091",
+      "user": "FreeBlckThought",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1397051545796026374",
+      "url": "https://twitter.com/FreeBlckThought/1397051545796026374",
+      "user": "FreeBlckThought",
+      "sentiment": -0.0258
+    },
+    {
+      "id": "1397051423725015044",
+      "url": "https://twitter.com/FreeBlckThought/1397051423725015044",
+      "user": "FreeBlckThought",
+      "sentiment": -0.5559
+    },
+    {
+      "id": "1397051313981067268",
+      "url": "https://twitter.com/FreeBlckThought/1397051313981067268",
+      "user": "FreeBlckThought",
+      "sentiment": -0.8074
+    },
+    {
+      "id": "1397051151581732865",
+      "url": "https://twitter.com/FreeBlckThought/1397051151581732865",
+      "user": "FreeBlckThought",
+      "sentiment": -0.25
+    },
+    {
+      "id": "1397051055502811137",
+      "url": "https://twitter.com/FreeBlckThought/1397051055502811137",
+      "user": "FreeBlckThought",
+      "sentiment": -0.9295
+    },
+    {
+      "id": "1397050872073392128",
+      "url": "https://twitter.com/FreeBlckThought/1397050872073392128",
+      "user": "FreeBlckThought",
+      "sentiment": 0.4215
+    },
+    {
+      "id": "1397050752300851200",
+      "url": "https://twitter.com/FreeBlckThought/1397050752300851200",
+      "user": "FreeBlckThought",
+      "sentiment": -0.0258
+    },
+    {
+      "id": "1397050639046242308",
+      "url": "https://twitter.com/FreeBlckThought/1397050639046242308",
+      "user": "FreeBlckThought",
+      "sentiment": 0.9436
+    },
+    {
+      "id": "1397050519902773248",
+      "url": "https://twitter.com/FreeBlckThought/1397050519902773248",
+      "user": "FreeBlckThought",
+      "sentiment": 0.1531
+    },
+    {
+      "id": "1397033753722036226",
+      "url": "https://twitter.com/lattes3000/1397033753722036226",
+      "user": "lattes3000",
+      "sentiment": -0.0772
+    },
+    {
+      "id": "1397045304390684674",
+      "url": "https://twitter.com/Charles06656619/1397045304390684674",
+      "user": "Charles06656619",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1397034117854765056",
+      "url": "https://twitter.com/lattes3000/1397034117854765056",
+      "user": "lattes3000",
+      "sentiment": 0.3566
+    },
+    {
+      "id": "1396973263050399744",
+      "url": "https://twitter.com/Zachariahskylab/1396973263050399744",
+      "user": "Zachariahskylab",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1397022458935451649",
+      "url": "https://twitter.com/EricsElectrons/1397022458935451649",
+      "user": "EricsElectrons",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1397016858373545986",
+      "url": "https://twitter.com/SadiaVee/1397016858373545986",
+      "user": "SadiaVee",
+      "sentiment": 0.6124
+    },
+    {
+      "id": "1397006058493726723",
+      "url": "https://twitter.com/FCGoodness/1397006058493726723",
+      "user": "FCGoodness",
+      "sentiment": -0.4767
+    },
+    {
+      "id": "1396999982138368001",
+      "url": "https://twitter.com/FreeBlckThought/1396999982138368001",
+      "user": "FreeBlckThought",
+      "sentiment": 0.5411
+    },
+    {
+      "id": "1397005563368706052",
+      "url": "https://twitter.com/LoveIsMissn/1397005563368706052",
+      "user": "LoveIsMissn",
+      "sentiment": 0.9595
+    },
+    {
+      "id": "1396997888501297152",
+      "url": "https://twitter.com/LoveIsMissn/1396997888501297152",
+      "user": "LoveIsMissn",
+      "sentiment": 0.9652
+    },
+    {
+      "id": "1396949289524502532",
+      "url": "https://twitter.com/SPEAKTRUTHTOLIE/1396949289524502532",
+      "user": "SPEAKTRUTHTOLIE",
+      "sentiment": 0.0772
+    },
+    {
+      "id": "1396984856098320384",
+      "url": "https://twitter.com/HueMatters/1396984856098320384",
+      "user": "HueMatters",
+      "sentiment": -0.2755
+    },
+    {
+      "id": "1396982423619989508",
+      "url": "https://twitter.com/CitiBE/1396982423619989508",
+      "user": "CitiBE",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396982726805266433",
+      "url": "https://twitter.com/CitiBE/1396982726805266433",
+      "user": "CitiBE",
+      "sentiment": 0.4588
+    },
+    {
+      "id": "1379543256401375238",
+      "url": "https://twitter.com/MBK_Alliance/1379543256401375238",
+      "user": "MBK_Alliance",
+      "sentiment": -0.6249
+    },
+    {
+      "id": "1396982149962625025",
+      "url": "https://twitter.com/CitiBE/1396982149962625025",
+      "user": "CitiBE",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1283374981704044545",
+      "url": "https://twitter.com/RosaGoldensohn/1283374981704044545",
+      "user": "RosaGoldensohn",
+      "sentiment": -0.0516
+    },
+    {
+      "id": "1396978883061186563",
+      "url": "https://twitter.com/toweypat/1396978883061186563",
+      "user": "toweypat",
+      "sentiment": -0.6249
+    },
+    {
+      "id": "1396981794210156547",
+      "url": "https://twitter.com/FreeBlckThought/1396981794210156547",
+      "user": "FreeBlckThought",
+      "sentiment": 0.7311
+    },
+    {
+      "id": "1396974005169442821",
+      "url": "https://twitter.com/FreeBlckThought/1396974005169442821",
+      "user": "FreeBlckThought",
+      "sentiment": -0.4019
+    },
+    {
+      "id": "1396974202205265922",
+      "url": "https://twitter.com/FreeBlckThought/1396974202205265922",
+      "user": "FreeBlckThought",
+      "sentiment": 0.0772
+    },
+    {
+      "id": "1396976256248393732",
+      "url": "https://twitter.com/SPEAKTRUTHTOLIE/1396976256248393732",
+      "user": "SPEAKTRUTHTOLIE",
+      "sentiment": -0.296
+    },
+    {
+      "id": "1396974308560277504",
+      "url": "https://twitter.com/FreeBlckThought/1396974308560277504",
+      "user": "FreeBlckThought",
+      "sentiment": 0.4404
+    },
+    {
+      "id": "1396919331338866688",
+      "url": "https://twitter.com/RichesonCarol/1396919331338866688",
+      "user": "RichesonCarol",
+      "sentiment": 0.7351
+    },
+    {
+      "id": "1396974047515136001",
+      "url": "https://twitter.com/FreeBlckThought/1396974047515136001",
+      "user": "FreeBlckThought",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396918808024027137",
+      "url": "https://twitter.com/toweypat/1396918808024027137",
+      "user": "toweypat",
+      "sentiment": -0.3182
+    },
+    {
+      "id": "1396972945768128517",
+      "url": "https://twitter.com/CortezBrocasio/1396972945768128517",
+      "user": "CortezBrocasio",
+      "sentiment": -0.8929
+    },
+    {
+      "id": "1396972982187315203",
+      "url": "https://twitter.com/CortezBrocasio/1396972982187315203",
+      "user": "CortezBrocasio",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396895852933877768",
+      "url": "https://twitter.com/CantSilenceBuz/1396895852933877768",
+      "user": "CantSilenceBuz",
+      "sentiment": 0.0201
+    },
+    {
+      "id": "1396889164163915776",
+      "url": "https://twitter.com/FreeBlckThought/1396889164163915776",
+      "user": "FreeBlckThought",
+      "sentiment": 0.2023
+    },
+    {
+      "id": "1396881683572563969",
+      "url": "https://twitter.com/cammunchcar/1396881683572563969",
+      "user": "cammunchcar",
+      "sentiment": -0.7216
+    },
+    {
+      "id": "1396889028570456065",
+      "url": "https://twitter.com/FreeBlckThought/1396889028570456065",
+      "user": "FreeBlckThought",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396881177772916737",
+      "url": "https://twitter.com/SUlam00731161/1396881177772916737",
+      "user": "SUlam00731161",
+      "sentiment": -0.836
+    },
+    {
+      "id": "1396888951026114560",
+      "url": "https://twitter.com/FreeBlckThought/1396888951026114560",
+      "user": "FreeBlckThought",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396886433499996162",
+      "url": "https://twitter.com/chaos_sonata/1396886433499996162",
+      "user": "chaos_sonata",
+      "sentiment": 0.6124
+    },
+    {
+      "id": "1396878119232016388",
+      "url": "https://twitter.com/Drew20063/1396878119232016388",
+      "user": "Drew20063",
+      "sentiment": -0.5334
+    }
+  ],
+  "edges": [
+    [
+      "1400098339840987137",
+      "1396876943572697092"
+    ],
+    [
+      "1399083613971382273",
+      "1396876943572697092"
+    ],
+    [
+      "1399084551742234625",
+      "1399083613971382273"
+    ],
+    [
+      "1396876945271394306",
+      "1396876943572697092"
+    ],
+    [
+      "1397280567151013892",
+      "1396876945271394306"
+    ],
+    [
+      "1397246690579595264",
+      "1397218826564079621"
+    ],
+    [
+      "1397247094004633604",
+      "1397246690579595264"
+    ],
+    [
+      "1397218826564079621",
+      "1397217078747312133"
+    ],
+    [
+      "1397225160634155010",
+      "1396876943572697092"
+    ],
+    [
+      "1397217078747312133",
+      "1397216557193904128"
+    ],
+    [
+      "1397216557193904128",
+      "1397186468083294212"
+    ],
+    [
+      "1397217142697824256",
+      "1397216557193904128"
+    ],
+    [
+      "1397186468083294212",
+      "1397151574108082176"
+    ],
+    [
+      "1397151574108082176",
+      "1396880214454636546"
+    ],
+    [
+      "1397184152764665859",
+      "1396876943572697092"
+    ],
+    [
+      "1397181000984121348",
+      "1396876943572697092"
+    ],
+    [
+      "1397162368006770688",
+      "1396876943572697092"
+    ],
+    [
+      "1396888808977690625",
+      "1396880214454636546"
+    ],
+    [
+      "1397151850529447946",
+      "1396888808977690625"
+    ],
+    [
+      "1396880214454636546",
+      "1396876943572697092"
+    ],
+    [
+      "1397055931108585477",
+      "1397050403670282244"
+    ],
+    [
+      "1397056184708788225",
+      "1397055931108585477"
+    ],
+    [
+      "1397050403670282244",
+      "1397033753722036226"
+    ],
+    [
+      "1397051784099602433",
+      "1397051729133273091"
+    ],
+    [
+      "1397055767270678534",
+      "1397051784099602433"
+    ],
+    [
+      "1397051729133273091",
+      "1397051545796026374"
+    ],
+    [
+      "1397051545796026374",
+      "1397051423725015044"
+    ],
+    [
+      "1397051423725015044",
+      "1397051313981067268"
+    ],
+    [
+      "1397051313981067268",
+      "1397051151581732865"
+    ],
+    [
+      "1397051151581732865",
+      "1397051055502811137"
+    ],
+    [
+      "1397051055502811137",
+      "1397050872073392128"
+    ],
+    [
+      "1397050872073392128",
+      "1397050752300851200"
+    ],
+    [
+      "1397050752300851200",
+      "1397050639046242308"
+    ],
+    [
+      "1397050639046242308",
+      "1397050519902773248"
+    ],
+    [
+      "1397050519902773248",
+      "1397050403670282244"
+    ],
+    [
+      "1397033753722036226",
+      "1396876943572697092"
+    ],
+    [
+      "1397045304390684674",
+      "1396876945271394306"
+    ],
+    [
+      "1397034117854765056",
+      "1396880214454636546"
+    ],
+    [
+      "1396973263050399744",
+      "1396876943572697092"
+    ],
+    [
+      "1397022458935451649",
+      "1396973263050399744"
+    ],
+    [
+      "1397016858373545986",
+      "1396876943572697092"
+    ],
+    [
+      "1397006058493726723",
+      "1396880214454636546"
+    ],
+    [
+      "1396999982138368001",
+      "1396997888501297152"
+    ],
+    [
+      "1397005563368706052",
+      "1396999982138368001"
+    ],
+    [
+      "1396997888501297152",
+      "1396876943572697092"
+    ],
+    [
+      "1396949289524502532",
+      "1396876943572697092"
+    ],
+    [
+      "1396984856098320384",
+      "1396949289524502532"
+    ],
+    [
+      "1396982423619989508",
+      "1396982149962625025"
+    ],
+    [
+      "1396982726805266433",
+      "1396982423619989508"
+    ],
+    [
+      "1396982149962625025",
+      "1396888808977690625"
+    ],
+    [
+      "1396978883061186563",
+      "1396974005169442821"
+    ],
+    [
+      "1396981794210156547",
+      "1396978883061186563"
+    ],
+    [
+      "1396974005169442821",
+      "1396918808024027137"
+    ],
+    [
+      "1396974202205265922",
+      "1396949289524502532"
+    ],
+    [
+      "1396976256248393732",
+      "1396974202205265922"
+    ],
+    [
+      "1396974308560277504",
+      "1396973263050399744"
+    ],
+    [
+      "1396919331338866688",
+      "1396876943572697092"
+    ],
+    [
+      "1396974047515136001",
+      "1396919331338866688"
+    ],
+    [
+      "1396918808024027137",
+      "1396876943572697092"
+    ],
+    [
+      "1396972945768128517",
+      "1396876943572697092"
+    ],
+    [
+      "1396972982187315203",
+      "1396972945768128517"
+    ],
+    [
+      "1396895852933877768",
+      "1396880214454636546"
+    ],
+    [
+      "1396889164163915776",
+      "1396880214454636546"
+    ],
+    [
+      "1396881683572563969",
+      "1396876943572697092"
+    ],
+    [
+      "1396889028570456065",
+      "1396881683572563969"
+    ],
+    [
+      "1396881177772916737",
+      "1396876943572697092"
+    ],
+    [
+      "1396888951026114560",
+      "1396881177772916737"
+    ],
+    [
+      "1396886433499996162",
+      "1396876943572697092"
+    ],
+    [
+      "1396878119232016388",
+      "1396876943572697092"
+    ]
+  ]
+}

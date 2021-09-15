@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "id": "1392160080372633608",
+      "url": "https://twitter.com/Liverpool_Baz/status/1392160080372633608",
+      "user": "Liverpool_Baz",
+      "text": "@Thebatmanofbelf I\u2019ll say nothing about this post, I served in NI and was shot at numerous time for just doing my job! I\u2019m afraid you need to know the full story before you spin that shit about it..",
+      "sentiment": -0.5983
+    },
+    {
+      "id": "1392166309874569217",
+      "url": "https://twitter.com/Thebatmanofbelf/status/1392166309874569217",
+      "user": "Thebatmanofbelf",
+      "text": "@Liverpool_Baz I'd say if more of the military who served in the country bothered their arse to find out the full story rather than coming here aimlessly and expecting to be welcomed then there would have been many less problems. U can moan but today it was proven they killed innocent people",
+      "sentiment": -0.7272
+    },
+    {
+      "id": "1392107267038883843",
+      "url": "https://twitter.com/Thebatmanofbelf/status/1392107267038883843",
+      "user": "Thebatmanofbelf",
+      "text": "Today in Belfast and inquest found that the British Army killed 10 innocent people in 1971. Their crime- being outside. \\n\\nAt the same time the Tories announced an amnesty for all soldiers who served. \\n\\nThe corruption is real and it continues and no one is safe from these elitists",
+      "sentiment": -0.7096
+    },
+    {
+      "id": "1392107268372668418",
+      "url": "https://twitter.com/Thebatmanofbelf/status/1392107268372668418",
+      "user": "Thebatmanofbelf",
+      "text": "The same government intends to make it illegal to record the police. Why? So that you can't provide evidence of their brutality when they arrest you. They intended to make it so a soldiers kills can't be contested as unlawful. Why? So they can have anyone they like killed",
+      "sentiment": -0.9526
+    },
+    {
+      "id": "1392107269798731786",
+      "url": "https://twitter.com/Thebatmanofbelf/status/1392107269798731786",
+      "user": "Thebatmanofbelf",
+      "text": "This is our freedom, out rights and our ability to challenge those in power being taken away from us to make sure a rich boys club never have to be accountable for their actions. It should not and cannot be allowed",
+      "sentiment": 0.9136
+    }
+  ],
+  "edges": [
+    [
+      "1392160080372633608",
+      "1392107267038883843"
+    ],
+    [
+      "1392166309874569217",
+      "1392160080372633608"
+    ],
+    [
+      "1392107268372668418",
+      "1392107267038883843"
+    ],
+    [
+      "1392107269798731786",
+      "1392107268372668418"
+    ]
+  ]
+}

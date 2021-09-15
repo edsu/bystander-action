@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "1384681673774665728",
+      "url": "https://twitter.com/mrtatola/status/1384681673774665728",
+      "user": "mrtatola",
+      "text": "@Tukahh2 Nah i get where they\u2019re coming from but this is THE MOST poor choice of words you can choose cuz cmon bro.. THIS was the best they can do? Fck that",
+      "sentiment": -0.023
+    },
+    {
+      "id": "1384683498057863169",
+      "url": "https://twitter.com/Tukahh2/status/1384683498057863169",
+      "user": "Tukahh2",
+      "text": "@mrtatola Yeah you\u2019re right. Thought they were gunna start a trend or something",
+      "sentiment": 0.296
+    },
+    {
+      "id": "1384681371914756096",
+      "url": "https://twitter.com/Tukahh2/status/1384681371914756096",
+      "user": "Tukahh2",
+      "text": "@mrtatola I think they\u2019re talking about a relief cause bruh was finally charged. Because there ain\u2019t no way..",
+      "sentiment": 0.0258
+    },
+    {
+      "id": "1384677408888950784",
+      "url": "https://twitter.com/mrtatola/status/1384677408888950784",
+      "user": "mrtatola",
+      "text": "No. George is still gone. There is still people dying to police brutality. A GIRL WAS SHOT BY THE POLICE TO DEATH TODAY TRYING TO DEFEND HERSELF. WHO\u2019S BREATHING? SORRY ASS ORGANIZATION https://t.co/WXywcom9PB",
+      "sentiment": -0.9423
+    }
+  ],
+  "edges": [
+    [
+      "1384681673774665728",
+      "1384681371914756096"
+    ],
+    [
+      "1384683498057863169",
+      "1384681673774665728"
+    ],
+    [
+      "1384681371914756096",
+      "1384677408888950784"
+    ]
+  ]
+}

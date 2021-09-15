@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1394181165146251265",
+      "url": "https://twitter.com/LynnRob2021/status/1394181165146251265",
+      "user": "LynnRob2021",
+      "text": "\ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f\\n\\nRicky was careful about his racism but now is WIDE open about his White Power ideology\\n\\nPreaching the quiet part out loud https://t.co/NBzUOvJqdF",
+      "sentiment": -0.3071
+    },
+    {
+      "id": "1394275177358262276",
+      "url": "https://twitter.com/BrewBride3/status/1394275177358262276",
+      "user": "BrewBride3",
+      "text": "@LynnRob2021 \"White power ideology? LMAO YOU need to get out and live your life instead of focusing on the lives of others. Pointing out people's \"flaws\" makes YOU look like an idiot because it proves you need to work on yourself!",
+      "sentiment": 0.628
+    }
+  ],
+  "edges": [
+    [
+      "1394275177358262276",
+      "1394181165146251265"
+    ]
+  ]
+}

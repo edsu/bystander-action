@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1375896975263080453",
+      "url": "https://twitter.com/Amber_lafay/status/1375896975263080453",
+      "user": "Amber_lafay",
+      "text": "I support black owned business, but you not about to overcharge me for some shit you paid the bare minimum for \ud83d\ude15 Folks charging $30-$45 for an anklet they paid $5 for. Lmao stop playing with me\ud83d\ude02",
+      "sentiment": 0.3818
+    },
+    {
+      "id": "1375897361952612352",
+      "url": "https://twitter.com/GoodGreedArt_/status/1375897361952612352",
+      "user": "GoodGreedArt_",
+      "text": "@Amber_lafay We got you! https://t.co/FRAs6hwYtH",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1375897361952612352",
+      "1375896975263080453"
+    ]
+  ]
+}

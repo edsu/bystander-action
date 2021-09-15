@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "id": "1390379712581705732",
+      "url": "https://twitter.com/lemons0ciety/status/1390379712581705732",
+      "user": "lemons0ciety",
+      "text": "@m6ggo white power\u270a\ud83c\udffb",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1390379929817305091",
+      "url": "https://twitter.com/madaandlex/status/1390379929817305091",
+      "user": "madaandlex",
+      "text": "@lemons0ciety @m6ggo HELP",
+      "sentiment": 0.5319
+    },
+    {
+      "id": "1390377000158724099",
+      "url": "https://twitter.com/megslvr/status/1390377000158724099",
+      "user": "megslvr",
+      "text": "why are yall unfollowing AM I NOT FUNNY AND ENOUGH",
+      "sentiment": -0.4494
+    },
+    {
+      "id": "1390379893628801032",
+      "url": "https://twitter.com/madaandlex/status/1390379893628801032",
+      "user": "madaandlex",
+      "text": "@m6ggo 20 people unfollowed me on main\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\ude2d\ud83d\ude2d",
+      "sentiment": 0.0516
+    },
+    {
+      "id": "1390379621393207307",
+      "url": "https://twitter.com/megslvr/status/1390379621393207307",
+      "user": "megslvr",
+      "text": "@lemons0ciety my followers hate black people ig",
+      "sentiment": -0.5719
+    },
+    {
+      "id": "1390377277201002497",
+      "url": "https://twitter.com/lemons0ciety/status/1390377277201002497",
+      "user": "lemons0ciety",
+      "text": "@m6ggo ur black",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1390379712581705732",
+      "1390379621393207307"
+    ],
+    [
+      "1390379929817305091",
+      "1390379712581705732"
+    ],
+    [
+      "1390379893628801032",
+      "1390377000158724099"
+    ],
+    [
+      "1390379621393207307",
+      "1390377277201002497"
+    ],
+    [
+      "1390377277201002497",
+      "1390377000158724099"
+    ]
+  ]
+}

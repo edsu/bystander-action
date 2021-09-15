@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "id": "1396974136115699712",
+      "url": "https://twitter.com/RamGupt82783087/status/1396974136115699712",
+      "user": "RamGupt82783087",
+      "text": "Israel used more than 60 Fighter Planes and Bombers to Bomb Gaza, Destroy Infrastructures, Palestinian Homes, while killing Hundreds of Unarmed Civilians, and Children. They used every Weapon in their Arsenal, which they received from the US; to Terrorize Innocent Civilians.",
+      "sentiment": -0.9364
+    },
+    {
+      "id": "1396974137881415684",
+      "url": "https://twitter.com/RamGupt82783087/status/1396974137881415684",
+      "user": "RamGupt82783087",
+      "text": "I know there is nothing anyone can do to force Israel to give back Palestinian Territory, which Israel has Illegally Occupied since It\u2019s Creation in 1948. Right now Israel is the Regional Super Power. They Possess Nuclear and Conventional Weapons, which they received from the US.",
+      "sentiment": 0.4767
+    },
+    {
+      "id": "1396974134341509120",
+      "url": "https://twitter.com/RamGupt82783087/status/1396974134341509120",
+      "user": "RamGupt82783087",
+      "text": "What happened in Gaza last week was caused by the events in East Jerusalem, where Israel used Police Force to silence the Palestinians. In Frustration, Hamas fired Rockets to bring Police Brutality in East Jerusalem to the forefront. Unfortunately, Palestinians lost even more.",
+      "sentiment": -0.9371
+    },
+    {
+      "id": "1396974132378570756",
+      "url": "https://twitter.com/RamGupt82783087/status/1396974132378570756",
+      "user": "RamGupt82783087",
+      "text": "Jewish People should be ashamed of themselves for their Aggressive Behavior, and driving Palestinian Families out of their Homes. Haven\u2019t they learned anything from what Hitler did to them? Furthermore, they use \u201cPolice and Military\u201d to silence Palestinians from Speaking up.",
+      "sentiment": -0.5719
+    },
+    {
+      "id": "1396974130197532674",
+      "url": "https://twitter.com/RamGupt82783087/status/1396974130197532674",
+      "user": "RamGupt82783087",
+      "text": "Any time People speak up and strongly disapprove the Policies of Israel for forcibly taking Palestinian Territory and annexing it to settle their own People; the Jewish Community gets into action, calling it Antisemitism. What Israelis are doing is Cruel, Inhumane, and wrong.",
+      "sentiment": -0.7003
+    }
+  ],
+  "edges": [
+    [
+      "1396974136115699712",
+      "1396974134341509120"
+    ],
+    [
+      "1396974137881415684",
+      "1396974136115699712"
+    ],
+    [
+      "1396974134341509120",
+      "1396974132378570756"
+    ],
+    [
+      "1396974132378570756",
+      "1396974130197532674"
+    ]
+  ]
+}

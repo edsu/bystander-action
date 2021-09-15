@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1396958782299811841",
+      "url": "https://twitter.com/unclebango/status/1396958782299811841",
+      "user": "unclebango",
+      "text": "@filthyciggy Mfs be pro life till u bring up police violence or Palestine or the constant fights in the Middle East or the constant attacks on LGBT individuals or-",
+      "sentiment": -0.8658
+    },
+    {
+      "id": "1396958935869952000",
+      "url": "https://twitter.com/filthyciggy/status/1396958935869952000",
+      "user": "filthyciggy",
+      "text": "@unclebango walking contradictions.",
+      "sentiment": -0.3182
+    },
+    {
+      "id": "1396957529456971779",
+      "url": "https://twitter.com/filthyciggy/status/1396957529456971779",
+      "user": "filthyciggy",
+      "text": "trumpies be like \u201cthis is a free country!! people died for your right to INDIVIDUAL FREEDOM!!!\u201d\\n\\nbro i better see you strapped n ready at every women\u2019s rights and gay rights rally lmfao",
+      "sentiment": 0.9056
+    }
+  ],
+  "edges": [
+    [
+      "1396958782299811841",
+      "1396957529456971779"
+    ],
+    [
+      "1396958935869952000",
+      "1396958782299811841"
+    ]
+  ]
+}

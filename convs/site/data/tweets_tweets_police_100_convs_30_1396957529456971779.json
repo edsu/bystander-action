@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "1396958782299811841",
+      "url": "https://twitter.com/unclebango/1396958782299811841",
+      "user": "unclebango",
+      "sentiment": -0.8658
+    },
+    {
+      "id": "1396958935869952000",
+      "url": "https://twitter.com/filthyciggy/1396958935869952000",
+      "user": "filthyciggy",
+      "sentiment": -0.3182
+    },
+    {
+      "id": "1396957529456971779",
+      "url": "https://twitter.com/filthyciggy/1396957529456971779",
+      "user": "filthyciggy",
+      "sentiment": 0.9056
+    }
+  ],
+  "edges": [
+    [
+      "1396958782299811841",
+      "1396957529456971779"
+    ],
+    [
+      "1396958935869952000",
+      "1396958782299811841"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1392607663847006210",
+      "url": "https://twitter.com/smizzy112/status/1392607663847006210",
+      "user": "smizzy112",
+      "text": "@Chelsea_Era Racism",
+      "sentiment": -0.6249
+    },
+    {
+      "id": "1392608236663148548",
+      "url": "https://twitter.com/Chelsea_Era/status/1392608236663148548",
+      "user": "Chelsea_Era",
+      "text": "@211yzzims i prefer not to speak...",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1392607166641713153",
+      "url": "https://twitter.com/Chelsea_Era/status/1392607166641713153",
+      "user": "Chelsea_Era",
+      "text": "HOOWWWW ????? https://t.co/fa81dMm5S4",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1392607663847006210",
+      "1392607166641713153"
+    ],
+    [
+      "1392608236663148548",
+      "1392607663847006210"
+    ]
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "nodes": [
+    {
+      "id": "gca4ylv",
+      "url": "https://www.reddit.com/r/teenagers/comments/ju7xcq/unpopular_opinion_racism_is_bad/gca4ylv/",
+      "user": "AutoModerator",
+      "text": "This thread has been flaired as *[Serious]*. Please be aware that this marks it as a place for serious discussion only and that any unserious content in this thread will be met with [infraction point(s)](https://www.reddit.com/r/teenagers/wiki/rules#wiki_point_system.3A). If your comment does not contribute to the discussion in a serious manner it will be removed. Please report any comments that do not respect this rule.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/teenagers) if you have any questions or concerns.*",
+      "sentiment": 0.3498
+    },
+    {
+      "id": "gca51xl",
+      "url": "https://www.reddit.com/r/teenagers/comments/ju7xcq/unpopular_opinion_racism_is_bad/gca51xl/",
+      "user": "SusDeleted_",
+      "text": "Another loony that thinks it\u2019s bad \n\nLike bruh, it\u2019s in our human nature to hate the human race",
+      "sentiment": -0.6908
+    },
+    {
+      "id": "gca53vy",
+      "url": "https://www.reddit.com/r/teenagers/comments/ju7xcq/unpopular_opinion_racism_is_bad/gca53vy/",
+      "user": "IJS_Reddit",
+      "text": "I agree now have {insert award here}",
+      "sentiment": 0.7184
+    },
+    {
+      "id": "gca59io",
+      "url": "https://www.reddit.com/r/teenagers/comments/ju7xcq/unpopular_opinion_racism_is_bad/gca59io/",
+      "user": "Needspeed19000",
+      "text": "Actually, is popular opinion",
+      "sentiment": 0.4215
+    },
+    {
+      "id": "gca5ied",
+      "url": "https://www.reddit.com/r/teenagers/comments/ju7xcq/unpopular_opinion_racism_is_bad/gca5ied/",
+      "user": "Lewisisjava",
+      "text": "Wrong this is very UNpopular",
+      "sentiment": -0.4767
+    },
+    {
+      "id": "gca5m2v",
+      "url": "https://www.reddit.com/r/teenagers/comments/ju7xcq/unpopular_opinion_racism_is_bad/gca5m2v/",
+      "user": "Needspeed19000",
+      "text": "Ok, a UNpopular",
+      "sentiment": 0.0
+    },
+    {
+      "id": "gca6i7m",
+      "url": "https://www.reddit.com/r/teenagers/comments/ju7xcq/unpopular_opinion_racism_is_bad/gca6i7m/",
+      "user": "Citrinitas115",
+      "text": "Lmao get a load of this guy \n\nHe thinks racism is bad lmao",
+      "sentiment": 0.0516
+    },
+    {
+      "id": "gca6x9k",
+      "url": "https://www.reddit.com/r/teenagers/comments/ju7xcq/unpopular_opinion_racism_is_bad/gca6x9k/",
+      "user": "rasism-bad",
+      "text": "I agree",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "gca9655",
+      "url": "https://www.reddit.com/r/teenagers/comments/ju7xcq/unpopular_opinion_racism_is_bad/gca9655/",
+      "user": "D3ppress0",
+      "text": "Smh. Racism is good, stupidass",
+      "sentiment": -0.5423
+    },
+    {
+      "id": "ju7xcq",
+      "url": "https://www.reddit.com/r/teenagers/comments/ju7xcq/unpopular_opinion_racism_is_bad/",
+      "user": "redmane99",
+      "text": "I know nobody else has ever thought of this but hopefully people understand.",
+      "sentiment": 0.5499
+    }
+  ],
+  "edges": [
+    [
+      "gca4ylv",
+      "ju7xcq"
+    ],
+    [
+      "gca51xl",
+      "ju7xcq"
+    ],
+    [
+      "gca53vy",
+      "ju7xcq"
+    ],
+    [
+      "gca59io",
+      "ju7xcq"
+    ],
+    [
+      "gca5ied",
+      "gca59io"
+    ],
+    [
+      "gca5m2v",
+      "gca5ied"
+    ],
+    [
+      "gca6i7m",
+      "ju7xcq"
+    ],
+    [
+      "gca6x9k",
+      "ju7xcq"
+    ],
+    [
+      "gca9655",
+      "ju7xcq"
+    ]
+  ]
+}

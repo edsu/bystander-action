@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1395851429223469056",
+      "url": "https://twitter.com/mncoleman/status/1395851429223469056",
+      "user": "mncoleman",
+      "text": "@NicolleDWallace I'M happy the Asian Act was passed but can't understand how it jumps before police brutality &amp; lynching of black men in this country  that seems to continue weekly!  Qualified immunity for policemen must be stopped!  It gives authority for policeman to kill!!",
+      "sentiment": -0.941
+    },
+    {
+      "id": "1396553487819939843",
+      "url": "https://twitter.com/mncoleman/status/1396553487819939843",
+      "user": "mncoleman",
+      "text": "The Asian Act shows how fast Congress can work when they decide to work but what about the brutality and injustice done to Blacks for centuries and we can get nothing accomplished for Justice and to stop the continuous killing by police officers sanctioned by government!",
+      "sentiment": -0.9826
+    }
+  ],
+  "edges": [
+    [
+      "1396553487819939843",
+      "1395851429223469056"
+    ]
+  ]
+}

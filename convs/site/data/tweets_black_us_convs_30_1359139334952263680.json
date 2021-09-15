@@ -1,0 +1,116 @@
+{
+  "nodes": [
+    {
+      "id": "1359254708351827970",
+      "url": "https://twitter.com/Freebandtheo/status/1359254708351827970",
+      "user": "Freebandtheo",
+      "text": "@cocoabeautyyy Was it her office he sued yes or no",
+      "sentiment": 0.128
+    },
+    {
+      "id": "1359253865875468289",
+      "url": "https://twitter.com/Freebandtheo/status/1359253865875468289",
+      "user": "Freebandtheo",
+      "text": "@cocoabeautyyy She was the DA do you know the responsibility of a DA?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1359252390105538561",
+      "url": "https://twitter.com/Freebandtheo/status/1359252390105538561",
+      "user": "Freebandtheo",
+      "text": "@cocoabeautyyy The bill your referring to is the bill joe Biden signed originally the 3 strike bill trump changed, but you hate trump \ud83d\ude02\ud83d\ude02",
+      "sentiment": 0.34
+    },
+    {
+      "id": "1359247525379719174",
+      "url": "https://twitter.com/Freebandtheo/status/1359247525379719174",
+      "user": "Freebandtheo",
+      "text": "@cocoabeautyyy Jamal trulove, Rafael Madrigal, Daniel  Larson, and George gage google the cases she was working them. \ud83d\ude02",
+      "sentiment": 0.4404
+    },
+    {
+      "id": "1359246512266637323",
+      "url": "https://twitter.com/Freebandtheo/status/1359246512266637323",
+      "user": "Freebandtheo",
+      "text": "@cocoabeautyyy Only reason she even tried to help after the fact was because of the NYtimes \ud83d\ude02\ud83d\ude02\ud83d\ude02 \ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f https://t.co/I34VLJZF5C",
+      "sentiment": 0.886
+    },
+    {
+      "id": "1359242970889863168",
+      "url": "https://twitter.com/Freebandtheo/status/1359242970889863168",
+      "user": "Freebandtheo",
+      "text": "@cocoabeautyyy She ignored his appeal as the DA suppressed evidence but we not gone talk about that",
+      "sentiment": -0.1655
+    },
+    {
+      "id": "1359238065114464264",
+      "url": "https://twitter.com/Freebandtheo/status/1359238065114464264",
+      "user": "Freebandtheo",
+      "text": "@cocoabeautyyy Sure that\u2019s how it went. \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+      "sentiment": 0.875
+    },
+    {
+      "id": "1359237107819155464",
+      "url": "https://twitter.com/Freebandtheo/status/1359237107819155464",
+      "user": "Freebandtheo",
+      "text": "@cocoabeautyyy I tried to belittle you? Yea I got it OG",
+      "sentiment": -0.4404
+    },
+    {
+      "id": "1359231800401403908",
+      "url": "https://twitter.com/Freebandtheo/status/1359231800401403908",
+      "user": "Freebandtheo",
+      "text": "@cocoabeautyyy The people who was innocent deserved to sit as well huh \ud83d\ude02\ud83d\ude02. I forgot we can\u2019t debate on this topic you see nothing wrong with what she did in the past. You seen American skin? According to the police they just be doing there job as well",
+      "sentiment": 0.9178
+    },
+    {
+      "id": "1359226341426618368",
+      "url": "https://twitter.com/Freebandtheo/status/1359226341426618368",
+      "user": "Freebandtheo",
+      "text": "@cocoabeautyyy She done locked all those black men up and sided with the man who signed the 3 strike rule. Only reason Biden picked her as VP was to beat Bernie and get the African American vote \ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f",
+      "sentiment": -0.128
+    }
+  ],
+  "edges": [
+    [
+      "1359254708351827970",
+      "1359254271049551874"
+    ],
+    [
+      "1359253865875468289",
+      "1359253697293930509"
+    ],
+    [
+      "1359252390105538561",
+      "1359251835144519686"
+    ],
+    [
+      "1359247525379719174",
+      "1359245852716449793"
+    ],
+    [
+      "1359246512266637323",
+      "1359245852716449793"
+    ],
+    [
+      "1359242970889863168",
+      "1359242342499287040"
+    ],
+    [
+      "1359238065114464264",
+      "1359237585764298753"
+    ],
+    [
+      "1359237107819155464",
+      "1359236786879410178"
+    ],
+    [
+      "1359231800401403908",
+      "1359229072056934403"
+    ],
+    [
+      "1359226341426618368",
+      "1359139334952263680"
+    ]
+  ]
+}

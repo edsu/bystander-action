@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "1393665399905046529",
+      "url": "https://twitter.com/nagsholekah/1393665399905046529",
+      "user": "nagsholekah",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393762788242116616",
+      "url": "https://twitter.com/Rizkitaj/1393762788242116616",
+      "user": "Rizkitaj",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393762750761869315",
+      "url": "https://twitter.com/Rizkitaj/1393762750761869315",
+      "user": "Rizkitaj",
+      "sentiment": -0.7351
+    },
+    {
+      "id": "1393602021823959042",
+      "url": "https://twitter.com/Rizkitaj/1393602021823959042",
+      "user": "Rizkitaj",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1393665399905046529",
+      "1393602021823959042"
+    ],
+    [
+      "1393762788242116616",
+      "1393665399905046529"
+    ],
+    [
+      "1393762750761869315",
+      "1393635441253883905"
+    ]
+  ]
+}

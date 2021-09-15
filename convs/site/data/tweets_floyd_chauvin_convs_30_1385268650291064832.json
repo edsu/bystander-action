@@ -1,0 +1,189 @@
+{
+  "nodes": [
+    {
+      "id": "1385424484962750467",
+      "url": "https://twitter.com/datasianisraeli/status/1385424484962750467",
+      "user": "datasianisraeli",
+      "text": "@FanKestelman @jch6289 Leave him alone. He didn\u2019t put the picture next to the mug shot. He included 2 photos and Twitter displays them like that. As I said, you can keep on scrolling if you are so bothered by this man\u2019s happiness.",
+      "sentiment": 0.2284
+    },
+    {
+      "id": "1385431739766657030",
+      "url": "https://twitter.com/jch6289/status/1385431739766657030",
+      "user": "jch6289",
+      "text": "@datasianisraeli @FanKestelman Why are they so bothered? Clearly I'm not pro Chauvin https://t.co/s2Abebi0sI",
+      "sentiment": -0.0033
+    },
+    {
+      "id": "1385415245913632768",
+      "url": "https://twitter.com/jch6289/status/1385415245913632768",
+      "user": "jch6289",
+      "text": "@FanKestelman @datasianisraeli Um it was to symbolize two important things happened on Tuesday",
+      "sentiment": 0.2023
+    },
+    {
+      "id": "1385418090138193927",
+      "url": "https://twitter.com/jch6289/status/1385418090138193927",
+      "user": "jch6289",
+      "text": "@FanKestelman @datasianisraeli I kinda trust that people would see the context &amp; think \"Tuesday was his Nephew's 9th birthday and judging from the mugshot of Derek Chauvin that was also the day he was convicted.\"",
+      "sentiment": 0.4601
+    },
+    {
+      "id": "1385268650291064832",
+      "url": "https://twitter.com/datasianisraeli/status/1385268650291064832",
+      "user": "datasianisraeli",
+      "text": "Tell me, what\u2019s something that made you smile this week?",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "1385404889371537409",
+      "url": "https://twitter.com/AGoldsmithEsq/status/1385404889371537409",
+      "user": "AGoldsmithEsq",
+      "text": "@datasianisraeli Got my first professional haircut in a year after getting vaccinated",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1385402648011034624",
+      "url": "https://twitter.com/datasianisraeli/status/1385402648011034624",
+      "user": "datasianisraeli",
+      "text": "@FanKestelman @jch6289 Dang, don\u2019t hate, appreciate. Let the man be happy. This post is for spreading joy. If you\u2019re not into that then please kindly scroll on.",
+      "sentiment": 0.9001
+    },
+    {
+      "id": "1385403070008512519",
+      "url": "https://twitter.com/jch6289/status/1385403070008512519",
+      "user": "jch6289",
+      "text": "@datasianisraeli @FanKestelman I also made sure it was his post conviction mugshot",
+      "sentiment": 0.3182
+    },
+    {
+      "id": "1385397610031222786",
+      "url": "https://twitter.com/danielsrosehill/status/1385397610031222786",
+      "user": "danielsrosehill",
+      "text": "@datasianisraeli Salt and vinegar crisps came to Israel. A vital culinary milestone.",
+      "sentiment": 0.296
+    },
+    {
+      "id": "1385402400693833729",
+      "url": "https://twitter.com/datasianisraeli/status/1385402400693833729",
+      "user": "datasianisraeli",
+      "text": "@danielsrosehill Wow that\u2019s huge!",
+      "sentiment": 0.75
+    },
+    {
+      "id": "1385347230413082629",
+      "url": "https://twitter.com/rachelratz/status/1385347230413082629",
+      "user": "rachelratz",
+      "text": "@datasianisraeli Let me know if you have any side effects.  The person who gave me my shot told me if any side effects, it usually the second one because it's stronger.  So far I'm fine with the 1st shot.  No side effects.",
+      "sentiment": 0.3535
+    },
+    {
+      "id": "1385384274954657793",
+      "url": "https://twitter.com/datasianisraeli/status/1385384274954657793",
+      "user": "datasianisraeli",
+      "text": "@rachelratz People keep sending me things about having period-related side effects. Have you had anything like that? I personally haven\u2019t.",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "1385322762848243714",
+      "url": "https://twitter.com/datasianisraeli/status/1385322762848243714",
+      "user": "datasianisraeli",
+      "text": "@rachelratz Awesome! I\u2019m getting my second today!",
+      "sentiment": 0.6892
+    },
+    {
+      "id": "1385270774303440903",
+      "url": "https://twitter.com/rachelratz/status/1385270774303440903",
+      "user": "rachelratz",
+      "text": "@datasianisraeli I got my first vaccine shot today.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1385285241930141698",
+      "url": "https://twitter.com/dassismom/status/1385285241930141698",
+      "user": "dassismom",
+      "text": "@datasianisraeli This made me lol. https://t.co/tOgpQ8VeOC",
+      "sentiment": 0.4215
+    },
+    {
+      "id": "1385280957989756933",
+      "url": "https://twitter.com/TalyaTweet/status/1385280957989756933",
+      "user": "TalyaTweet",
+      "text": "@datasianisraeli Got my vaccine",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1385278176914464779",
+      "url": "https://twitter.com/jch6289/status/1385278176914464779",
+      "user": "jch6289",
+      "text": "@datasianisraeli Tuesday was my Nephew's 9th birthday &amp; Derek Chauvin's conviction https://t.co/cDJFpaGMJg",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1385424484962750467",
+      "1385422485529808907"
+    ],
+    [
+      "1385431739766657030",
+      "1385424484962750467"
+    ],
+    [
+      "1385415245913632768",
+      "1385411517349236737"
+    ],
+    [
+      "1385418090138193927",
+      "1385415245913632768"
+    ],
+    [
+      "1385404889371537409",
+      "1385268650291064832"
+    ],
+    [
+      "1385402648011034624",
+      "1385393445146140675"
+    ],
+    [
+      "1385403070008512519",
+      "1385402648011034624"
+    ],
+    [
+      "1385397610031222786",
+      "1385268650291064832"
+    ],
+    [
+      "1385402400693833729",
+      "1385397610031222786"
+    ],
+    [
+      "1385347230413082629",
+      "1385322762848243714"
+    ],
+    [
+      "1385384274954657793",
+      "1385347230413082629"
+    ],
+    [
+      "1385322762848243714",
+      "1385270774303440903"
+    ],
+    [
+      "1385270774303440903",
+      "1385268650291064832"
+    ],
+    [
+      "1385285241930141698",
+      "1385268650291064832"
+    ],
+    [
+      "1385280957989756933",
+      "1385268650291064832"
+    ],
+    [
+      "1385278176914464779",
+      "1385268650291064832"
+    ]
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nodes": [
+    {
+      "id": "1396945098982756353",
+      "url": "https://twitter.com/democracynow/1396945098982756353",
+      "user": "democracynow",
+      "sentiment": -0.4588
+    },
+    {
+      "id": "1397168459797118976",
+      "url": "https://twitter.com/AlexKskk/1397168459797118976",
+      "user": "AlexKskk",
+      "sentiment": 0.5106
+    },
+    {
+      "id": "1397033901168726018",
+      "url": "https://twitter.com/AWKWORDrap/1397033901168726018",
+      "user": "AWKWORDrap",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1397012281519529987",
+      "url": "https://twitter.com/misbrown2u/1397012281519529987",
+      "user": "misbrown2u",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1397010584823074816",
+      "url": "https://twitter.com/THA_KZZA/1397010584823074816",
+      "user": "THA_KZZA",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396992167982161922",
+      "url": "https://twitter.com/GlorionSenior/1396992167982161922",
+      "user": "GlorionSenior",
+      "sentiment": 0.5229
+    },
+    {
+      "id": "1396948186921676805",
+      "url": "https://twitter.com/OfByForEveR/1396948186921676805",
+      "user": "OfByForEveR",
+      "sentiment": -0.1759
+    }
+  ],
+  "edges": [
+    [
+      "1397168459797118976",
+      "1396945098982756353"
+    ],
+    [
+      "1397033901168726018",
+      "1396945098982756353"
+    ],
+    [
+      "1397012281519529987",
+      "1396945098982756353"
+    ],
+    [
+      "1397010584823074816",
+      "1396945098982756353"
+    ],
+    [
+      "1396992167982161922",
+      "1396945098982756353"
+    ],
+    [
+      "1396948186921676805",
+      "1396945098982756353"
+    ]
+  ]
+}

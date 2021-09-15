@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "1293703507350937602",
+      "url": "https://twitter.com/ewmorgxn/status/1293703507350937602",
+      "user": "ewmorgxn",
+      "text": "@joshcwagner okay if you can\u2019t respect me then we don\u2019t need to continue interacting :)",
+      "sentiment": 0.7906
+    },
+    {
+      "id": "1293681081196003329",
+      "url": "https://twitter.com/ewmorgxn/status/1293681081196003329",
+      "user": "ewmorgxn",
+      "text": "@joshcwagner 1. bro i have a name besides you people\\n2. i am allowed to critique my own government and express my opinions about them\\n3. your anger is misdirected at me nor do i have any control over how anyone else votes, especially not the electoral college",
+      "sentiment": -0.5719
+    },
+    {
+      "id": "1293675806120525824",
+      "url": "https://twitter.com/ewmorgxn/status/1293675806120525824",
+      "user": "ewmorgxn",
+      "text": "@lauraamalfavon I didn\u2019t know Ms. Davis and I had to have the same political opinions",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1293640473555251200",
+      "url": "https://twitter.com/ewmorgxn/status/1293640473555251200",
+      "user": "ewmorgxn",
+      "text": "lmao i\u2019m sorry i don\u2019t want to vote for pedophiles... i couldn\u2019t live with myself. i also don\u2019t want to support a party that has picked a VP who has enforced laws that support the school to prison pipeline as well as hurt BIPOC communities",
+      "sentiment": 0.7717
+    },
+    {
+      "id": "1293642820134121472",
+      "url": "https://twitter.com/nwagner1026/status/1293642820134121472",
+      "user": "nwagner1026",
+      "text": "@ewmorgxn So like at this point...just buy a MAGA poster?\\n\\nBc intentionally or not that is what you\u2019re doing. Like I understand you want to vote (or not vote) with your conscience but this is really more about the collective good than personal morals.",
+      "sentiment": 0.7681
+    },
+    {
+      "id": "1293699337927536641",
+      "url": "https://twitter.com/joshcwagner/status/1293699337927536641",
+      "user": "joshcwagner",
+      "text": "@ewmorgxn Ok \u2728lauren\u2728 you can totally criticize them as much as you want. But it\u2019s the kind \u201cI don\u2019t like them so I won\u2019t vote for them at all\u201d attitude that gets us fucked over. A third party isn\u2019t going to win, so put away your pride and just vote blue so we can get rid of trump.",
+      "sentiment": 0.9332
+    },
+    {
+      "id": "1293662567181586432",
+      "url": "https://twitter.com/joshcwagner/status/1293662567181586432",
+      "user": "joshcwagner",
+      "text": "@ewmorgxn Why can\u2019t you people just shut up and vote Democrat how hard can it be. Does everyone get their first choice? No. Should you just ignore the problems that come with them? No. But how about you get this absolute buffoon out of office and then complain.",
+      "sentiment": -0.7514
+    }
+  ],
+  "edges": [
+    [
+      "1293703507350937602",
+      "1293699337927536641"
+    ],
+    [
+      "1293681081196003329",
+      "1293662567181586432"
+    ],
+    [
+      "1293675806120525824",
+      "1293641330187317248"
+    ],
+    [
+      "1293642820134121472",
+      "1293640473555251200"
+    ]
+  ]
+}

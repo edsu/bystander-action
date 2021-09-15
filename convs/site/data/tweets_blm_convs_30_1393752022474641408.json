@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1393752022474641408",
+      "url": "https://twitter.com/jwunrale/status/1393752022474641408",
+      "user": "jwunrale",
+      "text": "ni kayanya cuma sekolah gue deh yg kelas 12 nya blm lulus dan masih ada ujian\ud83d\ude0a\ud83d\ude0a\ud83d\udc4d\ud83c\udffd",
+      "sentiment": 0.9001
+    },
+    {
+      "id": "1393753222225883136",
+      "url": "https://twitter.com/napiipopeta/status/1393753222225883136",
+      "user": "napiipopeta",
+      "text": "@jwunrale emang,buluk bgt dih",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393752457692418050",
+      "url": "https://twitter.com/chocobabolatte/status/1393752457692418050",
+      "user": "chocobabolatte",
+      "text": "@jwunrale lahh ko bisa\ud83d\ude2d",
+      "sentiment": -0.4767
+    }
+  ],
+  "edges": [
+    [
+      "1393753222225883136",
+      "1393752022474641408"
+    ],
+    [
+      "1393752457692418050",
+      "1393752022474641408"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1386023811854831625",
+      "url": "https://twitter.com/quincyjwalters/status/1386023811854831625",
+      "user": "quincyjwalters",
+      "text": "\u201cI\u2019m gonna make sure they don\u2019t run over your son. That they don\u2019t choke them out. That they don\u2019t burn him up. That they don\u2019t literally kill him.\u201d\u2014Jenelle Amboise, whose son Christopher Divens was hit by a @RandolphPD cop in a cruiser last year. https://t.co/S1SEYow2IQ",
+      "sentiment": -0.7845
+    },
+    {
+      "id": "1386026563758604289",
+      "url": "https://twitter.com/quincyjwalters/status/1386026563758604289",
+      "user": "quincyjwalters",
+      "text": "\u201cWe just want peace. We wanna be able to walk down the street and breathe. And ride our bikes. Or smoke a joint if that\u2019s what the hell we want to do.\u201d \u2014 Carla Sheffield, whose son Burrell Ramsey-White was killed by plain-clothes @bostonpolice in an unmarked vehicle in 2012. https://t.co/ZHjHmUNRv0",
+      "sentiment": -0.7184
+    },
+    {
+      "id": "1386015160360386561",
+      "url": "https://twitter.com/quincyjwalters/status/1386015160360386561",
+      "user": "quincyjwalters",
+      "text": "Brock Satter, with the group Massachusetts Action Against Police Brutality, says they\u2019re gathered to celebrate Derek Chauvin\u2019s conviction and to bring attention to cases of people killed by Massachusetts law enforcement. https://t.co/mNOTValiBK",
+      "sentiment": -0.7003
+    }
+  ],
+  "edges": [
+    [
+      "1386023811854831625",
+      "1386015160360386561"
+    ],
+    [
+      "1386026563758604289",
+      "1386023811854831625"
+    ]
+  ]
+}

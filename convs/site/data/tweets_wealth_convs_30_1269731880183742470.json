@@ -1,0 +1,101 @@
+{
+  "nodes": [
+    {
+      "id": "1272336555756183554",
+      "url": "https://twitter.com/Roger2dot0/status/1272336555756183554",
+      "user": "Roger2dot0",
+      "text": "@cmelt2003 Alot of it IS structural. U must understand the history of Banks that red line and discriminate us from owning a home or SBL. Did you know that a \ud83e\uddd2\ud83c\udfffman with a degree who's never been to prison has as much chance at getting a job then a white guy who has a high school diploma",
+      "sentiment": 0.5722
+    },
+    {
+      "id": "1272480103335944192",
+      "url": "https://twitter.com/cmelt2003/status/1272480103335944192",
+      "user": "cmelt2003",
+      "text": "@Roger2dot0 Thank you. I have not seen this article before.",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "1272340255249752065",
+      "url": "https://twitter.com/cmelt2003/status/1272340255249752065",
+      "user": "cmelt2003",
+      "text": "@Roger2dot0 That is a very unfortunate situation. Do you have a source for that stat?",
+      "sentiment": -0.5095
+    },
+    {
+      "id": "1272347771278954496",
+      "url": "https://twitter.com/Roger2dot0/status/1272347771278954496",
+      "user": "Roger2dot0",
+      "text": "@cmelt2003 https://t.co/4CWbA0tbFW",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1272347641763049472",
+      "url": "https://twitter.com/Roger2dot0/status/1272347641763049472",
+      "user": "Roger2dot0",
+      "text": "@cmelt2003 https://t.co/xpXi5EjqhD",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1272332977511567360",
+      "url": "https://twitter.com/cmelt2003/status/1272332977511567360",
+      "user": "cmelt2003",
+      "text": "@Roger2dot0 Might or do? It\u2019s not the same thing. There are a lot or factors that go into something like this.",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "1272328101880573954",
+      "url": "https://twitter.com/Roger2dot0/status/1272328101880573954",
+      "user": "Roger2dot0",
+      "text": "@cmelt2003 I don't decide to racially discriminate my way out of not qualifying  4 the bank to not provide me with a loan or not to charge me the same interest rate as the white family who I might have the same income and credit rating as",
+      "sentiment": 0.6808
+    },
+    {
+      "id": "1272326424301625349",
+      "url": "https://twitter.com/cmelt2003/status/1272326424301625349",
+      "user": "cmelt2003",
+      "text": "@Roger2dot0 That seems more like the result of individual decisions rather than an institutional issue.",
+      "sentiment": 0.4201
+    },
+    {
+      "id": "1269731880183742470",
+      "url": "https://twitter.com/Roger2dot0/status/1269731880183742470",
+      "user": "Roger2dot0",
+      "text": "https://t.co/SpSg2gTs25\\nFor all you corporations and big money FatCats of Industry that want to take a knee and show your solidarity with black people here's something that you cannot just show solidarity for but actually do something about",
+      "sentiment": 0.0788
+    }
+  ],
+  "edges": [
+    [
+      "1272336555756183554",
+      "1272332977511567360"
+    ],
+    [
+      "1272480103335944192",
+      "1272336555756183554"
+    ],
+    [
+      "1272340255249752065",
+      "1272336555756183554"
+    ],
+    [
+      "1272347771278954496",
+      "1272340255249752065"
+    ],
+    [
+      "1272347641763049472",
+      "1272340255249752065"
+    ],
+    [
+      "1272332977511567360",
+      "1272328101880573954"
+    ],
+    [
+      "1272328101880573954",
+      "1272326424301625349"
+    ],
+    [
+      "1272326424301625349",
+      "1269731880183742470"
+    ]
+  ]
+}

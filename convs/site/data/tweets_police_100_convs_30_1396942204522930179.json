@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1396977594185228290",
+      "url": "https://twitter.com/Clark72003Rose/status/1396977594185228290",
+      "user": "Clark72003Rose",
+      "text": "@blackvoices RIP George Floyd.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396978474242519042",
+      "url": "https://twitter.com/COVID19isntreal/status/1396978474242519042",
+      "user": "COVID19isntreal",
+      "text": "@Clark72003Rose @blackvoices George Floyd would still be alive if he hadn\u2019t swallowed all of those drugs!",
+      "sentiment": 0.4389
+    },
+    {
+      "id": "1396942204522930179",
+      "url": "https://twitter.com/blackvoices/status/1396942204522930179",
+      "user": "blackvoices",
+      "text": "Floyd\u2019s family gathered with activists, citizens and others who have lost loved ones to police brutality for a rally in Minneapolis. https://t.co/Q3MhjjiDe6",
+      "sentiment": -0.34
+    }
+  ],
+  "edges": [
+    [
+      "1396977594185228290",
+      "1396942204522930179"
+    ],
+    [
+      "1396978474242519042",
+      "1396977594185228290"
+    ]
+  ]
+}

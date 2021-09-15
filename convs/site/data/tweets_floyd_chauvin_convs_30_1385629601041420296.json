@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1385629601041420296",
+      "url": "https://twitter.com/LorianSynaro/status/1385629601041420296",
+      "user": "LorianSynaro",
+      "text": "#MakhiaBryant, a young black girl was killed by the Columbus police just before the verdict of the Derek Chauvin trial. Shame on these officers. As long as the US govenment doen't address systemic racism adequatly, police brutality won't stop. \\n\\n#BlackLivesMatter #DefundThePolice https://t.co/UQbEgNwxlc",
+      "sentiment": -0.7794
+    },
+    {
+      "id": "1385632951820554240",
+      "url": "https://twitter.com/MadamLady_/status/1385632951820554240",
+      "user": "MadamLady_",
+      "text": "@LorianSynaro Thanks for thid info @LorianSynaro . Am feeling so pissed off. I just feel like finding that police Officer and skinning him live, pluck oit his balls and give them to my dog.\\n\\n#BlackLivesMatter",
+      "sentiment": -0.1195
+    }
+  ],
+  "edges": [
+    [
+      "1385632951820554240",
+      "1385629601041420296"
+    ]
+  ]
+}

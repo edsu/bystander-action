@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "gum19yo",
+      "url": "https://www.reddit.com/r/ADOSmovement/comments/mrgfif/closing_the_racial_wealth_gap_is_a_collective/gum19yo/",
+      "user": "cydbeefree",
+      "text": "HR40 finally passed. So..... lets see what the 'study' comes up with. SMDH.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "gum24az",
+      "url": "https://www.reddit.com/r/ADOSmovement/comments/mrgfif/closing_the_racial_wealth_gap_is_a_collective/gum24az/",
+      "user": "Going5Hole",
+      "text": "How long dis finna take ? I want a PS5, smoke bowls and NBA2k all day err day",
+      "sentiment": 0.0772
+    },
+    {
+      "id": "guncz2e",
+      "url": "https://www.reddit.com/r/ADOSmovement/comments/mrgfif/closing_the_racial_wealth_gap_is_a_collective/guncz2e/",
+      "user": "SpotLightGuy",
+      "text": "Funny you should mention that because the white boys I went to college with did the same shit all day because their families had generational wealth and they didn\u2019t have to work like all my black friends did",
+      "sentiment": 0.7964
+    },
+    {
+      "id": "guneju5",
+      "url": "https://www.reddit.com/r/ADOSmovement/comments/mrgfif/closing_the_racial_wealth_gap_is_a_collective/guneju5/",
+      "user": "Careless_Agency1431",
+      "text": "They dont want to pay reparations because then political pressure will mount for Europe to do the same thing to all of the black countries they've colonized and made slaves from. This would inevitably lead to a massive wealth transfer. White supremacy wont allow reparations to happen without force. Basically once we're independently wealthy as a race only then can we muster the political clout to get reparations paid. Other option is to let our street people take them out instead of each other.",
+      "sentiment": 0.4781
+    },
+    {
+      "id": "gunkwuo",
+      "url": "https://www.reddit.com/r/ADOSmovement/comments/mrgfif/closing_the_racial_wealth_gap_is_a_collective/gunkwuo/",
+      "user": "[deleted]",
+      "text": "[removed]",
+      "sentiment": 0.0
+    },
+    {
+      "id": "gunqnc5",
+      "url": "https://www.reddit.com/r/ADOSmovement/comments/mrgfif/closing_the_racial_wealth_gap_is_a_collective/gunqnc5/",
+      "user": "ShutterIslander",
+      "text": "&gt;Other option is to let our street people take them out instead of each other.\n\nI thought you were already doing that??....i mean interracial crime stats certainly give that impression",
+      "sentiment": -0.1431
+    },
+    {
+      "id": "gunu2w5",
+      "url": "https://www.reddit.com/r/ADOSmovement/comments/mrgfif/closing_the_racial_wealth_gap_is_a_collective/gunu2w5/",
+      "user": "cydbeefree",
+      "text": "[https://www.youtube.com/watch?v=HkevXqjwlcg](https://www.youtube.com/watch?v=HkevXqjwlcg)",
+      "sentiment": 0.0
+    },
+    {
+      "id": "mrgfif",
+      "url": "https://www.reddit.com/r/ADOSmovement/comments/mrgfif/closing_the_racial_wealth_gap_is_a_collective/",
+      "user": "cydbeefree",
+      "text": "",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "gum19yo",
+      "mrgfif"
+    ],
+    [
+      "gum24az",
+      "mrgfif"
+    ],
+    [
+      "guncz2e",
+      "gum24az"
+    ],
+    [
+      "guneju5",
+      "mrgfif"
+    ],
+    [
+      "gunkwuo",
+      "guncz2e"
+    ],
+    [
+      "gunqnc5",
+      "guneju5"
+    ],
+    [
+      "gunu2w5",
+      "mrgfif"
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.menu div {
+  margin: 20px;
+  padding: 5px;
+}
+
+.label {
+  margin-right: 10px;  
+}

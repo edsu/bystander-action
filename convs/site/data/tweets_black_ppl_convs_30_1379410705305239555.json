@@ -1,0 +1,178 @@
+{
+  "nodes": [
+    {
+      "id": "1379485277832441856",
+      "url": "https://twitter.com/cheep_hardware/status/1379485277832441856",
+      "user": "cheep_hardware",
+      "text": "@Onitaset @JazzyDaddyDolla Eh",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1379485587908882432",
+      "url": "https://twitter.com/cheep_hardware/status/1379485587908882432",
+      "user": "cheep_hardware",
+      "text": "@Onitaset @JazzyDaddyDolla Rich ppl arent culture",
+      "sentiment": 0.5574
+    },
+    {
+      "id": "1379427980276039680",
+      "url": "https://twitter.com/Onitaset/status/1379427980276039680",
+      "user": "Onitaset",
+      "text": "@JazzyDaddyDolla No Black people so no Black energy.  Others are free to speak on their own people however they want.  I'm not the culture police.",
+      "sentiment": -0.3703
+    },
+    {
+      "id": "1379410705305239555",
+      "url": "https://twitter.com/JazzyDaddyDolla/status/1379410705305239555",
+      "user": "JazzyDaddyDolla",
+      "text": "This is fucking disgusting son https://t.co/ctuGrxsrGa",
+      "sentiment": -0.5709
+    },
+    {
+      "id": "1379455401461157893",
+      "url": "https://twitter.com/thebelovedone__/status/1379455401461157893",
+      "user": "thebelovedone__",
+      "text": "@JazzyDaddyDolla mind boggling.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1379452487518801926",
+      "url": "https://twitter.com/borntomub/status/1379452487518801926",
+      "user": "borntomub",
+      "text": "@JazzyDaddyDolla ain't no way they just compared Che to Hitler wtf bro. this is some next level filth",
+      "sentiment": -0.4427
+    },
+    {
+      "id": "1379431006948577280",
+      "url": "https://twitter.com/yinqathayi/status/1379431006948577280",
+      "user": "yinqathayi",
+      "text": "@JazzyDaddyDolla its called a TV Programme bcoz it literally programmes once mind into what the programmer wants, whilst disguised as entertainment,,,,",
+      "sentiment": 0.1779
+    },
+    {
+      "id": "1379427118283563010",
+      "url": "https://twitter.com/campanazone/status/1379427118283563010",
+      "user": "campanazone",
+      "text": "@JazzyDaddyDolla these mfs gotta be from miami \ud83d\ude2d",
+      "sentiment": -0.4767
+    },
+    {
+      "id": "1379427339222847489",
+      "url": "https://twitter.com/JazzyDaddyDolla/status/1379427339222847489",
+      "user": "JazzyDaddyDolla",
+      "text": "@campanazone For real! That\u2019s the only explanation",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1379414827991511040",
+      "url": "https://twitter.com/DavidAdekunle72/status/1379414827991511040",
+      "user": "DavidAdekunle72",
+      "text": "@JazzyDaddyDolla It was the Hitler comparison for me https://t.co/Bbu7mBBKbN",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1379413824575520780",
+      "url": "https://twitter.com/univrslsoldier/status/1379413824575520780",
+      "user": "univrslsoldier",
+      "text": "@JazzyDaddyDolla Gusano filth \ud83d\ude12\ud83d\ude12\ud83d\ude12",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1379414001998782465",
+      "url": "https://twitter.com/JazzyDaddyDolla/status/1379414001998782465",
+      "user": "JazzyDaddyDolla",
+      "text": "@univrslsoldier Real nasty behavior",
+      "sentiment": -0.5574
+    },
+    {
+      "id": "1379413896839229445",
+      "url": "https://twitter.com/univrslsoldier/status/1379413896839229445",
+      "user": "univrslsoldier",
+      "text": "@JazzyDaddyDolla they play w Che name so much man",
+      "sentiment": 0.34
+    },
+    {
+      "id": "1379412308296757248",
+      "url": "https://twitter.com/randombicommie/status/1379412308296757248",
+      "user": "randombicommie",
+      "text": "@JazzyDaddyDolla Makes me sick how they literally compared him to hitler",
+      "sentiment": -0.5106
+    },
+    {
+      "id": "1379411839918952449",
+      "url": "https://twitter.com/LebronHairline_/status/1379411839918952449",
+      "user": "LebronHairline_",
+      "text": "@JazzyDaddyDolla Fucking sick",
+      "sentiment": -0.5563
+    },
+    {
+      "id": "1379411719454347264",
+      "url": "https://twitter.com/JazzyDaddyDolla/status/1379411719454347264",
+      "user": "JazzyDaddyDolla",
+      "text": "Further proof that mass media is an extension of the state",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1379485277832441856",
+      "1379427980276039680"
+    ],
+    [
+      "1379485587908882432",
+      "1379485277832441856"
+    ],
+    [
+      "1379427980276039680",
+      "1379410705305239555"
+    ],
+    [
+      "1379455401461157893",
+      "1379410705305239555"
+    ],
+    [
+      "1379452487518801926",
+      "1379410705305239555"
+    ],
+    [
+      "1379431006948577280",
+      "1379410705305239555"
+    ],
+    [
+      "1379427118283563010",
+      "1379410705305239555"
+    ],
+    [
+      "1379427339222847489",
+      "1379427118283563010"
+    ],
+    [
+      "1379414827991511040",
+      "1379410705305239555"
+    ],
+    [
+      "1379413824575520780",
+      "1379410705305239555"
+    ],
+    [
+      "1379414001998782465",
+      "1379413824575520780"
+    ],
+    [
+      "1379413896839229445",
+      "1379413824575520780"
+    ],
+    [
+      "1379412308296757248",
+      "1379410705305239555"
+    ],
+    [
+      "1379411839918952449",
+      "1379410705305239555"
+    ],
+    [
+      "1379411719454347264",
+      "1379410705305239555"
+    ]
+  ]
+}

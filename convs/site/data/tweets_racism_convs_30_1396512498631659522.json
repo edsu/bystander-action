@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "1396552551751995392",
+      "url": "https://twitter.com/hear_and_yield/status/1396552551751995392",
+      "user": "hear_and_yield",
+      "text": "@MistressMolinky Interesting- I\u2019d love to know!",
+      "sentiment": 0.8016
+    },
+    {
+      "id": "1396594413674057728",
+      "url": "https://twitter.com/MistressMolinky/status/1396594413674057728",
+      "user": "MistressMolinky",
+      "text": "@hear_and_yield The Dutch National Opera have done a contemporary reimagining of Kurt Weill's Seven Deadly Sins which looks amazing.\\n\\nAnd the other eludes Me but I'll let you know when it oops into My head. \ud83d\ude0a",
+      "sentiment": 0.7906
+    },
+    {
+      "id": "1396535325737033734",
+      "url": "https://twitter.com/MistressMolinky/status/1396535325737033734",
+      "user": "MistressMolinky",
+      "text": "@hear_and_yield There are 2 new operas I really want to see that are far more contemporary. I'll have to find the names for you. One's about seven deadly sins in 21st century and the other... I can't remember. I saved it somewhere.",
+      "sentiment": -0.5774
+    },
+    {
+      "id": "1396527269867315202",
+      "url": "https://twitter.com/hear_and_yield/status/1396527269867315202",
+      "user": "hear_and_yield",
+      "text": "@MistressMolinky Exquisite opera. Just wish there was less patriarchy and racism in most of the plots.",
+      "sentiment": -0.2815
+    },
+    {
+      "id": "1396523523699580929",
+      "url": "https://twitter.com/MistressMolinky/status/1396523523699580929",
+      "user": "MistressMolinky",
+      "text": "@hear_and_yield Definitely. I remember the first time I saw Madame Butterfly. It was exquisite.",
+      "sentiment": 0.4019
+    },
+    {
+      "id": "1396522065985998850",
+      "url": "https://twitter.com/hear_and_yield/status/1396522065985998850",
+      "user": "hear_and_yield",
+      "text": "@MistressMolinky To be honest I would much rather be gifted experiences these days. Stuff is nice but I try not to be too consumerist. Besides, live music is the way to my soul.",
+      "sentiment": 0.4678
+    },
+    {
+      "id": "1396519387943915520",
+      "url": "https://twitter.com/MistressMolinky/status/1396519387943915520",
+      "user": "MistressMolinky",
+      "text": "@hear_and_yield The Royal Opera House? What an excellent gift. I never thought to include experiences and I love the arts. You deserve to be spoiled like the Lady you are. \ud83d\ude18",
+      "sentiment": 0.9442
+    },
+    {
+      "id": "1396512498631659522",
+      "url": "https://twitter.com/hear_and_yield/status/1396512498631659522",
+      "user": "hear_and_yield",
+      "text": "You can't always get what you want, but you can always work to provide for others.\\nhttps://t.co/zMuDbGkFjM https://t.co/6lDG46P0F0",
+      "sentiment": 0.0387
+    }
+  ],
+  "edges": [
+    [
+      "1396552551751995392",
+      "1396535325737033734"
+    ],
+    [
+      "1396594413674057728",
+      "1396552551751995392"
+    ],
+    [
+      "1396535325737033734",
+      "1396527269867315202"
+    ],
+    [
+      "1396527269867315202",
+      "1396523523699580929"
+    ],
+    [
+      "1396523523699580929",
+      "1396522065985998850"
+    ],
+    [
+      "1396522065985998850",
+      "1396519387943915520"
+    ],
+    [
+      "1396519387943915520",
+      "1396512498631659522"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "1363629047427854342",
+      "url": "https://twitter.com/lacadri34/status/1363629047427854342",
+      "user": "lacadri34",
+      "text": "privileged, white borrowers who will be helped the most.",
+      "sentiment": 0.4404
+    },
+    {
+      "id": "1363647498024149000",
+      "url": "https://twitter.com/ResistsAj/status/1363647498024149000",
+      "user": "ResistsAj",
+      "text": "@lacadri34 Don't forget job opportunities..",
+      "sentiment": -0.1326
+    },
+    {
+      "id": "1363628908789313538",
+      "url": "https://twitter.com/lacadri34/status/1363628908789313538",
+      "user": "lacadri34",
+      "text": "while your white counterparts don't AND still have access to intergenerational wealth. Anyone pretending this student loan forgiveness is going to even touch the surface of the racial wealth gap is lying. It's just another scenario of pretending to help people of color when it's",
+      "sentiment": 0.8225
+    },
+    {
+      "id": "1363628008179961862",
+      "url": "https://twitter.com/lacadri34/status/1363628008179961862",
+      "user": "lacadri34",
+      "text": "If you knew better, as a black person, you be asking for reparations that would include full student loan forgiveness. Let's go with the 50K SL forgiveness. You're still going to face institutional racism with regards to credit, business loans &amp; housing.",
+      "sentiment": 0.5574
+    }
+  ],
+  "edges": [
+    [
+      "1363629047427854342",
+      "1363628908789313538"
+    ],
+    [
+      "1363647498024149000",
+      "1363629047427854342"
+    ],
+    [
+      "1363628908789313538",
+      "1363628008179961862"
+    ]
+  ]
+}

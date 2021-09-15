@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "1396952191580000257",
+      "url": "https://twitter.com/cross_radical/status/1396952191580000257",
+      "user": "cross_radical",
+      "text": "ghettos, trailer parks, dead towns, rural areas full of racists, rich men who consume the bodies of the poor, plague, poverty, police violence, drug abuse. all as American as Ms Thang tryna fuck her coworker.",
+      "sentiment": -0.9732
+    },
+    {
+      "id": "1396953060048457728",
+      "url": "https://twitter.com/cross_radical/status/1396953060048457728",
+      "user": "cross_radical",
+      "text": "this is also me being like, i\u2019ve found a couple writers with mad skills who can hold their own with the bestselling literary material but write things that are just stomach churning. that and nostalgia for a time i never knew when stuff like that was condemned but read widely",
+      "sentiment": -0.2382
+    },
+    {
+      "id": "1396952190187577347",
+      "url": "https://twitter.com/cross_radical/status/1396952190187577347",
+      "user": "cross_radical",
+      "text": "not every story is about a woman in corporate America trying to get ahead while balancing her shit boyfriend. like that\u2019s fine, but for some people life is carnage and there needs to be space for that. and not just historical carnage, i mean contemporary carnage.",
+      "sentiment": -0.0387
+    },
+    {
+      "id": "1396952188585316353",
+      "url": "https://twitter.com/cross_radical/status/1396952188585316353",
+      "user": "cross_radical",
+      "text": "there ought to be room for literature that\u2019s fucked up in this world. and there is, but there ought to be more room on shelves and on social media and press. don\u2019t come at us with that \u201crealism\u201d shit and then be like \u201cwhoops too real.\u201d",
+      "sentiment": -0.6542
+    }
+  ],
+  "edges": [
+    [
+      "1396952191580000257",
+      "1396952190187577347"
+    ],
+    [
+      "1396953060048457728",
+      "1396952191580000257"
+    ],
+    [
+      "1396952190187577347",
+      "1396952188585316353"
+    ]
+  ]
+}

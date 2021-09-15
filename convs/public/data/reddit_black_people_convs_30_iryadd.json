@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "g54hkxo",
+      "url": "https://www.reddit.com/r/NEWPOLITIC/comments/iryadd/while_out_hunting_for_black_people_cops_take_a/g54hkxo/",
+      "user": "markmywords1347",
+      "text": "Canada is not having these problems right now. They manage forest better.\n\nFollowing a years-long series of extreme wildland fire seasons, 2020 has been one of Canada\u2019s quietist since the 1990s.\n\nhttps://cwfis.cfs.nrcan.gc.ca/report\n\nhttps://globalnews.ca/news/7286199/b-c-wildfire-map-2020/\n\nThis is going to happen next year under the current leadership.\n\nCommiefornia lacks proper land managment. Blame the dirty hippies.\n\nhttps://amgreatness.com/2020/09/09/environmentalists-destroyed-californias-forests/\n\nAnd apparently antifa had a hand in this.\n\nhttps://www.reddit.com/r/antifapassdenied/comments/iqkwt2/antifa_arsonist_arrested_near_tacoma_wa_after/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf",
+      "sentiment": 0.0976
+    },
+    {
+      "id": "g55kpk0",
+      "url": "https://www.reddit.com/r/NEWPOLITIC/comments/iryadd/while_out_hunting_for_black_people_cops_take_a/g55kpk0/",
+      "user": "HoneyPot-Gold",
+      "text": "Where did the part about hunting black people come from? Did I miss that in the article?",
+      "sentiment": -0.2406
+    },
+    {
+      "id": "g55pkfa",
+      "url": "https://www.reddit.com/r/NEWPOLITIC/comments/iryadd/while_out_hunting_for_black_people_cops_take_a/g55pkfa/",
+      "user": "conantheking",
+      "text": "Um... you must be new to America.\n\nWe all know that cops hunt black people as a matter of course.  \n\nNYT and LeBron James said so:\n\nhttps://www.nytimes.com/2019/12/06/nyregion/nyc-police-subway-racial-profiling.html\nhttps://www.westernjournal.com/lebron-james-says-black-people-literally-hunted-every-day-numbers-tell-different-story/\nhttps://www.dailywire.com/news/walsh-are-cops-hunting-down-black-men-statistics-say-no",
+      "sentiment": 0.0258
+    },
+    {
+      "id": "g55rzox",
+      "url": "https://www.reddit.com/r/NEWPOLITIC/comments/iryadd/while_out_hunting_for_black_people_cops_take_a/g55rzox/",
+      "user": "HoneyPot-Gold",
+      "text": "Oh, so you listen to NYT and Lebron James. That\u2019s your problem.\n\nWell, I\u2019m black and grew up in the ghetto. My current neighborhood literally has one white person living here. None of us, none of my family, none of my neighbors have been hunted by the police. We\u2019ve met racist cops, but we\u2019ve met far more fair and minority cops than racist or even white. I\u2019ve also dealt with racist teachers, coworkers, and store clerks... none of them have \u201chunted\u201d me or any black people I know... and I\u2019ve met far more kind and open-minded people than racist people in this country. \n\nI guess they only hunt black people where you live.",
+      "sentiment": -0.9165
+    },
+    {
+      "id": "g5616et",
+      "url": "https://www.reddit.com/r/NEWPOLITIC/comments/iryadd/while_out_hunting_for_black_people_cops_take_a/g5616et/",
+      "user": "conantheking",
+      "text": "Did I really need to put the /s after the comment?  Of course we know they're not hunting black people.  Lebron james probably knows this himself!\n\nDo I need to explain the obvious sarcasm.",
+      "sentiment": -0.2942
+    },
+    {
+      "id": "g56beaj",
+      "url": "https://www.reddit.com/r/NEWPOLITIC/comments/iryadd/while_out_hunting_for_black_people_cops_take_a/g56beaj/",
+      "user": "HoneyPot-Gold",
+      "text": "Oh damn, may bad. Last time someone made a comment like that, I thought it was a joke.. then, he ended up going off on me because he was serious as all hell. In the end, we ended up having it out because I basically had a white man trying to tell me that I\u2019m not only oppressed, but I don\u2019t know that I\u2019m oppressed.\n\nIt\u2019s comforting that you were joking because there are actually people who think this way, and that deeply fucking concerns me. \n\nI\u2019m sorry about that!",
+      "sentiment": -0.4432
+    },
+    {
+      "id": "g58fg3v",
+      "url": "https://www.reddit.com/r/NEWPOLITIC/comments/iryadd/while_out_hunting_for_black_people_cops_take_a/g58fg3v/",
+      "user": "conantheking",
+      "text": "I understand.  There are some crazy people out there",
+      "sentiment": -0.34
+    },
+    {
+      "id": "iryadd",
+      "url": "https://www.reddit.com/r/NEWPOLITIC/comments/iryadd/while_out_hunting_for_black_people_cops_take_a/",
+      "user": "conantheking",
+      "text": "https://www.dailymail.co.uk/news/article-8721359/Evacuate-Wildfires-grow-Oregon-500K-flee.html",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "g54hkxo",
+      "iryadd"
+    ],
+    [
+      "g55kpk0",
+      "iryadd"
+    ],
+    [
+      "g55pkfa",
+      "g55kpk0"
+    ],
+    [
+      "g55rzox",
+      "g55pkfa"
+    ],
+    [
+      "g5616et",
+      "g55rzox"
+    ],
+    [
+      "g56beaj",
+      "g5616et"
+    ],
+    [
+      "g58fg3v",
+      "g56beaj"
+    ]
+  ]
+}

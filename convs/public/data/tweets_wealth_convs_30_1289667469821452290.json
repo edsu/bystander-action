@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "1289667469821452290",
+      "url": "https://twitter.com/StribBiz/status/1289667469821452290",
+      "user": "StribBiz",
+      "text": "None of the 50 top-paid public company CEOs in Minnesota are Black \u2014 this lack of diversity among top executives feeds our state's persistent wealth gap, @LeeASchafer writes. https://t.co/GbchvxZMKR",
+      "sentiment": 0.3346
+    },
+    {
+      "id": "1289753844323438592",
+      "url": "https://twitter.com/Tuhmunga/status/1289753844323438592",
+      "user": "Tuhmunga",
+      "text": "@StribBiz @StarTribune @LeeASchafer They're top CEO's because they're simply judged by their qualifications and performance, not irrelevant factors like skin color or gender. That's the way it's supposed to be.   Don't like it? Well, get over yourself.",
+      "sentiment": -0.4997
+    },
+    {
+      "id": "1289744420141535235",
+      "url": "https://twitter.com/Upton1000/status/1289744420141535235",
+      "user": "Upton1000",
+      "text": "@StribBiz @StarTribune @LeeASchafer Are any of them native American, Hispanic or Asian? I\u2019m very curious why you only call out the lack of black leaders",
+      "sentiment": 0.0754
+    },
+    {
+      "id": "1289701042490183681",
+      "url": "https://twitter.com/gmanm1/status/1289701042490183681",
+      "user": "gmanm1",
+      "text": "@StribBiz @StarTribune @LeeASchafer A CEO is in the business of making sure the business is profitable\\n\\nA CEO is not a parent who cuts everyone an equal slice of pie",
+      "sentiment": 0.0258
+    },
+    {
+      "id": "1289695635021500416",
+      "url": "https://twitter.com/UnpopularStance/status/1289695635021500416",
+      "user": "UnpopularStance",
+      "text": "@StribBiz @StarTribune @LeeASchafer Why not also call out the lack of diversity in the NFL, NBA, Boxing, and Track &amp; Field? Their compensation makes business leaders look like peanuts... Additionally, is \u201cdiversity\u201d simply based on skin color? That premise is inherently discriminatory itself...",
+      "sentiment": 0.1431
+    },
+    {
+      "id": "1289678104303034368",
+      "url": "https://twitter.com/RomanRoyLive/status/1289678104303034368",
+      "user": "RomanRoyLive",
+      "text": "@StribBiz @StarTribune @LeeASchafer Curious about the breakdown of executive positions at the Star Trib?",
+      "sentiment": 0.3182
+    },
+    {
+      "id": "1289675211294400512",
+      "url": "https://twitter.com/LibreMinnesota/status/1289675211294400512",
+      "user": "LibreMinnesota",
+      "text": "@StribBiz @StarTribune @LeeASchafer We have a wealth gap because the DFL controlled Minneapolis school district graduates only 67% of their students #stribpol #mnleg",
+      "sentiment": 0.4939
+    },
+    {
+      "id": "1289674080002510849",
+      "url": "https://twitter.com/TKrueger71/status/1289674080002510849",
+      "user": "TKrueger71",
+      "text": "@BoogalooCol @StribBiz @StarTribune @LeeASchafer Are you serious? Wow...",
+      "sentiment": 0.5423
+    }
+  ],
+  "edges": [
+    [
+      "1289753844323438592",
+      "1289667469821452290"
+    ],
+    [
+      "1289744420141535235",
+      "1289667469821452290"
+    ],
+    [
+      "1289701042490183681",
+      "1289667469821452290"
+    ],
+    [
+      "1289695635021500416",
+      "1289667469821452290"
+    ],
+    [
+      "1289678104303034368",
+      "1289667469821452290"
+    ],
+    [
+      "1289675211294400512",
+      "1289667469821452290"
+    ],
+    [
+      "1289674080002510849",
+      "1289673089152716800"
+    ]
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "nodes": [
+    {
+      "id": "1367871220880973829",
+      "url": "https://twitter.com/CWhatHpnWaz/status/1367871220880973829",
+      "user": "CWhatHpnWaz",
+      "text": "@themissesquire @HKpessou Oooh, you making want one. \ud83d\udc41 \\nCan\u2019t wait to hear your thoughts !",
+      "sentiment": 0.1511
+    },
+    {
+      "id": "1367873589869953034",
+      "url": "https://twitter.com/themissesquire/status/1367873589869953034",
+      "user": "themissesquire",
+      "text": "@CWhatHpnWaz @HKpessou Yes! 10/10 recommend!",
+      "sentiment": 0.6988
+    },
+    {
+      "id": "1367556406996586501",
+      "url": "https://twitter.com/themissesquire/status/1367556406996586501",
+      "user": "themissesquire",
+      "text": "It finally arrived! \ud83e\udd70 Excellent Love Day gifts to myself from a Black owned business. The quality is impeccable.\\n\\nBag: @HKpessou https://t.co/6omY0jfGwE",
+      "sentiment": 0.9476
+    },
+    {
+      "id": "1367557475013165062",
+      "url": "https://twitter.com/themissesquire/status/1367557475013165062",
+      "user": "themissesquire",
+      "text": "Will post more about it soon along with other products on my blog (link in bio), but it was so gorg that I had to share immediately!\\n\\nThank you for sharing yours, @_kaybeee, cause you inspired me to finally purchase. \ud83d\ude02",
+      "sentiment": 0.9427
+    },
+    {
+      "id": "1367565847892545541",
+      "url": "https://twitter.com/_kaybeee/status/1367565847892545541",
+      "user": "_kaybeee",
+      "text": "@themissesquire Yes boo! You\u2019re so welcome. I love my bag!!! Enjoy!",
+      "sentiment": 0.9468
+    },
+    {
+      "id": "1367556546557804544",
+      "url": "https://twitter.com/HKpessou/status/1367556546557804544",
+      "user": "HKpessou",
+      "text": "@themissesquire thank you for your support",
+      "sentiment": 0.6369
+    },
+    {
+      "id": "1367558195846270982",
+      "url": "https://twitter.com/themissesquire/status/1367558195846270982",
+      "user": "themissesquire",
+      "text": "@HKpessou Of course!",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1367871220880973829",
+      "1367556406996586501"
+    ],
+    [
+      "1367873589869953034",
+      "1367871220880973829"
+    ],
+    [
+      "1367557475013165062",
+      "1367556406996586501"
+    ],
+    [
+      "1367565847892545541",
+      "1367557475013165062"
+    ],
+    [
+      "1367556546557804544",
+      "1367556406996586501"
+    ],
+    [
+      "1367558195846270982",
+      "1367556546557804544"
+    ]
+  ]
+}

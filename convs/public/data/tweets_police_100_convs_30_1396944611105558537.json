@@ -1,0 +1,138 @@
+{
+  "nodes": [
+    {
+      "id": "1396948781808164864",
+      "url": "https://twitter.com/emmito_burrito/status/1396948781808164864",
+      "user": "emmito_burrito",
+      "text": "@monsterofcook police unions should be involved in police pay and working conditions but should have to stay out of legal issues surrounding police violence",
+      "sentiment": -0.7269
+    },
+    {
+      "id": "1397008063069032448",
+      "url": "https://twitter.com/markerhft/status/1397008063069032448",
+      "user": "markerhft",
+      "text": "@emmito_burrito @monsterofcook A lot of the expanded rights they've received in the last few decades has been because municipalities couldn't pay them more",
+      "sentiment": 0.0762
+    },
+    {
+      "id": "1396959590424715266",
+      "url": "https://twitter.com/3theLeft_/status/1396959590424715266",
+      "user": "3theLeft_",
+      "text": "@monsterofcook Why do you hate the global poor?",
+      "sentiment": -0.7783
+    },
+    {
+      "id": "1396958646194556928",
+      "url": "https://twitter.com/3theLeft_/status/1396958646194556928",
+      "user": "3theLeft_",
+      "text": "@monsterofcook I don't think we should fuck over anybody. I also don't think that things that are different are actually the same.",
+      "sentiment": -0.5423
+    },
+    {
+      "id": "1396957571462930434",
+      "url": "https://twitter.com/3theLeft_/status/1396957571462930434",
+      "user": "3theLeft_",
+      "text": "@monsterofcook please do tell me about the wealthy capitalist against whom the teachers and police are collectively bargaining",
+      "sentiment": 0.5859
+    },
+    {
+      "id": "1396955222359134214",
+      "url": "https://twitter.com/AdverbReclaimer/status/1396955222359134214",
+      "user": "AdverbReclaimer",
+      "text": "@SigmaJrewg @keyyng @monsterofcook @One____Nation Key is the man.",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396955422150602754",
+      "url": "https://twitter.com/keyyng/status/1396955422150602754",
+      "user": "keyyng",
+      "text": "@AnarchoKhakiist @SigmaJrewg @monsterofcook @One____Nation Thank you brother my degenerate in arms https://t.co/KDUSoTUklp",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "1396954359972433922",
+      "url": "https://twitter.com/keyyng/status/1396954359972433922",
+      "user": "keyyng",
+      "text": "@AnarchoKhakiist @monsterofcook @One____Nation @SigmaJrewg Your discourse is so needed in life",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396954471352131585",
+      "url": "https://twitter.com/AdverbReclaimer/status/1396954471352131585",
+      "user": "AdverbReclaimer",
+      "text": "@keyyng @monsterofcook @One____Nation @SigmaJrewg TY king",
+      "sentiment": 0.516
+    },
+    {
+      "id": "1396953521971507200",
+      "url": "https://twitter.com/AdverbReclaimer/status/1396953521971507200",
+      "user": "AdverbReclaimer",
+      "text": "@monsterofcook @One____Nation @SigmaJrewg Myles do it fart?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396953817044996109",
+      "url": "https://twitter.com/Coldoorr/status/1396953817044996109",
+      "user": "Coldoorr",
+      "text": "@One____Nation @monsterofcook @SigmaJrewg Southwest female",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396952847002992642",
+      "url": "https://twitter.com/MaoistBidenism/status/1396952847002992642",
+      "user": "MaoistBidenism",
+      "text": "@redactebdarry @monsterofcook based",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1396948781808164864",
+      "1396945236337827843"
+    ],
+    [
+      "1397008063069032448",
+      "1396948781808164864"
+    ],
+    [
+      "1396959590424715266",
+      "1396958977217470465"
+    ],
+    [
+      "1396958646194556928",
+      "1396957895124733958"
+    ],
+    [
+      "1396957571462930434",
+      "1396944611105558537"
+    ],
+    [
+      "1396955222359134214",
+      "1396954545381650435"
+    ],
+    [
+      "1396955422150602754",
+      "1396955222359134214"
+    ],
+    [
+      "1396954359972433922",
+      "1396953521971507200"
+    ],
+    [
+      "1396954471352131585",
+      "1396954359972433922"
+    ],
+    [
+      "1396953521971507200",
+      "1396952640358080517"
+    ],
+    [
+      "1396953817044996109",
+      "1396952583822921728"
+    ],
+    [
+      "1396952847002992642",
+      "1396946804588089354"
+    ]
+  ]
+}

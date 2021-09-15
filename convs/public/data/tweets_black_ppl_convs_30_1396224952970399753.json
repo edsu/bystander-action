@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {
+      "id": "1396228694654455812",
+      "url": "https://twitter.com/arisxtale/status/1396228694654455812",
+      "user": "arisxtale",
+      "text": "@DontAsk_x2 i was about to ask what he do now but i saw \ud83d\ude2d",
+      "sentiment": -0.631
+    }
+  ],
+  "edges": [
+    [
+      "1396228694654455812",
+      "1396224952970399753"
+    ]
+  ]
+}

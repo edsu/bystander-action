@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1280235264066170888",
+      "url": "https://twitter.com/TroyHalibur/status/1280235264066170888",
+      "user": "TroyHalibur",
+      "text": "Politicians are playing a very dangerous game conflating Black Lives Matter and Black on Black crime and they honestly need to cut it out.",
+      "sentiment": -0.624
+    },
+    {
+      "id": "1280281914323226630",
+      "url": "https://twitter.com/DCStones1978/status/1280281914323226630",
+      "user": "DCStones1978",
+      "text": "@TroyHalibur So looking forward to getting together with you my friend. \u270c\ud83c\udffb",
+      "sentiment": 0.7506
+    }
+  ],
+  "edges": [
+    [
+      "1280281914323226630",
+      "1280235264066170888"
+    ]
+  ]
+}

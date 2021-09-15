@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1374469084117528577",
+      "url": "https://twitter.com/USRepKCastor/status/1374469084117528577",
+      "user": "USRepKCastor",
+      "text": "Our African American and Latino communities are lagging in #COVID19 vaccinations, and I\u2019m grateful for the work of local partners like Iglesia de Dios Pentecostal M.I. Church that held a vaccination event to get shots in the arms. https://t.co/wC957SLGnQ",
+      "sentiment": 0.5267
+    },
+    {
+      "id": "1374469085430304768",
+      "url": "https://twitter.com/USRepKCastor/status/1374469085430304768",
+      "user": "USRepKCastor",
+      "text": "The #AmericanRescuePlan will fund more shots and get vaccines out to all Americans quickly and equitably through community vaccination centers, mobile units, VA clinics, health centers, pharmacies and grocery stores. Get vaccinated when you are eligible, #Tampa!",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1374469085430304768",
+      "1374469084117528577"
+    ]
+  ]
+}

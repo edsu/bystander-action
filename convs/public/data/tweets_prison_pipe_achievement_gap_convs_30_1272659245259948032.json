@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {
+      "id": "1272659826200510464",
+      "url": "https://twitter.com/_imcountry/status/1272659826200510464",
+      "user": "_imcountry",
+      "text": "@cb_greg I knew since high school. I had to write a paper once on the school to prison pipeline.",
+      "sentiment": -0.5106
+    }
+  ],
+  "edges": [
+    [
+      "1272659826200510464",
+      "1272659245259948032"
+    ]
+  ]
+}

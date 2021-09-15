@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1396081907155226625",
+      "url": "https://twitter.com/realAmadioha/status/1396081907155226625",
+      "user": "realAmadioha",
+      "text": "Stop the French backed #GenocideInSouthernCameroons #FreeSouthernCameroons #BlackLivesMatter #BlackHistoryEveryMonth\\n\\n@IndiaUNNewYork @NorwayUN @irishmissionun @KenyaMissionUN @MexOnu @CanadaUN @GermanyUN @UKUN_NewYork @USUN @RussiaUN @Turkey_UN @DutchMFA https://t.co/1HZKX51PdC",
+      "sentiment": -0.2732
+    },
+    {
+      "id": "1396082715892625410",
+      "url": "https://twitter.com/NuriaLlibertat2/status/1396082715892625410",
+      "user": "NuriaLlibertat2",
+      "text": "@realAmadioha @IndiaUNNewYork @NorwayUN @irishmissionun @KenyaMissionUN @MexOnu @CanadaUN @GermanyUN @UKUN_NewYork @USUN @RussiaUN @Turkey_UN @DutchMFA \ud83d\ude4f\u2764\u270a\\nAbra\u00e7ada \ud83e\udd70\ud83c\udf3b\ud83d\ude18\u2764",
+      "sentiment": 0.9612
+    }
+  ],
+  "edges": [
+    [
+      "1396082715892625410",
+      "1396081907155226625"
+    ]
+  ]
+}

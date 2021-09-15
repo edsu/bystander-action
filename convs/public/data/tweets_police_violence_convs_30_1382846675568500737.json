@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "1383085609267437575",
+      "url": "https://twitter.com/EIucido/status/1383085609267437575",
+      "user": "EIucido",
+      "text": "@oly_jj @SierraClubIL @SierraClub THATS what you're worried about. Fucking idiot, just leave.",
+      "sentiment": -0.7397
+    },
+    {
+      "id": "1382846756501790720",
+      "url": "https://twitter.com/SierraClubIL/status/1382846756501790720",
+      "user": "SierraClubIL",
+      "text": "The Chicago Police shot and killed Adam Toledo, a thirteen-year-old boy in Little Village, while his hands were up and empty. Our thoughts are with the Toledo family and the countless others who have lost their lives or family members to police violence and systemic racism.",
+      "sentiment": -0.9501
+    },
+    {
+      "id": "1383074834335223808",
+      "url": "https://twitter.com/racism_checks/status/1383074834335223808",
+      "user": "racism_checks",
+      "text": "@SierraClubIL @burntkiss u can share your racism related post is our site https://t.co/oS16VGqrCH or our page https://t.co/xHpuzK81M0 https://t.co/gliqMmgA0L",
+      "sentiment": -0.4404
+    },
+    {
+      "id": "1382874635352616963",
+      "url": "https://twitter.com/NIACHIRIE/status/1382874635352616963",
+      "user": "NIACHIRIE",
+      "text": "@Karen3737 @mtbBrski @SierraClubIL @SierraClub You are responding to people\u2019s tweets to praise the murder of a 13 year old child. \\n\\nB!tch you are fvcking sick.",
+      "sentiment": -0.69
+    },
+    {
+      "id": "1382861927987167240",
+      "url": "https://twitter.com/mtbBrski/status/1382861927987167240",
+      "user": "mtbBrski",
+      "text": "@Karen3737 @SierraClubIL @SierraClub I cannot imagine advocating for killing children. Especially one that complied, dropped the gun, put his hands up, THEN was shot.",
+      "sentiment": -0.7783
+    },
+    {
+      "id": "1382857867213017098",
+      "url": "https://twitter.com/mtbBrski/status/1382857867213017098",
+      "user": "mtbBrski",
+      "text": "@Karen3737 @SierraClubIL @SierraClub True. But we also don\u2019t need cops killing them either.",
+      "sentiment": -0.7351
+    },
+    {
+      "id": "1382846831474970625",
+      "url": "https://twitter.com/SierraClubIL/status/1382846831474970625",
+      "user": "SierraClubIL",
+      "text": "We desperately need policy change that creates safety through community and public investment, rather than investing in a system that kills and incarcerates Black and Brown people. \\n#JusticeForAdamToledo #justiciaParaAdamToledo",
+      "sentiment": -0.296
+    },
+    {
+      "id": "1382846675568500737",
+      "url": "https://twitter.com/SierraClubIL/status/1382846675568500737",
+      "user": "SierraClubIL",
+      "text": "We want to amplify a protest organized by @LVEJO , @GKMC18, and others in Logan Square tomorrow at 5:30 pm. Join them to demand justice for Adam Toledo and victims of police violence. https://t.co/wGFBpIdoJ0",
+      "sentiment": -0.4588
+    }
+  ],
+  "edges": [
+    [
+      "1383085609267437575",
+      "1382857491676024834"
+    ],
+    [
+      "1382846756501790720",
+      "1382846675568500737"
+    ],
+    [
+      "1383074834335223808",
+      "1382846756501790720"
+    ],
+    [
+      "1382874635352616963",
+      "1382858133391953920"
+    ],
+    [
+      "1382861927987167240",
+      "1382858133391953920"
+    ],
+    [
+      "1382857867213017098",
+      "1382853145764753408"
+    ],
+    [
+      "1382846831474970625",
+      "1382846756501790720"
+    ]
+  ]
+}

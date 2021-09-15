@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "id": "1389711221763592195",
+      "url": "https://twitter.com/kmbc/status/1389711221763592195",
+      "user": "kmbc",
+      "text": "Derek Chauvin's attorney has filed a motion seeking a new trial https://t.co/YUmdhJXGdk",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1389744291971489792",
+      "url": "https://twitter.com/JeffSta39052608/status/1389744291971489792",
+      "user": "JeffSta39052608",
+      "text": "@kmbc Defense should have included the reenactment\\nhttps://t.co/XOOkUvQi9I",
+      "sentiment": 0.128
+    },
+    {
+      "id": "1389724219760685060",
+      "url": "https://twitter.com/corkymcgee/status/1389724219760685060",
+      "user": "corkymcgee",
+      "text": "@redbuddha_ @kmbc Saying someone you don't know in a case you weren't one was guilty\\n\\nSaying everyone deserves a fair trial\\n\\nPick one.",
+      "sentiment": 0.3182
+    },
+    {
+      "id": "1389730689508155393",
+      "url": "https://twitter.com/redbuddha_/status/1389730689508155393",
+      "user": "redbuddha_",
+      "text": "@corkymcgee @kmbc Um, what??? You weren\u2019t one was guilty??? Delete your tweet and try again.",
+      "sentiment": -0.5803
+    },
+    {
+      "id": "1389717032736890892",
+      "url": "https://twitter.com/redbuddha_/status/1389717032736890892",
+      "user": "redbuddha_",
+      "text": "@kmbc He is probably guilty of at least manslaughter, but the jury pool was tainted and the judge should\u2019ve ruled a mistral. Everyone deserves a fair trial, chauvin didn\u2019t get one.",
+      "sentiment": 0.2617
+    },
+    {
+      "id": "1389712318100086785",
+      "url": "https://twitter.com/Eliezar/status/1389712318100086785",
+      "user": "Eliezar",
+      "text": "@kmbc https://t.co/6fGBXe9caP",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1389744291971489792",
+      "1389711221763592195"
+    ],
+    [
+      "1389724219760685060",
+      "1389717032736890892"
+    ],
+    [
+      "1389730689508155393",
+      "1389724219760685060"
+    ],
+    [
+      "1389717032736890892",
+      "1389711221763592195"
+    ],
+    [
+      "1389712318100086785",
+      "1389711221763592195"
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1381084766200549376",
+      "url": "https://twitter.com/ReelJordiSteel/status/1381084766200549376",
+      "user": "ReelJordiSteel",
+      "text": "First African-American to main event a Mania and first Main Event in which both competitors are POC. #WrestleMania37 #WrestleMania",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1381086488679608322",
+      "url": "https://twitter.com/ReelJordiSteel/status/1381086488679608322",
+      "user": "ReelJordiSteel",
+      "text": "*ummm actually the Rock-yes I know the Rock but he\u2019s half-Samoan so I\u2019m just nitpicking.",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1381086488679608322",
+      "1381084766200549376"
+    ]
+  ]
+}

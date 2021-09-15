@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1351464750559985664",
+      "url": "https://twitter.com/WTEN/status/1351464750559985664",
+      "user": "WTEN",
+      "text": "The package will allow low- and moderate-income borrowers, particularly households of color, to achieve homeownership and put historically underserved communities on track to close the racial wealth gap.\\nhttps://t.co/Sbib0mtxiO",
+      "sentiment": 0.4588
+    },
+    {
+      "id": "1351482896385675270",
+      "url": "https://twitter.com/DaveLapell/status/1351482896385675270",
+      "user": "DaveLapell",
+      "text": "@WTEN https://t.co/hlAkvTOkqt",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1351482723886501891",
+      "url": "https://twitter.com/DaveLapell/status/1351482723886501891",
+      "user": "DaveLapell",
+      "text": "@WTEN That's exactly what led to the 2008 housing crisis, banks giving out loans to people who couldn't afford it. So NY state, using taxpayer money will get into predatory lending? Maybe people could afford homes if NY's taxes weren't so high &amp; Dems weren't driving businesses out.",
+      "sentiment": -0.4019
+    }
+  ],
+  "edges": [
+    [
+      "1351482896385675270",
+      "1351464750559985664"
+    ],
+    [
+      "1351482723886501891",
+      "1351464750559985664"
+    ]
+  ]
+}

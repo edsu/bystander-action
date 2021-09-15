@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1384836410474180609",
+      "url": "https://twitter.com/DarshunKendrick/status/1384836410474180609",
+      "user": "DarshunKendrick",
+      "text": "Good morning all:\\n\\nIt's a great day to continue to work towards an America where black people don't have to celebrate in the streets when justice is served. \u270a\ud83c\udffe",
+      "sentiment": 0.8127
+    },
+    {
+      "id": "1385743620557479941",
+      "url": "https://twitter.com/daniel_kurz/status/1385743620557479941",
+      "user": "daniel_kurz",
+      "text": "@DarshunKendrick You are absolutely right",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1385743620557479941",
+      "1384836410474180609"
+    ]
+  ]
+}

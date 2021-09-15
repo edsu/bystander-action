@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "1309596490374017027",
+      "url": "https://twitter.com/nckhui/status/1309596490374017027",
+      "user": "nckhui",
+      "text": "Jen Mangrum disputes Catherine Truitt's statement that NC hasn't made education gains in the past 3 decades. Mangrum cites Linda Darling-Hammond saying how sustained financial investments led to NC doing more than any other state to close achievement gap in 1990s. #nced #ncpol",
+      "sentiment": -0.4829
+    },
+    {
+      "id": "1309832985458495489",
+      "url": "https://twitter.com/gsinders/status/1309832985458495489",
+      "user": "gsinders",
+      "text": "@nckhui I am supporting @CTruittNC for NC Superintendent of Public Instruction. She is a former teacher and Chancellor of Western Governor\u2019s University NC. She will lead this state in closing the achievement gaps for all students!",
+      "sentiment": 0.4926
+    },
+    {
+      "id": "1309621638053466113",
+      "url": "https://twitter.com/Gibsonknows/status/1309621638053466113",
+      "user": "Gibsonknows",
+      "text": "@nckhui @jenmangrumfornc has a grasp on the current and past education successes and she\u2019s not afraid of laying out an ambitious future for NC\u2019s children and teachers!  @CTruittNC is a babysitter for a computer closet!",
+      "sentiment": 0.8065
+    },
+    {
+      "id": "1309596817626202114",
+      "url": "https://twitter.com/nckhui/status/1309596817626202114",
+      "user": "nckhui",
+      "text": "Jen Mangrum says NC can close those achievement gaps again if state is willing to invest significantly more in public education. #nced #ncpol",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1309832985458495489",
+      "1309596490374017027"
+    ],
+    [
+      "1309621638053466113",
+      "1309596490374017027"
+    ],
+    [
+      "1309596817626202114",
+      "1309596490374017027"
+    ]
+  ]
+}

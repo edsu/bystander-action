@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "1390685839458451457",
+      "url": "https://twitter.com/jillyvstheworld/status/1390685839458451457",
+      "user": "jillyvstheworld",
+      "text": "I\u2019m a former Philadelphia prosecutor and a proud liberal. I believe in criminal justice reform and uprooting systemic racism from within. And I believe that deserves better than the Krasner DAO. https://t.co/7rTX5i9dRj",
+      "sentiment": 0.2263
+    },
+    {
+      "id": "1391050833475817472",
+      "url": "https://twitter.com/DADDYWARBUCKS46/status/1391050833475817472",
+      "user": "DADDYWARBUCKS46",
+      "text": "@jillyvstheworld A liberal will not prioritize any victim. Come on people. And especially a proud liberal would never put victims first.",
+      "sentiment": 0.7314
+    },
+    {
+      "id": "1390803261125533697",
+      "url": "https://twitter.com/GCTweets3/status/1390803261125533697",
+      "user": "GCTweets3",
+      "text": "@jillyvstheworld I\u2019m not arguing or trying to be sarcastic.\\nBut, can you elaborate on this \u201csystemic racism\u201d?  I know the phrase is tossed around a lot, but I don\u2019t see it and I don\u2019t believe it.  I\u2019m being serious.  I\u2019m not trying to bait you into an argument or anything.  Just a serious ??",
+      "sentiment": -0.6059
+    },
+    {
+      "id": "1390792572847669252",
+      "url": "https://twitter.com/BernardoMb77/status/1390792572847669252",
+      "user": "BernardoMb77",
+      "text": "@jillyvstheworld Krasner is a joke!!! He gotta go!!!",
+      "sentiment": 0.5216
+    },
+    {
+      "id": "1390742797385445380",
+      "url": "https://twitter.com/Johnny_dramaPA/status/1390742797385445380",
+      "user": "Johnny_dramaPA",
+      "text": "@jillyvstheworld And a hottie to boot ! https://t.co/I1SW1tWVqW",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1390726148418646024",
+      "url": "https://twitter.com/TonyBrunoShow/status/1390726148418646024",
+      "user": "TonyBrunoShow",
+      "text": "@jillyvstheworld Thank you for seeing this is not about partisan politics or out of town donors from Hollywood or Ice Cream millionaires. @larrykrasner has failed our city and must be removed.",
+      "sentiment": -0.2023
+    },
+    {
+      "id": "1390732175855718400",
+      "url": "https://twitter.com/junod42/status/1390732175855718400",
+      "user": "junod42",
+      "text": "@TonyBrunoShow @jillyvstheworld @LarryKrasner You are correct Tony, this is about incompetence &amp; arrogance &amp; lack of empathy for victims of crime ...",
+      "sentiment": -0.93
+    },
+    {
+      "id": "1390687174761369606",
+      "url": "https://twitter.com/jillyvstheworld/status/1390687174761369606",
+      "user": "jillyvstheworld",
+      "text": "*that Philadelphia deserves better",
+      "sentiment": 0.4404
+    }
+  ],
+  "edges": [
+    [
+      "1391050833475817472",
+      "1390685839458451457"
+    ],
+    [
+      "1390803261125533697",
+      "1390685839458451457"
+    ],
+    [
+      "1390792572847669252",
+      "1390685839458451457"
+    ],
+    [
+      "1390742797385445380",
+      "1390685839458451457"
+    ],
+    [
+      "1390726148418646024",
+      "1390685839458451457"
+    ],
+    [
+      "1390732175855718400",
+      "1390726148418646024"
+    ],
+    [
+      "1390687174761369606",
+      "1390685839458451457"
+    ]
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "nodes": [
+    {
+      "id": "1376215627665448961",
+      "url": "https://twitter.com/pannlewis44/status/1376215627665448961",
+      "user": "pannlewis44",
+      "text": "@rick00979 @Ireland0828 @LesaPamplin @docrocktex26 @Hopey_70 @DWapenveld  I wander how many Black People were whipped there for trying to learn how to read. I bet the master feared they would want to vote one day. https://t.co/lFsUan2beE",
+      "sentiment": -0.4404
+    },
+    {
+      "id": "1376358828124606467",
+      "url": "https://twitter.com/pannlewis44/status/1376358828124606467",
+      "user": "pannlewis44",
+      "text": "@rick00979 @Ireland0828 @LesaPamplin @docrocktex26 @Hopey_70 @DWapenveld I\u2019m surprised they don\u2019t stick with trump\u2019s new system. If they say you lost, beat them until they say you won. \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f https://t.co/JMoF0pDPwe",
+      "sentiment": 0.5106
+    },
+    {
+      "id": "1376335433249009664",
+      "url": "https://twitter.com/DWapenveld/status/1376335433249009664",
+      "user": "DWapenveld",
+      "text": "@pannlewis44 @rick00979 @Ireland0828 @LesaPamplin @docrocktex26 @Hopey_70 https://t.co/sRMw01Sxuj",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1376338813690245121",
+      "url": "https://twitter.com/Oldbutcares/status/1376338813690245121",
+      "user": "Oldbutcares",
+      "text": "@DWapenveld @Ireland0828 @pannlewis44 @rick00979 @LesaPamplin @docrocktex26 @Hopey_70 PRETTY MUCH A SLAP IN THE FACE!!!",
+      "sentiment": 0.7988
+    },
+    {
+      "id": "1376337179467743233",
+      "url": "https://twitter.com/Go_NYC1/status/1376337179467743233",
+      "user": "Go_NYC1",
+      "text": "@DWapenveld @Ireland0828 @pannlewis44 @rick00979 @LesaPamplin @docrocktex26 @Hopey_70 #Truth",
+      "sentiment": 0.3182
+    },
+    {
+      "id": "1376219904274264073",
+      "url": "https://twitter.com/pannlewis44/status/1376219904274264073",
+      "user": "pannlewis44",
+      "text": "@DWapenveld @rick00979 @Ireland0828 @LesaPamplin @docrocktex26 @Hopey_70 I heard some of these big companies already bottle water and could use some Great PR. \ud83e\udd14 https://t.co/72WTdlWotz",
+      "sentiment": 0.6249
+    },
+    {
+      "id": "1376307720517738498",
+      "url": "https://twitter.com/pannlewis44/status/1376307720517738498",
+      "user": "pannlewis44",
+      "text": "@DWapenveld @rick00979 @Ireland0828 @LesaPamplin @docrocktex26 @Hopey_70 @CocaCola",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1376216490710552581",
+      "url": "https://twitter.com/pannlewis44/status/1376216490710552581",
+      "user": "pannlewis44",
+      "text": "@rick00979 @Ireland0828 @LesaPamplin @docrocktex26 @Hopey_70 @DWapenveld @KelliSmith15 @Robin_Volpi @birdieglad @veterans_i @DaOGTriple @DLTrunnell",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1376239749879447554",
+      "url": "https://twitter.com/birdieglad/status/1376239749879447554",
+      "user": "birdieglad",
+      "text": "@pannlewis44 @rick00979 @Ireland0828 @LesaPamplin @docrocktex26 @Hopey_70 @DWapenveld @KelliSmith15 @Robin_Volpi @veterans_i @DaOGTriple @DLTrunnell Terrible \ud83d\ude1e",
+      "sentiment": -0.7351
+    },
+    {
+      "id": "1376217381899489286",
+      "url": "https://twitter.com/DWapenveld/status/1376217381899489286",
+      "user": "DWapenveld",
+      "text": "@pannlewis44 @rick00979 @Ireland0828 @LesaPamplin @docrocktex26 @Hopey_70 https://t.co/BboZvdtMDh",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1376212170367758340",
+      "url": "https://twitter.com/rick00979/status/1376212170367758340",
+      "user": "rick00979",
+      "text": "Our View: Marching backward into history https://t.co/695YQlJb2o",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1376215627665448961",
+      "1376212170367758340"
+    ],
+    [
+      "1376358828124606467",
+      "1376215627665448961"
+    ],
+    [
+      "1376335433249009664",
+      "1376215627665448961"
+    ],
+    [
+      "1376338813690245121",
+      "1376335433249009664"
+    ],
+    [
+      "1376337179467743233",
+      "1376335433249009664"
+    ],
+    [
+      "1376219904274264073",
+      "1376217381899489286"
+    ],
+    [
+      "1376307720517738498",
+      "1376219904274264073"
+    ],
+    [
+      "1376216490710552581",
+      "1376215627665448961"
+    ],
+    [
+      "1376239749879447554",
+      "1376216490710552581"
+    ],
+    [
+      "1376217381899489286",
+      "1376215627665448961"
+    ]
+  ]
+}

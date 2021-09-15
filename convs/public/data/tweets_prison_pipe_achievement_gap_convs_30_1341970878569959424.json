@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1341970878569959424",
+      "url": "https://twitter.com/JoeMomm15022324/status/1341970878569959424",
+      "user": "JoeMomm15022324",
+      "text": "1/ Likely it's locals and involves hactivists at some point. Not just the typical crazies. Even kids and teens. They wanna create collateral damage as much as possible and it turns people against government. Ohh that's why the ACLU goes on about the school to prison pipeline. And",
+      "sentiment": -0.6597
+    },
+    {
+      "id": "1341970879228461056",
+      "url": "https://twitter.com/JoeMomm15022324/status/1341970879228461056",
+      "user": "JoeMomm15022324",
+      "text": "2/ then the Greenpeace van shows up at weber human. Wow. You really hate government enough to go as low as people claim the CIA did? Lol hypocrites.",
+      "sentiment": 0.1298
+    }
+  ],
+  "edges": [
+    [
+      "1341970879228461056",
+      "1341970878569959424"
+    ]
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "1386307355713880069",
+      "url": "https://twitter.com/humandemocracy1/status/1386307355713880069",
+      "user": "humandemocracy1",
+      "text": "@nytimesworld \\nDerek Chauvin lynched only Gerorge Floyed and is in jail now.\\nTrump delayed support and caused more than 3000 Puerto Ricans\u00b4 death and many other death, injury and economic expenses in other cases, but is still free and show neither any regret.\\nUSA is no democracy.",
+      "sentiment": -0.4118
+    },
+    {
+      "id": "1386307357572059136",
+      "url": "https://twitter.com/humandemocracy1/status/1386307357572059136",
+      "user": "humandemocracy1",
+      "text": "@USJusticeAction \\nDerek Chauvin lynched Gerorge Floyed and is in jail now.\\nTrump delayed support and caused more than 3000 Puerto Ricans\u00b4 death and many other death, injury and economic expenses in other cases, but is still free and show neither any regret.\\nUSA is no democracy.",
+      "sentiment": -0.4118
+    },
+    {
+      "id": "1386307353851555840",
+      "url": "https://twitter.com/humandemocracy1/status/1386307353851555840",
+      "user": "humandemocracy1",
+      "text": "@PostOpinions \\nDerek Chauvin lynched only Gerorge Floyed and is in jail now.\\nTrump delayed support and caused more than 3000 Puerto Ricans\u00b4 death and many other death, injury and economic expenses in other cases, but is still free and show neither any regret.\\nUSA is no democracy.",
+      "sentiment": -0.4118
+    },
+    {
+      "id": "1386307351477723136",
+      "url": "https://twitter.com/humandemocracy1/status/1386307351477723136",
+      "user": "humandemocracy1",
+      "text": "@USrepublican \\nDerek Chauvin lynched only Gerorge Floyed and is in jail now.\\nTrump delayed support and caused more than 3000 Puerto Ricans\u00b4 death and many other death, injury and economic expenses in other cases, but is still free and show neither any regret.\\nUSA is no democracy.",
+      "sentiment": -0.4118
+    },
+    {
+      "id": "1386307349665751043",
+      "url": "https://twitter.com/humandemocracy1/status/1386307349665751043",
+      "user": "humandemocracy1",
+      "text": "@usdemocrats \\nDerek Chauvin lynched only Gerorge Floyed and is in jail now.\\nTrump delayed support and caused more than 3000 Puerto Ricans\u00b4 death and many other death, injury and economic expenses in other cases, but is still free and show neither any regret.\\nUSA is no democracy.",
+      "sentiment": -0.4118
+    },
+    {
+      "id": "1386307348067766273",
+      "url": "https://twitter.com/humandemocracy1/status/1386307348067766273",
+      "user": "humandemocracy1",
+      "text": "@AdamSchiff \\nDerek Chauvin lynched only Gerorge Floyed and is in jail now.\\nTrump delayed support and caused more than 3000 Puerto Ricans\u00b4 death and many other death, injury and economic expenses in other cases, but is still free and show neither any regret.\\nUSA is no democracy.",
+      "sentiment": -0.4118
+    },
+    {
+      "id": "1386307346125791232",
+      "url": "https://twitter.com/humandemocracy1/status/1386307346125791232",
+      "user": "humandemocracy1",
+      "text": "@CNNOpinion \\nDerek Chauvin lynched only Gerorge Floyed and is in jail now.\\nTrump delayed support and caused more than 3000 Puerto Ricans\u00b4 death and many other death, injury and economic expenses in other cases, but is still free and show neither any regret.\\nUSA is no democracy.",
+      "sentiment": -0.4118
+    },
+    {
+      "id": "1386307344175300608",
+      "url": "https://twitter.com/humandemocracy1/status/1386307344175300608",
+      "user": "humandemocracy1",
+      "text": "Derek Chauvin lynched only Gerorge Floyed and is in jail now.\\nTrump delayed support and caused more than 3000 Puerto Ricans\u00b4 death and many other death, injury and economic expenses in other cases, but is still free and show neither any regret.\\nUSA is no democracy.",
+      "sentiment": -0.4118
+    }
+  ],
+  "edges": [
+    [
+      "1386307355713880069",
+      "1386307353851555840"
+    ],
+    [
+      "1386307357572059136",
+      "1386307355713880069"
+    ],
+    [
+      "1386307353851555840",
+      "1386307351477723136"
+    ],
+    [
+      "1386307351477723136",
+      "1386307349665751043"
+    ],
+    [
+      "1386307349665751043",
+      "1386307348067766273"
+    ],
+    [
+      "1386307348067766273",
+      "1386307346125791232"
+    ],
+    [
+      "1386307346125791232",
+      "1386307344175300608"
+    ]
+  ]
+}

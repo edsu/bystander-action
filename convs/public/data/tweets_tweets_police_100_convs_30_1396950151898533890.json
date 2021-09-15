@@ -1,0 +1,88 @@
+{
+  "nodes": [
+    {
+      "id": "1396950151898533890",
+      "url": "https://twitter.com/HuffPost/1396950151898533890",
+      "user": "HuffPost",
+      "sentiment": -0.34
+    },
+    {
+      "id": "1397137240220917764",
+      "url": "https://twitter.com/leedodington/1397137240220917764",
+      "user": "leedodington",
+      "sentiment": -0.5574
+    },
+    {
+      "id": "1397107231485829123",
+      "url": "https://twitter.com/bolton2021/1397107231485829123",
+      "user": "bolton2021",
+      "sentiment": 0.4939
+    },
+    {
+      "id": "1397060758362488832",
+      "url": "https://twitter.com/MrAndyNgo/1397060758362488832",
+      "user": "MrAndyNgo",
+      "sentiment": -0.4939
+    },
+    {
+      "id": "1397100859482333186",
+      "url": "https://twitter.com/erica4ou/1397100859482333186",
+      "user": "erica4ou",
+      "sentiment": -0.4215
+    },
+    {
+      "id": "1396953722262106114",
+      "url": "https://twitter.com/nicmichelakos1/1396953722262106114",
+      "user": "nicmichelakos1",
+      "sentiment": -0.3182
+    },
+    {
+      "id": "1396951217067134979",
+      "url": "https://twitter.com/door2theknown/1396951217067134979",
+      "user": "door2theknown",
+      "sentiment": -0.8467
+    },
+    {
+      "id": "1396950773385383945",
+      "url": "https://twitter.com/Sir_loin81/1396950773385383945",
+      "user": "Sir_loin81",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396950632452345857",
+      "url": "https://twitter.com/JamesPoirierNYC/1396950632452345857",
+      "user": "JamesPoirierNYC",
+      "sentiment": -0.25
+    }
+  ],
+  "edges": [
+    [
+      "1397137240220917764",
+      "1396950151898533890"
+    ],
+    [
+      "1397107231485829123",
+      "1396950151898533890"
+    ],
+    [
+      "1397100859482333186",
+      "1396950151898533890"
+    ],
+    [
+      "1396953722262106114",
+      "1396950151898533890"
+    ],
+    [
+      "1396951217067134979",
+      "1396950151898533890"
+    ],
+    [
+      "1396950773385383945",
+      "1396950151898533890"
+    ],
+    [
+      "1396950632452345857",
+      "1396950151898533890"
+    ]
+  ]
+}

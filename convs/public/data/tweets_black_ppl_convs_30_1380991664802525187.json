@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "id": "1381192796250509312",
+      "url": "https://twitter.com/QueenanVenice/status/1381192796250509312",
+      "user": "QueenanVenice",
+      "text": "@Pheonix_Storm Why is this baby so beautiful? I'll tell you why....it's because of you! Black people make beautiful babies!\ud83d\udda4",
+      "sentiment": 0.94
+    },
+    {
+      "id": "1381198506807881728",
+      "url": "https://twitter.com/Pheonix_Storm/status/1381198506807881728",
+      "user": "Pheonix_Storm",
+      "text": "@QueenanVenice Aaaww thank you so much!!! And yes we do make beautiful babies \ud83d\ude0d\ud83d\ude0d\ud83e\udd70\ud83e\udd70\ud83e\udd70",
+      "sentiment": 0.99
+    },
+    {
+      "id": "1380991664802525187",
+      "url": "https://twitter.com/Pheonix_Storm/status/1380991664802525187",
+      "user": "Pheonix_Storm",
+      "text": "My mini me \ud83e\udd29\ud83d\ude0d https://t.co/GabVTh42Rf",
+      "sentiment": 0.4588
+    },
+    {
+      "id": "1381054360365449219",
+      "url": "https://twitter.com/TheKruJue/status/1381054360365449219",
+      "user": "TheKruJue",
+      "text": "@Pheonix_Storm So so precious \ud83e\udd70\ud83e\udd70",
+      "sentiment": 0.9692
+    },
+    {
+      "id": "1381036583860760580",
+      "url": "https://twitter.com/FBAsAreGodsPpl/status/1381036583860760580",
+      "user": "FBAsAreGodsPpl",
+      "text": "@Pheonix_Storm \ud83e\udd70",
+      "sentiment": 0.8074
+    },
+    {
+      "id": "1381012395271725060",
+      "url": "https://twitter.com/Pheonix_Storm/status/1381012395271725060",
+      "user": "Pheonix_Storm",
+      "text": "@TarotQue Thank you \u263a\ufe0f",
+      "sentiment": 0.6705
+    }
+  ],
+  "edges": [
+    [
+      "1381192796250509312",
+      "1380991664802525187"
+    ],
+    [
+      "1381198506807881728",
+      "1381192796250509312"
+    ],
+    [
+      "1381054360365449219",
+      "1380991664802525187"
+    ],
+    [
+      "1381036583860760580",
+      "1380991664802525187"
+    ],
+    [
+      "1381012395271725060",
+      "1381000237108637704"
+    ]
+  ]
+}

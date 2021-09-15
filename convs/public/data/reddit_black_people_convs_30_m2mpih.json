@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "id": "gqk2m1j",
+      "url": "https://www.reddit.com/r/ask/comments/m2mpih/if_white_people_cant_say_the_n_word_why_can_black/gqk2m1j/",
+      "user": "Bakocat",
+      "text": "In the words of a comedian whose name I can't remember, if you compared the badness of two words and refuse to say one of them....that's the worst word. I've never even heard of chicken bone skin tone but as a latino...I can assure there are worst names to call white people.",
+      "sentiment": -0.7096
+    },
+    {
+      "id": "gqk38vm",
+      "url": "https://www.reddit.com/r/ask/comments/m2mpih/if_white_people_cant_say_the_n_word_why_can_black/gqk38vm/",
+      "user": "andrewdoestuff",
+      "text": "Ok I get it now",
+      "sentiment": 0.296
+    },
+    {
+      "id": "gqkgp6c",
+      "url": "https://www.reddit.com/r/ask/comments/m2mpih/if_white_people_cant_say_the_n_word_why_can_black/gqkgp6c/",
+      "user": "Victoria__Lehr",
+      "text": "I personally don\u2019t know any white person that takes any words that is supposed to be derogatory towards white people, as derogatory\u2026 Mainly because we weren\u2019t the ones that were subjected to years of slavery and horrible treatment and given derogatory names.",
+      "sentiment": -0.8519
+    },
+    {
+      "id": "gqkojaj",
+      "url": "https://www.reddit.com/r/ask/comments/m2mpih/if_white_people_cant_say_the_n_word_why_can_black/gqkojaj/",
+      "user": "andrewdoestuff",
+      "text": "True",
+      "sentiment": 0.4215
+    },
+    {
+      "id": "gqkv96a",
+      "url": "https://www.reddit.com/r/ask/comments/m2mpih/if_white_people_cant_say_the_n_word_why_can_black/gqkv96a/",
+      "user": "GotMyOrangeCrush",
+      "text": "Seriously?  You\u2019re easily offended, honky. /s",
+      "sentiment": -0.0772
+    },
+    {
+      "id": "m2mpih",
+      "url": "https://www.reddit.com/r/ask/comments/m2mpih/if_white_people_cant_say_the_n_word_why_can_black/",
+      "user": "andrewdoestuff",
+      "text": "I'm not asking for the n word pass but chicken bone skin tone is as offensive as the n word imo",
+      "sentiment": -0.6124
+    }
+  ],
+  "edges": [
+    [
+      "gqk2m1j",
+      "m2mpih"
+    ],
+    [
+      "gqk38vm",
+      "gqk2m1j"
+    ],
+    [
+      "gqkgp6c",
+      "m2mpih"
+    ],
+    [
+      "gqkojaj",
+      "gqkgp6c"
+    ],
+    [
+      "gqkv96a",
+      "m2mpih"
+    ]
+  ]
+}

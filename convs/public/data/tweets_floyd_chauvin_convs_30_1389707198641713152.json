@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1389707198641713152",
+      "url": "https://twitter.com/KGWNews/status/1389707198641713152",
+      "user": "KGWNews",
+      "text": "Yes, the trial of 3 other officers charged in George Floyd\u2019s death will be televised https://t.co/zvqxDL7FaZ",
+      "sentiment": -0.4588
+    },
+    {
+      "id": "1389729573659504644",
+      "url": "https://twitter.com/GulagDigital/status/1389729573659504644",
+      "user": "GulagDigital",
+      "text": "@KGWNews When are you going to report on the juror misconduct and the filing for a new Chauvin trial?",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1389729573659504644",
+      "1389707198641713152"
+    ]
+  ]
+}

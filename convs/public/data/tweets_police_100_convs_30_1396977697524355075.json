@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1396977697524355075",
+      "url": "https://twitter.com/HeyNikki1/status/1396977697524355075",
+      "user": "HeyNikki1",
+      "text": "Imagine how many other countless incidents of police brutality and murder are not being caught on tape. #TheReidOut https://t.co/6VgNfcGIfY",
+      "sentiment": -0.8658
+    },
+    {
+      "id": "1396978925914439685",
+      "url": "https://twitter.com/LibraAbsolut/status/1396978925914439685",
+      "user": "LibraAbsolut",
+      "text": "@HeyNikki1 Almost each day various names pop up of victims of police brutality\u2026..cases not known to the \ud83c\udf0d because they weren\u2019t caught on video. There\u2019s so many names we just don\u2019t know\u2026..",
+      "sentiment": -0.3182
+    }
+  ],
+  "edges": [
+    [
+      "1396978925914439685",
+      "1396977697524355075"
+    ]
+  ]
+}

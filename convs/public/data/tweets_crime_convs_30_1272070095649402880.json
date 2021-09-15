@@ -1,0 +1,79 @@
+{
+  "nodes": [
+    {
+      "id": "1272070095649402880",
+      "url": "https://twitter.com/SpankHorton/status/1272070095649402880",
+      "user": "SpankHorton",
+      "text": "Always hear black on black crime like it\u2019s no White on white crime at all \ud83d\ude02\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+      "sentiment": -0.9451
+    },
+    {
+      "id": "1272265301879435265",
+      "url": "https://twitter.com/Cedric_Carter21/status/1272265301879435265",
+      "user": "Cedric_Carter21",
+      "text": "@SpankHorton 82% of white people are killed by white people. That's a FBI stat but they don't talk about that.",
+      "sentiment": -0.4118
+    },
+    {
+      "id": "1272172757229408256",
+      "url": "https://twitter.com/BoobieMiles93/status/1272172757229408256",
+      "user": "BoobieMiles93",
+      "text": "@SpankHorton They can shoot up a whole movie theatre/school and its never labeled white on white nor is it labeled terrorism",
+      "sentiment": -0.7906
+    },
+    {
+      "id": "1272161858313691137",
+      "url": "https://twitter.com/Bayology101/status/1272161858313691137",
+      "user": "Bayology101",
+      "text": "@SpankHorton \u201cBlack on black\u201dcrime is a myth and in general people commit crime towards people they are in close proximity too. Some data indicate that 80% of white murder victims are killed by another white person. Like you said \u201cwhite on white\u201d crime is never stated.",
+      "sentiment": -0.9413
+    },
+    {
+      "id": "1272145705998733314",
+      "url": "https://twitter.com/YaBoyL_MBK/status/1272145705998733314",
+      "user": "YaBoyL_MBK",
+      "text": "@SpankHorton Or Asian on Asian crime or Latino on Latino crime",
+      "sentiment": -0.7906
+    },
+    {
+      "id": "1272071257912233985",
+      "url": "https://twitter.com/hedgeandtrap/status/1272071257912233985",
+      "user": "hedgeandtrap",
+      "text": "@SpankHorton Same people who bring up that talk about why is there a BET where\u2019s white entertainment television?",
+      "sentiment": 0.4215
+    },
+    {
+      "id": "1272079966352654337",
+      "url": "https://twitter.com/Mister__IMO/status/1272079966352654337",
+      "user": "Mister__IMO",
+      "text": "@sweepandroll @SpankHorton \ud83d\ude02\ud83e\udd23\ud83d\ude2d",
+      "sentiment": 0.4588
+    }
+  ],
+  "edges": [
+    [
+      "1272265301879435265",
+      "1272070095649402880"
+    ],
+    [
+      "1272172757229408256",
+      "1272070095649402880"
+    ],
+    [
+      "1272161858313691137",
+      "1272070095649402880"
+    ],
+    [
+      "1272145705998733314",
+      "1272070095649402880"
+    ],
+    [
+      "1272071257912233985",
+      "1272070095649402880"
+    ],
+    [
+      "1272079966352654337",
+      "1272071257912233985"
+    ]
+  ]
+}

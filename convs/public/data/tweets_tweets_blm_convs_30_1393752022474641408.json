@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "1393752022474641408",
+      "url": "https://twitter.com/jwunrale/1393752022474641408",
+      "user": "jwunrale",
+      "sentiment": 0.9001
+    },
+    {
+      "id": "1393753222225883136",
+      "url": "https://twitter.com/napiipopeta/1393753222225883136",
+      "user": "napiipopeta",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1393752457692418050",
+      "url": "https://twitter.com/chocobabolatte/1393752457692418050",
+      "user": "chocobabolatte",
+      "sentiment": -0.4767
+    }
+  ],
+  "edges": [
+    [
+      "1393753222225883136",
+      "1393752022474641408"
+    ],
+    [
+      "1393752457692418050",
+      "1393752022474641408"
+    ]
+  ]
+}

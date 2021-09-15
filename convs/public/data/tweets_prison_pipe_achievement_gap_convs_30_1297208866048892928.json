@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "id": "1297208866048892928",
+      "url": "https://twitter.com/therealkahoots/status/1297208866048892928",
+      "user": "therealkahoots",
+      "text": "A few things about this: a thread. \\n#educatorsforchange #school2020 #schoolsreopening \\n1. If you think schools need less funding because they\u2019re \u2018not open\u2019 during a global pandemic, (they ARE open and if your students doesn\u2019t have one or more teachers running around with their... https://t.co/GZPDGSWwPJ",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1297408907380391942",
+      "url": "https://twitter.com/phulgranmora/status/1297408907380391942",
+      "user": "phulgranmora",
+      "text": "@therealkahoots Hi how are you",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1297210527991525376",
+      "url": "https://twitter.com/therealkahoots/status/1297210527991525376",
+      "user": "therealkahoots",
+      "text": "Finally - check out this well created (although a bit pointed for my liking) report on democratic changes that have wreaked havoc on inner cities: https://t.co/yrcGj7wI6Y #publiced #BackToSchool",
+      "sentiment": 0.2903
+    },
+    {
+      "id": "1297212717753761792",
+      "url": "https://twitter.com/therealkahoots/status/1297212717753761792",
+      "user": "therealkahoots",
+      "text": "Thank you @AGOWA attorney general Ferguson for keeping at it and being the people\u2019s representation. \ud83e\udd70\ud83d\ude18",
+      "sentiment": 0.9118
+    },
+    {
+      "id": "1297210021260845056",
+      "url": "https://twitter.com/therealkahoots/status/1297210021260845056",
+      "user": "therealkahoots",
+      "text": "Have you ever checked out this clip on @PEARSONEDNW @pearsonedjobs #pearsoned and standardized testing? https://t.co/6T0VBJqJR4",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1297208874512945152",
+      "url": "https://twitter.com/therealkahoots/status/1297208874512945152",
+      "user": "therealkahoots",
+      "text": "...to provide everything for their communities falls on BOTH party sides, falling heavily on Democratic lead inner-cities across the nation for the past few decades. \\n\\nThis is (albeit a small) win for WA and national public ed.  #educatorsforchange #school2020 #schoolsreopening",
+      "sentiment": 0.7096
+    },
+    {
+      "id": "1297208873636397058",
+      "url": "https://twitter.com/therealkahoots/status/1297208873636397058",
+      "user": "therealkahoots",
+      "text": "4.Newsflash: Defunding public programs for 50 years that supported education (social workers, counseling, mental hospitals and support, community outreach, etc.) AND slashing funds for public Ed. at the same time, THEN turning around and slamming the schools for not being able...",
+      "sentiment": 0.6124
+    },
+    {
+      "id": "1297208872747151361",
+      "url": "https://twitter.com/therealkahoots/status/1297208872747151361",
+      "user": "therealkahoots",
+      "text": "...such as @pearsonedjobs millions (hell, probably billions) of dollars while suffocating children in the process. Ever taken a look at what basket @BetsyDeVosED eggs are in? #privateschools",
+      "sentiment": -0.6808
+    },
+    {
+      "id": "1297208871891554306",
+      "url": "https://twitter.com/therealkahoots/status/1297208871891554306",
+      "user": "therealkahoots",
+      "text": "...districts are already preparing for it. \\n3. Privatizing and creating a \u2018competitive\u2019 education system, as I\u2019ve seen public outcry for, will only further the achievement gap, negatively affect minority populations, further segregation of public schools, and make corporations..",
+      "sentiment": -0.2732
+    },
+    {
+      "id": "1297208871056883717",
+      "url": "https://twitter.com/therealkahoots/status/1297208871056883717",
+      "user": "therealkahoots",
+      "text": "...to help fund WA public Ed., hindered the way in which funds were used. This is what caused the teacher strikes two years ago, and it will again rear its ugly head this spring when ours and many other contracts will be up for bargaining. It\u2019s a huge hit to everyone, and...",
+      "sentiment": -0.2023
+    },
+    {
+      "id": "1297208870255726594",
+      "url": "https://twitter.com/therealkahoots/status/1297208870255726594",
+      "user": "therealkahoots",
+      "text": "2. Many districts have already begun furloughing \u2018classified\u2019 staff, which are generally support positions: para-educators, security, bus drivers, kitchen, etc. Many teachers need their paras for support, even in an online format. The McCleary decision, originally meant...",
+      "sentiment": 0.7783
+    },
+    {
+      "id": "1297208869387505664",
+      "url": "https://twitter.com/therealkahoots/status/1297208869387505664",
+      "user": "therealkahoots",
+      "text": "...internet for every child. There are many districts requiring their teachers to work in building as well...so the teachers \u2018sitting at home doing nothing\u2019 narrative isn\u2019t working too well.",
+      "sentiment": 0.2732
+    },
+    {
+      "id": "1297208868523479040",
+      "url": "https://twitter.com/therealkahoots/status/1297208868523479040",
+      "user": "therealkahoots",
+      "text": "...heads cutoff trying to be the best they can for your student in a new way, I\u2019m sorry...they deserve better. Most of us are.) then try again. In a perfect world there would have been more relief money for online curriculum funding and training for teachers, one-to-ones &amp;",
+      "sentiment": 0.9348
+    }
+  ],
+  "edges": [
+    [
+      "1297408907380391942",
+      "1297208866048892928"
+    ],
+    [
+      "1297210527991525376",
+      "1297210021260845056"
+    ],
+    [
+      "1297212717753761792",
+      "1297210527991525376"
+    ],
+    [
+      "1297210021260845056",
+      "1297208874512945152"
+    ],
+    [
+      "1297208874512945152",
+      "1297208873636397058"
+    ],
+    [
+      "1297208873636397058",
+      "1297208872747151361"
+    ],
+    [
+      "1297208872747151361",
+      "1297208871891554306"
+    ],
+    [
+      "1297208871891554306",
+      "1297208871056883717"
+    ],
+    [
+      "1297208871056883717",
+      "1297208870255726594"
+    ],
+    [
+      "1297208870255726594",
+      "1297208869387505664"
+    ],
+    [
+      "1297208869387505664",
+      "1297208868523479040"
+    ],
+    [
+      "1297208868523479040",
+      "1297208866048892928"
+    ]
+  ]
+}

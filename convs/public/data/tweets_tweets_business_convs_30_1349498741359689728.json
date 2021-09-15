@@ -1,0 +1,92 @@
+{
+  "nodes": [
+    {
+      "id": "1349501549144260610",
+      "url": "https://twitter.com/melaninelle/1349501549144260610",
+      "user": "melaninelle",
+      "sentiment": 0.765
+    },
+    {
+      "id": "1349502022958006277",
+      "url": "https://twitter.com/kelseeynicoleee/1349502022958006277",
+      "user": "kelseeynicoleee",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1349498741359689728",
+      "url": "https://twitter.com/kelseeynicoleee/1349498741359689728",
+      "user": "kelseeynicoleee",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1349500250172518400",
+      "url": "https://twitter.com/EBDeucee/1349500250172518400",
+      "user": "EBDeucee",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1349500889908744193",
+      "url": "https://twitter.com/kelseeynicoleee/1349500889908744193",
+      "user": "kelseeynicoleee",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1349500158040412162",
+      "url": "https://twitter.com/kelseeynicoleee/1349500158040412162",
+      "user": "kelseeynicoleee",
+      "sentiment": -0.5574
+    },
+    {
+      "id": "1349500302462918656",
+      "url": "https://twitter.com/RatchetAssD3/1349500302462918656",
+      "user": "RatchetAssD3",
+      "sentiment": 0.0258
+    },
+    {
+      "id": "1349499037603438592",
+      "url": "https://twitter.com/RatchetAssD3/1349499037603438592",
+      "user": "RatchetAssD3",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1349498851833495554",
+      "url": "https://twitter.com/EBDeucee/1349498851833495554",
+      "user": "EBDeucee",
+      "sentiment": -0.4767
+    }
+  ],
+  "edges": [
+    [
+      "1349501549144260610",
+      "1349498741359689728"
+    ],
+    [
+      "1349502022958006277",
+      "1349501549144260610"
+    ],
+    [
+      "1349500250172518400",
+      "1349500158040412162"
+    ],
+    [
+      "1349500889908744193",
+      "1349500250172518400"
+    ],
+    [
+      "1349500158040412162",
+      "1349499037603438592"
+    ],
+    [
+      "1349500302462918656",
+      "1349500158040412162"
+    ],
+    [
+      "1349499037603438592",
+      "1349498741359689728"
+    ],
+    [
+      "1349498851833495554",
+      "1349498741359689728"
+    ]
+  ]
+}

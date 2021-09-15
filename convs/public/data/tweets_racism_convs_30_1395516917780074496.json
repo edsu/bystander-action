@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "id": "1395599757859454982",
+      "url": "https://twitter.com/KMsales15/status/1395599757859454982",
+      "user": "KMsales15",
+      "text": "@MsJessicaGamble @heathermpierce Nope that\u2019ll never happen bc of this \ud83e\udd23 https://t.co/e5JPk9C0jy",
+      "sentiment": 0.4939
+    },
+    {
+      "id": "1395598909901213696",
+      "url": "https://twitter.com/heathermpierce/status/1395598909901213696",
+      "user": "heathermpierce",
+      "text": "@MsJessicaGamble @KMsales15 It\u2019s literally directly next door to bh",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395598195162447876",
+      "url": "https://twitter.com/KMsales15/status/1395598195162447876",
+      "user": "KMsales15",
+      "text": "@MsJessicaGamble @jenniferRsmart His partner told him that\u2019s where all the professionals in the area stay, but damn 1M for a condo",
+      "sentiment": -0.5499
+    },
+    {
+      "id": "1395597942300418049",
+      "url": "https://twitter.com/KMsales15/status/1395597942300418049",
+      "user": "KMsales15",
+      "text": "@MsJessicaGamble @jenniferRsmart Whoa lol",
+      "sentiment": 0.4215
+    },
+    {
+      "id": "1395597207613501440",
+      "url": "https://twitter.com/KMsales15/status/1395597207613501440",
+      "user": "KMsales15",
+      "text": "@MsJessicaGamble @jenniferRsmart Park place condos",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395596672252538881",
+      "url": "https://twitter.com/KMsales15/status/1395596672252538881",
+      "user": "KMsales15",
+      "text": "@MsJessicaGamble @jenniferRsmart Across the street",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395596549011345410",
+      "url": "https://twitter.com/KMsales15/status/1395596549011345410",
+      "user": "KMsales15",
+      "text": "@jenniferRsmart @MsJessicaGamble Foundrr says he found a new office to relocate the biz to, can buy a condo across the street to live mon - fri and return home fri night https://t.co/EpXRKmG9IO",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395582632994373633",
+      "url": "https://twitter.com/KMsales15/status/1395582632994373633",
+      "user": "KMsales15",
+      "text": "@MsJessicaGamble @jenniferRsmart \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "sentiment": 0.8625
+    },
+    {
+      "id": "1395582415440023557",
+      "url": "https://twitter.com/KMsales15/status/1395582415440023557",
+      "user": "KMsales15",
+      "text": "@jenniferRsmart From foundrr, says he has a ton of these in his fam https://t.co/9olYyASD1o",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395519424417828870",
+      "url": "https://twitter.com/KMsales15/status/1395519424417828870",
+      "user": "KMsales15",
+      "text": "@MsJessicaGamble @jenniferRsmart \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "sentiment": 0.9153
+    },
+    {
+      "id": "1395518874909495298",
+      "url": "https://twitter.com/KMsales15/status/1395518874909495298",
+      "user": "KMsales15",
+      "text": "@jenniferRsmart From foundrr, says this is the ugliest car he\u2019s ever seen of all time, says it looks like a zebra a bag of garbage and barbies Malibu dream car interior all simultaneously exploded, and those remnants landed all over this car \ud83e\udd23 https://t.co/9ha8iRZV7N",
+      "sentiment": 0.4404
+    }
+  ],
+  "edges": [
+    [
+      "1395599757859454982",
+      "1395599158484951047"
+    ],
+    [
+      "1395598909901213696",
+      "1395598492827934724"
+    ],
+    [
+      "1395598195162447876",
+      "1395597851015598081"
+    ],
+    [
+      "1395597942300418049",
+      "1395597851015598081"
+    ],
+    [
+      "1395597207613501440",
+      "1395597135664410626"
+    ],
+    [
+      "1395596672252538881",
+      "1395596602715250689"
+    ],
+    [
+      "1395596549011345410",
+      "1395584256156467200"
+    ],
+    [
+      "1395582632994373633",
+      "1395582565394776065"
+    ],
+    [
+      "1395582415440023557",
+      "1395517076148658176"
+    ],
+    [
+      "1395519424417828870",
+      "1395519380474138624"
+    ],
+    [
+      "1395518874909495298",
+      "1395517076148658176"
+    ]
+  ]
+}

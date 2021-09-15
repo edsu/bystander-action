@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "id": "1274027320932806656",
+      "url": "https://twitter.com/SusanKBradford/1274027320932806656",
+      "user": "SusanKBradford",
+      "sentiment": 0.4939
+    }
+  ],
+  "edges": [
+    [
+      "1274027320932806656",
+      "1274026036599173120"
+    ]
+  ]
+}

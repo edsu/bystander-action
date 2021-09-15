@@ -25,7 +25,7 @@ export default function Home() {
   }
 
   useEffect(() => { 
-    const url = new URL(`/data/${conv}`, window.location)
+    const url = new URL(`data/${conv}`, window.location + '/')
     const fetchData = async () => {
       const resp = await fetch(url)
       const data = await resp.json()

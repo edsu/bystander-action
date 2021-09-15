@@ -15,14 +15,22 @@ export default function Graph({ nodes, edges }) {
     edges: edges.map(([n1, n2]) => ({from: n1, to: n2}))
   }
 
+  let width = 1200
+  let height = 800
+  if (typeof window !== "undefined") {
+    width = window.innerWidth - 40
+    const box = document.getElementById("menu").getBoundingClientRect()
+    height = window.innerHeight - box.top - 100
+  }
+
   const options = {
     layout: {
       hierarchical: true
     },
     nodes: {
     },
-    width: "1200px",
-    height: "500px",
+    width: `${width}px`,
+    height: `${height}px`,
   }
 
   const events = {
@@ -35,8 +43,6 @@ export default function Graph({ nodes, edges }) {
 
   return (
     <div className={styles.graph}>
-      <section className={styles.info}>
-      </section>
       <section className={styles.vis}>
         <GraphVis 
           key={Math.random()}

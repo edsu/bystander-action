@@ -7,6 +7,7 @@ export default function Layout({ children }) {
     <div className={styles.container}>
       <Head>
         <title>Bystander Intervention and Race</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
       </Head>
       <header>
         <h1>Bystander Intervention and Race</h1>

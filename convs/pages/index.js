@@ -37,10 +37,10 @@ export default function Home() {
   return (
     <Layout>
 
-      <div className={styles.menu}>
+      <div id="menu" className={styles.menu}>
 
-        <div>
-          <span className={styles.label}>Platform:</span>
+        <div className={styles.menuItem}>
+          <div className={styles.label}>Platform</div>
           <select value={platform} onChange={e => resetConv(e.target.value, query) }>
             {platforms.map(p => (
               <option key={`platform-${p}`}>{p}</option>
@@ -48,8 +48,8 @@ export default function Home() {
           </select>
         </div>
 
-        <div>
-          <span className={styles.label}>Query:</span>
+        <div className={styles.menuItem}>
+          <div className={styles.label}>Query</div>
           <select value={query} onChange={e => resetConv(platform, e.target.value) }>
             {queries.map(q => (
               <option key={`query-${q}`}>{q}</option>
@@ -57,12 +57,15 @@ export default function Home() {
           </select>
         </div>
 
-        <div className={styles.convs}>
-          <span className={styles.label}>Conversation:</span>
+        <div className={styles.menuItem}>
+          <div className={styles.label}>Conversation</div>
           <select value={conv} onChange={e => setConv(e.target.value)}>
-            {convs.map(c => (
-              <option key={`conv-${c}`}>{c}</option>
-            ))}
+            {convs.map(c => {
+              const convId = c.match(/30_(.*).json/)[1]
+              return (
+                <option key={`conv-${c}`} value={c}>{convId}</option>
+              )
+            })}
           </select>
         </div>
 

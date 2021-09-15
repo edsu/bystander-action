@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "id": "1374128453310615554",
+      "url": "https://twitter.com/SarahWiedenheft/status/1374128453310615554",
+      "user": "SarahWiedenheft",
+      "text": "@sheabutterbelle Okay, thank you so much! \ud83d\ude4f\ud83e\udd70",
+      "sentiment": 0.8999
+    },
+    {
+      "id": "1374132760101683207",
+      "url": "https://twitter.com/sheabutterbelle/status/1374132760101683207",
+      "user": "sheabutterbelle",
+      "text": "@SarahWiedenheft Thanks for your purchase \u263a\ufe0f can\u2019t wait to be of service to you\ud83d\udc96",
+      "sentiment": 0.9062
+    },
+    {
+      "id": "1374103719948775425",
+      "url": "https://twitter.com/sheabutterbelle/status/1374103719948775425",
+      "user": "sheabutterbelle",
+      "text": "@SarahWiedenheft Yes ma\u2019am lol i also send instructions and ways to use with your order \u263a\ufe0f",
+      "sentiment": 0.8176
+    },
+    {
+      "id": "1374101966318665733",
+      "url": "https://twitter.com/SarahWiedenheft/status/1374101966318665733",
+      "user": "SarahWiedenheft",
+      "text": "@sheabutterbelle Oh -- one more question-- I'm wondering do you use the purple moss gel in the same way as the sea moss gel? That's probably obvious, LOL just wanna make sure I use it correctly",
+      "sentiment": 0.7034
+    },
+    {
+      "id": "1374099714249986056",
+      "url": "https://twitter.com/sheabutterbelle/status/1374099714249986056",
+      "user": "sheabutterbelle",
+      "text": "@SarahWiedenheft No ma\u2019am, the sale ended yesterday, but i do still have both my jamaican golden sea moss gel and my zanzibar purple moss gel in stock for purchase \u263a\ufe0f",
+      "sentiment": 0.5267
+    },
+    {
+      "id": "1374101053688397825",
+      "url": "https://twitter.com/SarahWiedenheft/status/1374101053688397825",
+      "user": "SarahWiedenheft",
+      "text": "@sheabutterbelle Ooooof, i'm all over it!! Thank you!",
+      "sentiment": 0.5229
+    },
+    {
+      "id": "1374099153857417221",
+      "url": "https://twitter.com/SarahWiedenheft/status/1374099153857417221",
+      "user": "SarahWiedenheft",
+      "text": "@sheabutterbelle Is this promo still going on ?? I'm definitely interested in the sea moss\ud83d\ude48",
+      "sentiment": 0.6966
+    },
+    {
+      "id": "1372224906193158153",
+      "url": "https://twitter.com/sheabutterbelle/status/1372224906193158153",
+      "user": "sheabutterbelle",
+      "text": "SALE STARTS NOW \ud83e\udd73\ud83e\udd73\ud83e\udd73 30% OFF ALL SHEA BUTTER AND SEA MOSS GEL PRODUCTS! Use code: NEWYEAR at check out \ud83d\ude4c\ud83c\udffe\ud83d\udc9c \\n\\nhttps://t.co/kJAFcDd4Pe https://t.co/a184HcibFl",
+      "sentiment": 0.906
+    },
+    {
+      "id": "1372583540391612424",
+      "url": "https://twitter.com/smiileynora/status/1372583540391612424",
+      "user": "smiileynora",
+      "text": "@sheabutterbelle So I know a lot of people eat sea moss but is this gel for hair or is this also to be digested? I said I\u2019d support the first black business I saw posting today and that was you lol so I wanna make sure I can use this in my hair before I buy it \ud83d\ude05\ud83d\ude02",
+      "sentiment": 0.9538
+    },
+    {
+      "id": "1372941209585520641",
+      "url": "https://twitter.com/Modernholistix/status/1372941209585520641",
+      "user": "Modernholistix",
+      "text": "@smiileynora @sheabutterbelle It\u2019s awesome for the hair and can be digested as well. 1-2 tablespoons per day. Add it to a smoothie, hot tea or coffee. Has virtually no taste or smell. \\nFree Shipping Anywhere In the US\\nhttps://t.co/p1LFNdh2lQ https://t.co/ejRMfC3Rog",
+      "sentiment": 0.6124
+    },
+    {
+      "id": "1372585756296843265",
+      "url": "https://twitter.com/smiileynora/status/1372585756296843265",
+      "user": "smiileynora",
+      "text": "@sheabutterbelle Hehe heading over to check out. Thanks Queen \ud83e\udd17\ud83e\udd17 https://t.co/zYVpMEmyvv",
+      "sentiment": 0.8176
+    },
+    {
+      "id": "1372586387141234691",
+      "url": "https://twitter.com/sheabutterbelle/status/1372586387141234691",
+      "user": "sheabutterbelle",
+      "text": "@smiileynora \ud83d\ude02\ud83e\udd23\ud83e\udd23 thanks for supporting beautiful! I appreciate you \ud83e\udd70\ud83e\udd1e\ud83c\udffe",
+      "sentiment": 0.9823
+    },
+    {
+      "id": "1372585358270070790",
+      "url": "https://twitter.com/sheabutterbelle/status/1372585358270070790",
+      "user": "sheabutterbelle",
+      "text": "@smiileynora Yes ma\u2019am! you can use it for hair and face masks and also consume it everyday for its maximum health benefits with the body and brain\u263a\ufe0f",
+      "sentiment": 0.8221
+    }
+  ],
+  "edges": [
+    [
+      "1374128453310615554",
+      "1374103719948775425"
+    ],
+    [
+      "1374132760101683207",
+      "1374128453310615554"
+    ],
+    [
+      "1374103719948775425",
+      "1374101966318665733"
+    ],
+    [
+      "1374101966318665733",
+      "1374099714249986056"
+    ],
+    [
+      "1374099714249986056",
+      "1374099153857417221"
+    ],
+    [
+      "1374101053688397825",
+      "1374099714249986056"
+    ],
+    [
+      "1374099153857417221",
+      "1372224906193158153"
+    ],
+    [
+      "1372583540391612424",
+      "1372224906193158153"
+    ],
+    [
+      "1372941209585520641",
+      "1372583540391612424"
+    ],
+    [
+      "1372585756296843265",
+      "1372585358270070790"
+    ],
+    [
+      "1372586387141234691",
+      "1372585756296843265"
+    ],
+    [
+      "1372585358270070790",
+      "1372583540391612424"
+    ]
+  ]
+}

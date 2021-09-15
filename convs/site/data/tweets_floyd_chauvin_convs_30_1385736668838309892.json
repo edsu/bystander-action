@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "id": "1388953938049777670",
+      "url": "https://twitter.com/BadTakeEnjoyer/status/1388953938049777670",
+      "user": "BadTakeEnjoyer",
+      "text": "@71northmoore @tfine @MASNYC @NYCPlanning @VickiBeen @OpenNYForAll Do you live in Soho?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1386063603934109699",
+      "url": "https://twitter.com/BadTakeEnjoyer/status/1386063603934109699",
+      "user": "BadTakeEnjoyer",
+      "text": "@tfine @MASNYC @NYCPlanning @VickiBeen @OpenNYForAll The Irish Hunger Memorial must be located in Little Ireland.",
+      "sentiment": -0.25
+    },
+    {
+      "id": "1386083187789639681",
+      "url": "https://twitter.com/tfine/status/1386083187789639681",
+      "user": "tfine",
+      "text": "@BadTakeEnjoyer @MASNYC @NYCPlanning @VickiBeen @OpenNYForAll Actually, my specific area of historical focus is the Lower West Side, which was an extremely important Irish neighborhood. The truth though is that that memorial is there because of state politics, while the Chinese museum is in Chinatown because it is Chinatown!",
+      "sentiment": 0.358
+    },
+    {
+      "id": "1386043860724355073",
+      "url": "https://twitter.com/tfine/status/1386043860724355073",
+      "user": "tfine",
+      "text": "@BadTakeEnjoyer @MASNYC @NYCPlanning @VickiBeen @OpenNYForAll Yeah, odd that they put the Museum of the Chinese in America there... Lol.",
+      "sentiment": 0.4019
+    },
+    {
+      "id": "1386038117761785856",
+      "url": "https://twitter.com/BadTakeEnjoyer/status/1386038117761785856",
+      "user": "BadTakeEnjoyer",
+      "text": "@tfine @MASNYC @NYCPlanning @VickiBeen @OpenNYForAll It's not Chinatown. https://t.co/jXGmuShSdy",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1385736668838309892",
+      "url": "https://twitter.com/tfine/status/1385736668838309892",
+      "user": "tfine",
+      "text": "@MASNYC has produced images that show the truth of what @NYCPlanning seeks to do to low-income #Chinatown under the #SoHoNoHo plan. The deception and lack of honesty here is the true discrimination no matter what @VickiBeen and @OpenNYForAll say about George Floyd and racism... https://t.co/RKxvpChmAj",
+      "sentiment": -0.2672
+    }
+  ],
+  "edges": [
+    [
+      "1388953938049777670",
+      "1388929517276774404"
+    ],
+    [
+      "1386063603934109699",
+      "1386043860724355073"
+    ],
+    [
+      "1386083187789639681",
+      "1386063603934109699"
+    ],
+    [
+      "1386043860724355073",
+      "1386038117761785856"
+    ],
+    [
+      "1386038117761785856",
+      "1385736668838309892"
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1386825646198779910",
+      "url": "https://twitter.com/mournfully_/status/1386825646198779910",
+      "user": "mournfully_",
+      "text": "the release/usage of body cams wrt police violence is one that requires the viewer to inhabit the body/mind/eyes of a cop thus creating psychic linkage and deeping cop apologia",
+      "sentiment": -0.4404
+    },
+    {
+      "id": "1386836664656416768",
+      "url": "https://twitter.com/mournfully_/status/1386836664656416768",
+      "user": "mournfully_",
+      "text": "I got a little knot of thoughts abt this maybe I'll write something down",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1386836664656416768",
+      "1386825646198779910"
+    ]
+  ]
+}

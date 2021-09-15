@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "1389183217207586817",
+      "url": "https://twitter.com/RickVarden2/status/1389183217207586817",
+      "user": "RickVarden2",
+      "text": "#ManchesterUnited There are protests peaceful and others not.  What we saw yesterday has left a blot. On the landscape of the football fan, who\u2019s regarded as a learned man. This was wrong, moronic and mean, and paints a thuggish, roguish scene.",
+      "sentiment": -0.4939
+    },
+    {
+      "id": "1389180042656239618",
+      "url": "https://twitter.com/MENnewsdesk/status/1389180042656239618",
+      "user": "MENnewsdesk",
+      "text": "Armed police descend on street after 'reports of man with an axe' |\u00a0United protest violence condemned as officer is slashed in face |\u00a0Elderly man taken to hospital after being hit by his own car as it is stolen - and more in our latest newsletter\u00a0\\nhttps://t.co/ALijsrjxge https://t.co/jWnLda5JSR",
+      "sentiment": -0.8934
+    },
+    {
+      "id": "1389184833616814082",
+      "url": "https://twitter.com/RickVarden2/status/1389184833616814082",
+      "user": "RickVarden2",
+      "text": "@MENnewsdesk https://t.co/LV7ZnswTez",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1389184833616814082",
+      "1389180042656239618"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1394521806581678089",
+      "url": "https://twitter.com/asapIix/status/1394521806581678089",
+      "user": "asapIix",
+      "text": "you\u2019re a fucking freak for bringing racism into a FAN WAR over a pussy wall. and i have never defended any of skz\u2019s problematic actions please get a job https://t.co/WYjM5FJvXe",
+      "sentiment": -0.8883
+    },
+    {
+      "id": "1394523962424676353",
+      "url": "https://twitter.com/jus2kaiju/status/1394523962424676353",
+      "user": "jus2kaiju",
+      "text": "@reaIbokie shut tf up white devil",
+      "sentiment": -0.6597
+    },
+    {
+      "id": "1394522220953628672",
+      "url": "https://twitter.com/jexxxxica/status/1394522220953628672",
+      "user": "jexxxxica",
+      "text": "@reaIbokie nahh yall made fun of him first when this issue wasn't even funny at all. your co-stans dragged him and yall laughed like it wouldn't affect his mental health. so tell me who's worse.",
+      "sentiment": 0.4756
+    }
+  ],
+  "edges": [
+    [
+      "1394523962424676353",
+      "1394521806581678089"
+    ],
+    [
+      "1394522220953628672",
+      "1394521806581678089"
+    ]
+  ]
+}

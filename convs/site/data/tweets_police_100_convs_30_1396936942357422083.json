@@ -1,0 +1,140 @@
+{
+  "nodes": [
+    {
+      "id": "1388449207258914816",
+      "url": "https://twitter.com/SociologistRay/status/1388449207258914816",
+      "user": "SociologistRay",
+      "text": "A Better Path Forward on Criminal Justice Reform\\n\\nI co-edited this important report with @orrell_b featuring an all-star team of experts. \\n@BrookingsInst @AEI \\n\\nRead how we perform surgery on our criminal justice system to improve the United States\\nhttps://t.co/HIpYkQ6IXC https://t.co/iPJSU0zvQB",
+      "sentiment": 0.8625
+    },
+    {
+      "id": "1396945780456361987",
+      "url": "https://twitter.com/BToneVibes/status/1396945780456361987",
+      "user": "BToneVibes",
+      "text": "Well worth reading this left-center &amp; right-center report collaboration from @AEI @BrookingsInst \\n\\nhttps://t.co/cSFUo8rvie https://t.co/AugFBj1tE0",
+      "sentiment": 0.4588
+    },
+    {
+      "id": "1396945783774007298",
+      "url": "https://twitter.com/BToneVibes/status/1396945783774007298",
+      "user": "BToneVibes",
+      "text": "https://t.co/6HpeaGNLw5",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1396945775289012228",
+      "url": "https://twitter.com/BToneVibes/status/1396945775289012228",
+      "user": "BToneVibes",
+      "text": "https://t.co/DzOrvFeT35",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1280953836086202380",
+      "url": "https://twitter.com/NiskanenCenter/status/1280953836086202380",
+      "user": "NiskanenCenter",
+      "text": "Research also shows that in many Black communities, people actually have a high regard for the law, and even want to have good relationships with the police. The issue is that they can\u2019t trust the police. 7/\\nhttps://t.co/jcxYfn8Xs6",
+      "sentiment": 0.7579
+    },
+    {
+      "id": "1396945771765764099",
+      "url": "https://twitter.com/BToneVibes/status/1396945771765764099",
+      "user": "BToneVibes",
+      "text": "This is a crisis of legitimacy. Legitimacy is the people\u2019s belief in the institutions of government and their power to set rules and gain compliance. It is a core element in democracy.\\n\\nhttps://t.co/0IAKhmM641",
+      "sentiment": -0.1779
+    },
+    {
+      "id": "1280953581173182467",
+      "url": "https://twitter.com/NiskanenCenter/status/1280953581173182467",
+      "user": "NiskanenCenter",
+      "text": "When legitimacy goes down (such as after incidents of police violence), research clearly shows that whole communities withdraw from the police, per @just_shelter et. al. 6/ https://t.co/bkQKuK9TEq https://t.co/OvCkJEwbPr",
+      "sentiment": -0.34
+    },
+    {
+      "id": "1396945769391788033",
+      "url": "https://twitter.com/BToneVibes/status/1396945769391788033",
+      "user": "BToneVibes",
+      "text": "https://t.co/kkroPZfdRj",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1280953315308822534",
+      "url": "https://twitter.com/NiskanenCenter/status/1280953315308822534",
+      "user": "NiskanenCenter",
+      "text": "For all of American history, the government has done exactly that to Black Americans. \\nAnd \u201cwhere the government has not done violence to Black people, it has failed to protect them.\u201d @RadleyBalko explains the impact in this excellent article. 3/ https://t.co/RM0akJ1x9S",
+      "sentiment": 0.7887
+    },
+    {
+      "id": "1396945766959091712",
+      "url": "https://twitter.com/BToneVibes/status/1396945766959091712",
+      "user": "BToneVibes",
+      "text": "'The American government is failing to protect certain Americans. Policing is an arm of the state. Police violence is state violence. \\nOver and again Black people have been killed, beaten, and abused by their government through its agents: the police.'\\n\\nhttps://t.co/ZgepmKedDq",
+      "sentiment": -0.9607
+    },
+    {
+      "id": "1280952816878706692",
+      "url": "https://twitter.com/NiskanenCenter/status/1280952816878706692",
+      "user": "NiskanenCenter",
+      "text": "NEW from @DavidKennedyNYC: America is in a transformative period with regard to police violence. An incorrect response means an ongoing failure of our democracy. There is a lot of room for failure\u2014but also an encouraging path forward. \\n\\nTHREAD: 1/ https://t.co/ypm8IPjrjM",
+      "sentiment": -0.6124
+    },
+    {
+      "id": "1396936942357422083",
+      "url": "https://twitter.com/BToneVibes/status/1396936942357422083",
+      "user": "BToneVibes",
+      "text": "\"If the rule of law means anything, it means that those sworn to enforce it should not be above it.\"\\n\\nhttps://t.co/pEobqmwxAJ",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1280953319331172352",
+      "url": "https://twitter.com/NiskanenCenter/status/1280953319331172352",
+      "user": "NiskanenCenter",
+      "text": "This is a crisis of legitimacy. \nLegitimacy is the people\u2019s belief in the institutions of government and their power to set rules and gain compliance. It is a core element in democracy. 5/",
+      "sentiment": -0.1779
+    },
+    {
+      "id": "1280953313714941955",
+      "url": "https://twitter.com/NiskanenCenter/status/1280953313714941955",
+      "user": "NiskanenCenter",
+      "text": "We need to be clear about what\u2019s happening: The American government is failing to protect\u2014and even selectively targeting\u2014certain Americans. Policing is an arm of the state. Police violence is state violence. \u201cGeorge Floyd was inexplicably killed by his own government. 2/",
+      "sentiment": -0.9371
+    }
+  ],
+  "edges": [
+    [
+      "1396945780456361987",
+      "1396945775289012228"
+    ],
+    [
+      "1396945783774007298",
+      "1396945780456361987"
+    ],
+    [
+      "1396945775289012228",
+      "1396945771765764099"
+    ],
+    [
+      "1280953836086202380",
+      "1280953581173182467"
+    ],
+    [
+      "1396945771765764099",
+      "1396945769391788033"
+    ],
+    [
+      "1280953581173182467",
+      "1280953319331172352"
+    ],
+    [
+      "1396945769391788033",
+      "1396945766959091712"
+    ],
+    [
+      "1280953315308822534",
+      "1280953313714941955"
+    ],
+    [
+      "1396945766959091712",
+      "1396936942357422083"
+    ]
+  ]
+}

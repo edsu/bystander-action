@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "id": "1356733765544992769",
+      "url": "https://twitter.com/theyluv_nia/1356733765544992769",
+      "user": "theyluv_nia",
+      "sentiment": 0.8176
+    },
+    {
+      "id": "1356733982663192580",
+      "url": "https://twitter.com/theyluv_nia/1356733982663192580",
+      "user": "theyluv_nia",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1356733982663192580",
+      "1356733765544992769"
+    ]
+  ]
+}

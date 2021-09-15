@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1379442271309946880",
+      "url": "https://twitter.com/cornell556/status/1379442271309946880",
+      "user": "cornell556",
+      "text": "https://t.co/E5dHanC2QP",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1379442303513866240",
+      "url": "https://twitter.com/cornell556/status/1379442303513866240",
+      "user": "cornell556",
+      "text": "https://t.co/79n9XmwuUg",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1379442242377646083",
+      "url": "https://twitter.com/cornell556/status/1379442242377646083",
+      "user": "cornell556",
+      "text": "@LorenzoHall \\nDERRICK CORNELL CEPHAS,BLACK AMERICAN\\nFORMER EXECUTIVE IN CHARGE OF\\nPRODUCTION DAYTIME TELEVISION\\nGOES VIRTUAL AGAIN https://t.co/lRSPLX6rrE",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1379442271309946880",
+      "1379442242377646083"
+    ],
+    [
+      "1379442303513866240",
+      "1379442271309946880"
+    ]
+  ]
+}

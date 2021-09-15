@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "1378775347970342917",
+      "url": "https://twitter.com/ltsfullofstars/status/1378775347970342917",
+      "user": "ltsfullofstars",
+      "text": "I thought I would magically become a Saint after that but I didn\u2019t. I was 16 \u2764\ufe0f Through the years I\u2019ve called on God many times. The Father, Son, &amp; Holy Spirit. 3 in 1 - Powerful combination those 3 are... lol",
+      "sentiment": 0.9022
+    },
+    {
+      "id": "1378775356358922240",
+      "url": "https://twitter.com/ltsfullofstars/status/1378775356358922240",
+      "user": "ltsfullofstars",
+      "text": "Gotten me outta more stuff than I care to mention. I am Eternally Grateful this Easter \u2764\ufe0f\ud83d\ude4f\ud83c\udffb God Bless You all &amp; I hope you feel Love \ud83e\udd70 https://t.co/ODywmz8ugQ",
+      "sentiment": 0.9764
+    },
+    {
+      "id": "1378775346951114753",
+      "url": "https://twitter.com/ltsfullofstars/status/1378775346951114753",
+      "user": "ltsfullofstars",
+      "text": "Not that it matters what race he was. We were talking about God &amp; he asked me if I was saved. He said it\u2019s easy!  I\u2019ll pray with you and all you have to do is invite God into your heart &amp; give your life to Him. I did. I\u2019ll never forget it.",
+      "sentiment": 0.9508
+    },
+    {
+      "id": "1378775345755791360",
+      "url": "https://twitter.com/ltsfullofstars/status/1378775345755791360",
+      "user": "ltsfullofstars",
+      "text": "God is Love. I found God\u2019s Love through Jesus Christ my Lord &amp; Savior. Folks find Love in different ways. I asked God to come into my heart in the breakroom at McDonald\u2019s w/a man who was studying to be a preacher. His name was Glenn &amp; he was an assistant manager. African American",
+      "sentiment": 0.9682
+    }
+  ],
+  "edges": [
+    [
+      "1378775347970342917",
+      "1378775346951114753"
+    ],
+    [
+      "1378775356358922240",
+      "1378775347970342917"
+    ],
+    [
+      "1378775346951114753",
+      "1378775345755791360"
+    ]
+  ]
+}

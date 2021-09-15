@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "1379044951795859457",
+      "url": "https://twitter.com/theglf62/status/1379044951795859457",
+      "user": "theglf62",
+      "text": "@BandwagonZine If he\u2019s proven to be guilty throw the book at him and any others that do the same is my stance",
+      "sentiment": -0.4215
+    },
+    {
+      "id": "1379052033949507584",
+      "url": "https://twitter.com/BandwagonZine/status/1379052033949507584",
+      "user": "BandwagonZine",
+      "text": "@theglf62 Fair enough \ud83d\udc4d",
+      "sentiment": 0.3182
+    },
+    {
+      "id": "1379041284128710656",
+      "url": "https://twitter.com/BandwagonZine/status/1379041284128710656",
+      "user": "BandwagonZine",
+      "text": "@theglf62 You've probably not been in a position in sport, work, society, etc. with an undercurrent of people constantly making out you're lesser &amp; don't belong in that environment. Black people, LGBT people, women in sport, etc. don't want to pretend abuse. It's already exhausting enough.",
+      "sentiment": -0.7668
+    },
+    {
+      "id": "1379036482460082177",
+      "url": "https://twitter.com/theglf62/status/1379036482460082177",
+      "user": "theglf62",
+      "text": "@BandwagonZine I dont know that why I asked was it proven to be ? ......",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1379040143563239425",
+      "url": "https://twitter.com/BandwagonZine/status/1379040143563239425",
+      "user": "BandwagonZine",
+      "text": "@theglf62 Bit of a pointless question when you could watch the video and draw the obvious conclusion. Clear from the reaction that the player felt dehumanised.\\n\\nAll that casting doubt does is make out that you don't support the player; that bigoted abuse is something players would feign.",
+      "sentiment": -0.7475
+    },
+    {
+      "id": "1379034364047192067",
+      "url": "https://twitter.com/BandwagonZine/status/1379034364047192067",
+      "user": "BandwagonZine",
+      "text": "@theglf62 After the player and club have confirmed he was racially abused?",
+      "sentiment": -0.5106
+    },
+    {
+      "id": "1379030505589518336",
+      "url": "https://twitter.com/theglf62/status/1379030505589518336",
+      "user": "theglf62",
+      "text": "@BandwagonZine Doesn\u2019t mean it was a racist comment  \ud83e\udd26\ud83c\udffc\u200d\u2642\ufe0f",
+      "sentiment": -0.6124
+    },
+    {
+      "id": "1379018966916562946",
+      "url": "https://twitter.com/BandwagonZine/status/1379018966916562946",
+      "user": "BandwagonZine",
+      "text": "Just for a laugh, a pro chases an opponent up the pitch for a minute, has to be physically restrained, pleads with the referee, leads their team off and doesn't come back on. The other player whispering to his coach and being left red-faced is also completely unrelated. \ud83e\udd26 https://t.co/20WxLE8l7E",
+      "sentiment": 0.5574
+    }
+  ],
+  "edges": [
+    [
+      "1379044951795859457",
+      "1379041284128710656"
+    ],
+    [
+      "1379052033949507584",
+      "1379044951795859457"
+    ],
+    [
+      "1379041284128710656",
+      "1379036482460082177"
+    ],
+    [
+      "1379036482460082177",
+      "1379034364047192067"
+    ],
+    [
+      "1379040143563239425",
+      "1379036482460082177"
+    ],
+    [
+      "1379034364047192067",
+      "1379030505589518336"
+    ],
+    [
+      "1379030505589518336",
+      "1379018966916562946"
+    ]
+  ]
+}

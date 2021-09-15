@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1395220256134553601",
+      "url": "https://twitter.com/MorfosaC/status/1395220256134553601",
+      "user": "MorfosaC",
+      "text": "Laporan resinya blm diupdate. Sy masukkan no resi di aplikasi JNE, tp katanya gak valid. Gmn itu min ? @ShopeeID https://t.co/UPgxfShMha",
+      "sentiment": -0.296
+    },
+    {
+      "id": "1395314781981192193",
+      "url": "https://twitter.com/ShopeeID/status/1395314781981192193",
+      "user": "ShopeeID",
+      "text": "@MorfosaC hai kak, dont worry yah, untuk bisa mimin cek lebih lanjut yuk infoin no pesanan kakak via DM, mimin tunggu yah ^DA",
+      "sentiment": 0.0531
+    },
+    {
+      "id": "1395217772112617473",
+      "url": "https://twitter.com/MorfosaC/status/1395217772112617473",
+      "user": "MorfosaC",
+      "text": "@JNECare min, dimana posisi barang resi JT19137629438 ? Kok gak ada kabar ? https://t.co/idzQcNRX99",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1395220256134553601",
+      "1395217772112617473"
+    ],
+    [
+      "1395314781981192193",
+      "1395220256134553601"
+    ]
+  ]
+}

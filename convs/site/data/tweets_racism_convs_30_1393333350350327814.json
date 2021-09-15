@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1393333724792725508",
+      "url": "https://twitter.com/_tsukey_/status/1393333724792725508",
+      "user": "_tsukey_",
+      "text": "no srsly imagine being the biggest disgusting piece of sh*t because a freaking dance show..",
+      "sentiment": -0.8126
+    },
+    {
+      "id": "1393334229619154956",
+      "url": "https://twitter.com/_tsukey_/status/1393334229619154956",
+      "user": "_tsukey_",
+      "text": "no srsly i know i shouldn't get upset about it (because sadly i should be way too used to it) but it was one homophobic comment too much.",
+      "sentiment": -0.2283
+    },
+    {
+      "id": "1393333350350327814",
+      "url": "https://twitter.com/_tsukey_/status/1393333350350327814",
+      "user": "_tsukey_",
+      "text": "german ppl be like why is everyone still talking about homophobia/racism/etc. everyone is the same and it doesn't matter!!! *proceed to say something utterly homophobic/racist in the same breath*.. when i tell you i f*cking hate this country. \ud83d\ude0a",
+      "sentiment": 0.681
+    }
+  ],
+  "edges": [
+    [
+      "1393333724792725508",
+      "1393333350350327814"
+    ],
+    [
+      "1393334229619154956",
+      "1393333724792725508"
+    ]
+  ]
+}

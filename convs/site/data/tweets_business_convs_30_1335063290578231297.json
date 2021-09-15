@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1335063884227461121",
+      "url": "https://twitter.com/harrisspeed_2/status/1335063884227461121",
+      "user": "harrisspeed_2",
+      "text": "The Fall Collection\u2b07\ufe0f\\nhttps://t.co/SqXSPc0J2t https://t.co/dJdqV49kDq",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1335063946496098306",
+      "url": "https://twitter.com/harrisspeed_2/status/1335063946496098306",
+      "user": "harrisspeed_2",
+      "text": "https://t.co/g1AgvBuFdV",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1335063290578231297",
+      "url": "https://twitter.com/harrisspeed_2/status/1335063290578231297",
+      "user": "harrisspeed_2",
+      "text": "Finally getting to release some of my favorite pieces tonight would really appreciate a like/retweet to support a small black business!\ud83d\ude4f\ud83c\udffe",
+      "sentiment": 0.8395
+    }
+  ],
+  "edges": [
+    [
+      "1335063884227461121",
+      "1335063290578231297"
+    ],
+    [
+      "1335063946496098306",
+      "1335063884227461121"
+    ]
+  ]
+}

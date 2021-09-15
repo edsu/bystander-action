@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "id": "1393246284161683459",
+      "url": "https://twitter.com/sazmeister88/status/1393246284161683459",
+      "user": "sazmeister88",
+      "text": "you can get far more followers and have far less hassle if you just stay silent on racism and sexism and every cause worth standing for and simply churn out obvious uncontroversial tweets and pile on people for likes and turn a blind eye to everything else, depressing",
+      "sentiment": -0.6908
+    },
+    {
+      "id": "1393748693338279941",
+      "url": "https://twitter.com/FreshMoney28/status/1393748693338279941",
+      "user": "FreshMoney28",
+      "text": "@sazmeister88 https://t.co/cFvPYH7GzW \ud83d\udd25\ud83d\udc55\ud83d\udd25",
+      "sentiment": -0.5859
+    },
+    {
+      "id": "1393253582032490498",
+      "url": "https://twitter.com/OneDayAllEqual/status/1393253582032490498",
+      "user": "OneDayAllEqual",
+      "text": "@sazmeister88 Or promote yourself taking your clothes off \ud83d\ude44",
+      "sentiment": 0.3818
+    },
+    {
+      "id": "1393248963520831493",
+      "url": "https://twitter.com/transitionlouth/status/1393248963520831493",
+      "user": "transitionlouth",
+      "text": "@sazmeister88 Yeah but you don't get the right quality of followers.",
+      "sentiment": 0.1531
+    },
+    {
+      "id": "1393246786698022916",
+      "url": "https://twitter.com/carolJhedges/status/1393246786698022916",
+      "user": "carolJhedges",
+      "text": "@sazmeister88 but what fun is that? xx",
+      "sentiment": 0.6652
+    },
+    {
+      "id": "1393246439900426246",
+      "url": "https://twitter.com/SadMarshGhost/status/1393246439900426246",
+      "user": "SadMarshGhost",
+      "text": "@sazmeister88 This site encourages people to be horrible.",
+      "sentiment": -0.1531
+    }
+  ],
+  "edges": [
+    [
+      "1393748693338279941",
+      "1393246284161683459"
+    ],
+    [
+      "1393253582032490498",
+      "1393246284161683459"
+    ],
+    [
+      "1393248963520831493",
+      "1393246284161683459"
+    ],
+    [
+      "1393246786698022916",
+      "1393246284161683459"
+    ],
+    [
+      "1393246439900426246",
+      "1393246284161683459"
+    ]
+  ]
+}

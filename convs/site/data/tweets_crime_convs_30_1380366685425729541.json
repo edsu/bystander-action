@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1380366759534882816",
+      "url": "https://twitter.com/RavishlyShai/status/1380366759534882816",
+      "user": "RavishlyShai",
+      "text": "@rosaparkinsons JENDMSDMDN",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1380367526039724035",
+      "url": "https://twitter.com/rosaparkinsons/status/1380367526039724035",
+      "user": "rosaparkinsons",
+      "text": "@RavishlyShai THIS IS SICK",
+      "sentiment": -0.6166
+    },
+    {
+      "id": "1380366685425729541",
+      "url": "https://twitter.com/rosaparkinsons/status/1380366685425729541",
+      "user": "rosaparkinsons",
+      "text": "i aint never seen black on black crime like this \ud83d\ude1e\ud83d\ude1e\ud83d\ude1e",
+      "sentiment": -0.8834
+    }
+  ],
+  "edges": [
+    [
+      "1380366759534882816",
+      "1380366685425729541"
+    ],
+    [
+      "1380367526039724035",
+      "1380366759534882816"
+    ]
+  ]
+}

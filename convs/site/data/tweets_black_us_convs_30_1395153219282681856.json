@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "id": "1395163943988039685",
+      "url": "https://twitter.com/markrmeyer/status/1395163943988039685",
+      "user": "markrmeyer",
+      "text": "@GenghisKhet @stevennelson10 I'm more optimistic. Dems screw up everything they touch... even a take over of the Country.",
+      "sentiment": 0.2333
+    },
+    {
+      "id": "1395156660482715651",
+      "url": "https://twitter.com/markrmeyer/status/1395156660482715651",
+      "user": "markrmeyer",
+      "text": "And don't forget Kamala busting moves with Montel. It must suck to be 1 of 2 women on his arm when you're all rah rah girl power and stuff! \\n\\nhttps://t.co/g0vctJdieA",
+      "sentiment": -0.3666
+    },
+    {
+      "id": "1395163193857687560",
+      "url": "https://twitter.com/markrmeyer/status/1395163193857687560",
+      "user": "markrmeyer",
+      "text": "Daily Mail scooped you guys. \\n\\nhttps://t.co/DY5Zvttoat",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1395154320316829698",
+      "url": "https://twitter.com/markrmeyer/status/1395154320316829698",
+      "user": "markrmeyer",
+      "text": "And if you want a defining story about Kamala find the pre-election interview where she makes up from whole cloth who her favorite professor at Howard was. She's a complete BS artist empty suit liar. It would be nice if reporters went there. It is your job after all.",
+      "sentiment": 0.25
+    },
+    {
+      "id": "1395153219282681856",
+      "url": "https://twitter.com/markrmeyer/status/1395153219282681856",
+      "user": "markrmeyer",
+      "text": "@stevennelson10 \\n\\nKamala Harris is NOT African American.\\n\\nShe's Indian Jamaican and spent much of her youth in Canada.\\n\\nSloppy Reporting \ud83d\udc47\\n\\nhttps://t.co/JqQyatapc2",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1395163943988039685",
+      "1395155534572032000"
+    ],
+    [
+      "1395156660482715651",
+      "1395154320316829698"
+    ],
+    [
+      "1395163193857687560",
+      "1395156660482715651"
+    ],
+    [
+      "1395154320316829698",
+      "1395153219282681856"
+    ]
+  ]
+}

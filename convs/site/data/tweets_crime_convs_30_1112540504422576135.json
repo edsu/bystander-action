@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1112540504422576135",
+      "url": "https://twitter.com/tyKeyahN/status/1112540504422576135",
+      "user": "tyKeyahN",
+      "text": "this was not black on black crime!!!! this was the fucking gov\u2019t! Nipsey knew that doing the documentary about Dr. Sebi and his cure for aids was gonna gain their attention!",
+      "sentiment": -0.3111
+    },
+    {
+      "id": "1112544334715539458",
+      "url": "https://twitter.com/heismo_j/status/1112544334715539458",
+      "user": "heismo_j",
+      "text": "@tyNclark_ \ud83d\udcaf\ud83d\udcaf",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1112544334715539458",
+      "1112540504422576135"
+    ]
+  ]
+}

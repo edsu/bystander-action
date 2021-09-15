@@ -1,0 +1,26 @@
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.menu div {
+  padding: 5px;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.menuItem {
+  background-color: #eee;
+  border: thin solid #ccc;
+  margin: 10px;
+}
+
+.label {
+  margin-right: 10px;
+  font-weight: bold;
+}

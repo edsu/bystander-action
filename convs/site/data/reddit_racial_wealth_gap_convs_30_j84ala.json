@@ -1,0 +1,156 @@
+{
+  "nodes": [
+    {
+      "id": "g88o7ve",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/g88o7ve/",
+      "user": "broccolibush42",
+      "text": "&gt;The investment bank said the $30 billion commitment over the next five years will come in the form of loans, equity and direct funding to promote affordable housing, grow Black and Latinx-owned businesses, improve access to banking in communities of color, and build a more diverse workforce.\n\n\nQuite a commitment. I hope we can see the results to this.",
+      "sentiment": 0.9166
+    },
+    {
+      "id": "g88pbj7",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/g88pbj7/",
+      "user": "[deleted]",
+      "text": "[removed]",
+      "sentiment": 0.0
+    },
+    {
+      "id": "g88tb0w",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/g88tb0w/",
+      "user": "Vladd_the_Retailer",
+      "text": "How much money of that money will actually go to the people who need it and not just be vaunted you by committees, ads, and think tanks?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "g88x8rk",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/g88x8rk/",
+      "user": "twenty7w",
+      "text": "Fuck banks, they are the reason for lots of those problems in the first place.",
+      "sentiment": -0.7351
+    },
+    {
+      "id": "g88yf1f",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/g88yf1f/",
+      "user": "[deleted]",
+      "text": "[removed]",
+      "sentiment": 0.0
+    },
+    {
+      "id": "g88z7l4",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/g88z7l4/",
+      "user": "drsuperhero",
+      "text": "Right like how did they get that money, digging ditches, no it came from someone\u2019s pocket, from usury and money laundering and what ever other scam.",
+      "sentiment": -0.5267
+    },
+    {
+      "id": "g88zcji",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/g88zcji/",
+      "user": "mylifeisbro1",
+      "text": "Isn\u2019t that like half of what they got caught in cocaine on one of their ships, just one time?",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "g892sgj",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/g892sgj/",
+      "user": "[deleted]",
+      "text": "[deleted]",
+      "sentiment": 0.0
+    },
+    {
+      "id": "g893gek",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/g893gek/",
+      "user": "Hawkeyes2007",
+      "text": "Yup. Like that huge loan scam that gave me money to buy my house when I didn\u2019t have the funds.",
+      "sentiment": 0.0258
+    },
+    {
+      "id": "g894de3",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/g894de3/",
+      "user": "twenty7w",
+      "text": "Exactly, they make that money out of thin air and then charge you interest",
+      "sentiment": 0.4588
+    },
+    {
+      "id": "g894spt",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/g894spt/",
+      "user": "theonlyonethatknocks",
+      "text": "Man does the guy that sold the house know he has air money?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "g895uv0",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/g895uv0/",
+      "user": "twenty7w",
+      "text": "All money is air money, it's only worth something because we all agree on it",
+      "sentiment": 0.5267
+    },
+    {
+      "id": "g897fs7",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/g897fs7/",
+      "user": "TastelessTony",
+      "text": "Right... what bullshit... that'll fix it! /s\n\nStop trying to patch things up with pay offs, hush money, and charity.",
+      "sentiment": -0.5983
+    },
+    {
+      "id": "j84ala",
+      "url": "https://www.reddit.com/r/news/comments/j84ala/jpmorgan_chase_commits_30_billion_to_tackle/",
+      "user": "auscrisos",
+      "text": "",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "g88o7ve",
+      "j84ala"
+    ],
+    [
+      "g88pbj7",
+      "j84ala"
+    ],
+    [
+      "g88tb0w",
+      "j84ala"
+    ],
+    [
+      "g88x8rk",
+      "j84ala"
+    ],
+    [
+      "g88yf1f",
+      "g88x8rk"
+    ],
+    [
+      "g88z7l4",
+      "g88x8rk"
+    ],
+    [
+      "g88zcji",
+      "j84ala"
+    ],
+    [
+      "g892sgj",
+      "g88x8rk"
+    ],
+    [
+      "g893gek",
+      "g88z7l4"
+    ],
+    [
+      "g894de3",
+      "g893gek"
+    ],
+    [
+      "g894spt",
+      "g894de3"
+    ],
+    [
+      "g895uv0",
+      "g894spt"
+    ],
+    [
+      "g897fs7",
+      "j84ala"
+    ]
+  ]
+}

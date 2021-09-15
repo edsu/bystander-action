@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1286380249836445697",
+      "url": "https://twitter.com/FoothillPrez/status/1286380249836445697",
+      "user": "FoothillPrez",
+      "text": "Such wisdom by Dr. Gloria Ladson-Billings!  #PushTheRock - the struggle makes us stronger: we need to move away from the mindset of winning, but instead of the mindset of the struggle.  #EducationDebt (instead of the \"achievement gap\")  \ud83d\ude4f@gjladson https://t.co/ZosCy7Givi https://t.co/qittw5j9w2",
+      "sentiment": 0.2244
+    },
+    {
+      "id": "1286408871955709952",
+      "url": "https://twitter.com/rappa01/status/1286408871955709952",
+      "user": "rappa01",
+      "text": "@FoothillPrez @gjladson Sisyphus was spot on.",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1286408871955709952",
+      "1286380249836445697"
+    ]
+  ]
+}

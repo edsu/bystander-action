@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "id": "1386860434712633352",
+      "url": "https://twitter.com/thedgtalempress/status/1386860434712633352",
+      "user": "thedgtalempress",
+      "text": "@TheChicCodes @LifeasMarita @ImCamilleAriana so we select \u201cother\u201d now on the forms",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1386860865543151619",
+      "url": "https://twitter.com/XOCXMILLE/status/1386860865543151619",
+      "user": "XOCXMILLE",
+      "text": "@thedgtalempress @TheChicCodes @LifeasMarita We won\u2019t get to once the doctor looks at us. If they see even an ounce of black, they\u2019re the ones checking black",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1386859741435990018",
+      "url": "https://twitter.com/thechiccodes/status/1386859741435990018",
+      "user": "thechiccodes",
+      "text": "@LifeasMarita @ImCamilleAriana \ud83c\udf1a\ud83c\udf1a",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1386859068644597764",
+      "url": "https://twitter.com/LifeasMarita/status/1386859068644597764",
+      "user": "LifeasMarita",
+      "text": "@ImCamilleAriana That\u2019s what intrigues me the most. The why part. Honestly we are assailed from all sides in healthcare. It feels like they are actively trying to diminish healthy outcomes.",
+      "sentiment": 0.886
+    },
+    {
+      "id": "1386858709687672838",
+      "url": "https://twitter.com/XOCXMILLE/status/1386858709687672838",
+      "user": "XOCXMILLE",
+      "text": "@LifeasMarita &amp; not just the kidney function of black people, it also mentions how there\u2019s a algorithm that strategically will score lower for black women to have csections over vaginal births &amp; many other things. I honestly don\u2019t understand",
+      "sentiment": 0.2023
+    },
+    {
+      "id": "1386857391174598656",
+      "url": "https://twitter.com/LifeasMarita/status/1386857391174598656",
+      "user": "LifeasMarita",
+      "text": "I love how this article opens about a medical anomaly that is accounted &amp; calculated for in the kidney function of Black people\\n\\nHowever it never reveals WHY that is.  What is it about how OUR kidney function that they aren\u2019t disclosing? https://t.co/OlciL2MRNx",
+      "sentiment": 0.6369
+    }
+  ],
+  "edges": [
+    [
+      "1386860434712633352",
+      "1386859741435990018"
+    ],
+    [
+      "1386860865543151619",
+      "1386860434712633352"
+    ],
+    [
+      "1386859741435990018",
+      "1386859068644597764"
+    ],
+    [
+      "1386859068644597764",
+      "1386858709687672838"
+    ],
+    [
+      "1386858709687672838",
+      "1386857391174598656"
+    ]
+  ]
+}

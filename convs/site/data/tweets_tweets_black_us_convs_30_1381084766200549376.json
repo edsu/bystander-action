@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "id": "1381084766200549376",
+      "url": "https://twitter.com/ReelJordiSteel/1381084766200549376",
+      "user": "ReelJordiSteel",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1381086488679608322",
+      "url": "https://twitter.com/ReelJordiSteel/1381086488679608322",
+      "user": "ReelJordiSteel",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1381086488679608322",
+      "1381084766200549376"
+    ]
+  ]
+}

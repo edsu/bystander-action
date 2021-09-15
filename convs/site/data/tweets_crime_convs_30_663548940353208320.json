@@ -1,0 +1,101 @@
+{
+  "nodes": [
+    {
+      "id": "663563787857973250",
+      "url": "https://twitter.com/samuel__rogers/status/663563787857973250",
+      "user": "samuel__rogers",
+      "text": "@Michael__Plante this white on white crime has to stop. If we don't stand up for white people who will.",
+      "sentiment": -0.6908
+    },
+    {
+      "id": "663563947178655745",
+      "url": "https://twitter.com/Michael__Plante/status/663563947178655745",
+      "user": "Michael__Plante",
+      "text": "@samuel__rogers LOOOOL okok \ud83d\ude02\ud83d\ude02 very true",
+      "sentiment": 0.8357
+    },
+    {
+      "id": "663562755413311488",
+      "url": "https://twitter.com/Michael__Plante/status/663562755413311488",
+      "user": "Michael__Plante",
+      "text": "@samuel__rogers where's your lips at? https://t.co/bM9CdcKzkU",
+      "sentiment": 0.0
+    },
+    {
+      "id": "663561715636944896",
+      "url": "https://twitter.com/Michael__Plante/status/663561715636944896",
+      "user": "Michael__Plante",
+      "text": "@samuel__rogers DOG LMAO U KILLL MEEEE\ud83d\ude02 https://t.co/EqOtzLFRqu",
+      "sentiment": 0.8192
+    },
+    {
+      "id": "663560246049284096",
+      "url": "https://twitter.com/Michael__Plante/status/663560246049284096",
+      "user": "Michael__Plante",
+      "text": "@samuel__rogers jeeze u got me there... Feelin shocked stillzy https://t.co/6HPS2RvaU3",
+      "sentiment": -0.3182
+    },
+    {
+      "id": "663559438020792320",
+      "url": "https://twitter.com/Michael__Plante/status/663559438020792320",
+      "user": "Michael__Plante",
+      "text": "@samuel__rogers ah saying its a war? Ur pics got me bored fam https://t.co/bgHAMn2jdi",
+      "sentiment": -0.7184
+    },
+    {
+      "id": "663557491427426304",
+      "url": "https://twitter.com/samuel__rogers/status/663557491427426304",
+      "user": "samuel__rogers",
+      "text": "@Michael__Plante sayin i look like a sloth",
+      "sentiment": 0.3612
+    },
+    {
+      "id": "663557951207178240",
+      "url": "https://twitter.com/Michael__Plante/status/663557951207178240",
+      "user": "Michael__Plante",
+      "text": "@samuel__rogers stop talking up #embarrasyourfriendday this is how u feelin rn? https://t.co/QzAw8cvAKC",
+      "sentiment": -0.296
+    },
+    {
+      "id": "663548940353208320",
+      "url": "https://twitter.com/Michael__Plante/status/663548940353208320",
+      "user": "Michael__Plante",
+      "text": "@samuel__rogers ur talkin greezy out here eh? #embarrasyourfriendday \ud83d\udc50\ud83c\udffc https://t.co/qIZxTVy2Ds",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "663563787857973250",
+      "663562755413311488"
+    ],
+    [
+      "663563947178655745",
+      "663563787857973250"
+    ],
+    [
+      "663562755413311488",
+      "663562501674676224"
+    ],
+    [
+      "663561715636944896",
+      "663561613446938624"
+    ],
+    [
+      "663560246049284096",
+      "663559781676949504"
+    ],
+    [
+      "663559438020792320",
+      "663558894803898368"
+    ],
+    [
+      "663557491427426304",
+      "663548940353208320"
+    ],
+    [
+      "663557951207178240",
+      "663557491427426304"
+    ]
+  ]
+}

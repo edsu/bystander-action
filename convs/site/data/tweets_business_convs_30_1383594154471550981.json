@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "id": "1383645323394830337",
+      "url": "https://twitter.com/ImpliedWisdom/status/1383645323394830337",
+      "user": "ImpliedWisdom",
+      "text": "@carameltwinkies This past week was extra difficult....I was honestly looking forward to your bake sale and it was so enjoyable! I needed to see that. Supporting your Black owned business and celebrating your success while you're still here to enjoy it was so worth it\u2764\ufe0f\u2728",
+      "sentiment": 0.9759
+    },
+    {
+      "id": "1383646433010589698",
+      "url": "https://twitter.com/carameltwinkies/status/1383646433010589698",
+      "user": "carameltwinkies",
+      "text": "@ImpliedWisdom So I\u2019m already drunk and emotional, but that really means so much. All of it. Thank you so much \u2665\ufe0f",
+      "sentiment": 0.8731
+    },
+    {
+      "id": "1383634671552978951",
+      "url": "https://twitter.com/carameltwinkies/status/1383634671552978951",
+      "user": "carameltwinkies",
+      "text": "@ImpliedWisdom Thank you so much!! Thank you for coming! \u2665\ufe0f\u2665\ufe0f\u2665\ufe0f",
+      "sentiment": 0.9626
+    },
+    {
+      "id": "1383614835489869830",
+      "url": "https://twitter.com/ImpliedWisdom/status/1383614835489869830",
+      "user": "ImpliedWisdom",
+      "text": "@carameltwinkies Heyyyy! Congratulations on your successful bake sale!\ud83d\udd25",
+      "sentiment": 0.7835
+    },
+    {
+      "id": "1383594154471550981",
+      "url": "https://twitter.com/carameltwinkies/status/1383594154471550981",
+      "user": "carameltwinkies",
+      "text": "Girl I had no idea this was youuuuuu hey boo \u2665\ufe0f\u2665\ufe0f\u2665\ufe0f https://t.co/vzASUOJkba",
+      "sentiment": 0.9081
+    }
+  ],
+  "edges": [
+    [
+      "1383645323394830337",
+      "1383634671552978951"
+    ],
+    [
+      "1383646433010589698",
+      "1383645323394830337"
+    ],
+    [
+      "1383634671552978951",
+      "1383614835489869830"
+    ],
+    [
+      "1383614835489869830",
+      "1383594154471550981"
+    ]
+  ]
+}

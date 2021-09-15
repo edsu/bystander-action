@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "1376869126371704847",
+      "url": "https://twitter.com/aubsecularclub/status/1376869126371704847",
+      "user": "aubsecularclub",
+      "text": "Initially calling for political freedom, justice and human rights, protesters in Bahrain were met with violence when police forces killed six protestors three days into the demonstrations. https://t.co/uTtU4lMC2y",
+      "sentiment": -0.4404
+    },
+    {
+      "id": "1376903532511588357",
+      "url": "https://twitter.com/ReviewProspect/status/1376903532511588357",
+      "user": "ReviewProspect",
+      "text": "@aubsecularclub Is it called the Fadlo approach?",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1376869169870831618",
+      "url": "https://twitter.com/aubsecularclub/status/1376869169870831618",
+      "user": "aubsecularclub",
+      "text": "Calls for the end of the monarchy grew, and the latter requested Saudi and UAE military intervention to control the uprising, resulting in brutal crackdown, thousands of arrests, systematic torture to prisoners, house raids, and over 80 deaths. https://t.co/YX9Gl72KIG",
+      "sentiment": -0.9349
+    },
+    {
+      "id": "1376869201558831105",
+      "url": "https://twitter.com/aubsecularclub/status/1376869201558831105",
+      "user": "aubsecularclub",
+      "text": "The Bahraini government has since escalated its crackdown on all forms of opposition.\\n\\nJoin us on April 1st at 6:30 PM, with journalists Lina Atallah and Karam Nachar to reflect on 10 years of the Arab Spring. Registration link: https://t.co/oGpkQrOymb",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1376903532511588357",
+      "1376869126371704847"
+    ],
+    [
+      "1376869169870831618",
+      "1376869126371704847"
+    ],
+    [
+      "1376869201558831105",
+      "1376869169870831618"
+    ]
+  ]
+}

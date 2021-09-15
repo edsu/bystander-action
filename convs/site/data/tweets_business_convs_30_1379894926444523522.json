@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "1379894926444523522",
+      "url": "https://twitter.com/MRSpinkston85/status/1379894926444523522",
+      "user": "MRSpinkston85",
+      "text": "Some conservatives get annoyed when some on the right mention a Black agenda. Many even forget that Trump thought it was a good idea. Now, you have republicans walking away  again at a time when liberals are dishing out dollars to everyone else but us. \\nWho will do this now? https://t.co/v4ZMLlBrv2",
+      "sentiment": -0.0772
+    },
+    {
+      "id": "1379907258939805702",
+      "url": "https://twitter.com/PhillyTalk/status/1379907258939805702",
+      "user": "PhillyTalk",
+      "text": "@MRSpinkston85 America can't be great until these problems are fixed. Most if not all were made worse by government to begin with... by design.",
+      "sentiment": -0.844
+    },
+    {
+      "id": "1379904750192357380",
+      "url": "https://twitter.com/alraczko/status/1379904750192357380",
+      "user": "alraczko",
+      "text": "@MRSpinkston85 I was so disappointed that the \u201cPlatinum Plan\u201d did not get legs in the 2020 election. Again, not reading the people. \ud83d\ude21",
+      "sentiment": -0.6113
+    },
+    {
+      "id": "1379895274642894848",
+      "url": "https://twitter.com/RaychelTania/status/1379895274642894848",
+      "user": "RaychelTania",
+      "text": "@MRSpinkston85 Actual investment in those communities is exactly what we should have done from the start. Helping to create more black business owners, homeowners and so on is what was needed.",
+      "sentiment": 0.5106
+    },
+    {
+      "id": "1379901402298740737",
+      "url": "https://twitter.com/sunflow03459537/status/1379901402298740737",
+      "user": "sunflow03459537",
+      "text": "@RaychelTania @MRSpinkston85 Look at what Trump's Opportunity Zones allowed to happen in LA.  Trump is not mentioned anywhere in the article.  https://t.co/S6pz11u1rB",
+      "sentiment": 0.4215
+    },
+    {
+      "id": "1379900969752748032",
+      "url": "https://twitter.com/sunflow03459537/status/1379900969752748032",
+      "user": "sunflow03459537",
+      "text": "@MRSpinkston85 As a white American, I would prefer my tax money help fellow Black Americans prosper rather than have it sent all over the world. I don't care if it's called reparations. We don't audit other govts. to make sure our $$$ is used properly.",
+      "sentiment": 0.3339
+    },
+    {
+      "id": "1379896606162448385",
+      "url": "https://twitter.com/righty64/status/1379896606162448385",
+      "user": "righty64",
+      "text": "@MRSpinkston85 Because, wrongly, there are too many on the right who think that blacks will vote 90%+ for Dems and why bother to engage. It's a long-term goal. I mean, it could take maybe 3 election cycles to get a consistent 20%+ of the black vote if the GOP was serious. That right",
+      "sentiment": -0.0772
+    },
+    {
+      "id": "1379896816133545985",
+      "url": "https://twitter.com/righty64/status/1379896816133545985",
+      "user": "righty64",
+      "text": "@MRSpinkston85 2) there would be a death kneel for the Dems. There are just too many lazy people on the right on this.",
+      "sentiment": -0.7506
+    }
+  ],
+  "edges": [
+    [
+      "1379907258939805702",
+      "1379894926444523522"
+    ],
+    [
+      "1379904750192357380",
+      "1379894926444523522"
+    ],
+    [
+      "1379895274642894848",
+      "1379894926444523522"
+    ],
+    [
+      "1379901402298740737",
+      "1379895274642894848"
+    ],
+    [
+      "1379900969752748032",
+      "1379894926444523522"
+    ],
+    [
+      "1379896606162448385",
+      "1379894926444523522"
+    ],
+    [
+      "1379896816133545985",
+      "1379896606162448385"
+    ]
+  ]
+}

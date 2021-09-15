@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "1381371001603297286",
+      "url": "https://twitter.com/kimvhyatt/status/1381371001603297286",
+      "user": "kimvhyatt",
+      "text": "Tense scene at the intersection of 63rd and Lee Ave N in Brooklyn Center. A crowd is shouting at the press and police saying that an officer didn\u2019t have to kill a man. BCA is here investigating. https://t.co/laVrMLsF8v",
+      "sentiment": -0.7964
+    },
+    {
+      "id": "1381476112924962817",
+      "url": "https://twitter.com/heehoonblissed/status/1381476112924962817",
+      "user": "heehoonblissed",
+      "text": "please put your focus on  #DaunteWright and please help spread the word about him, he was murdered by police for having an air freshener.",
+      "sentiment": 0.2263
+    },
+    {
+      "id": "1381476165924188163",
+      "url": "https://twitter.com/heehoonblissed/status/1381476165924188163",
+      "user": "heehoonblissed",
+      "text": "For more info\\n\\nhttps://t.co/gULQi1cTwZ",
+      "sentiment": 0.0
+    },
+    {
+      "id": "1381475786977333250",
+      "url": "https://twitter.com/heehoonblissed/status/1381475786977333250",
+      "user": "heehoonblissed",
+      "text": "tw // police brutality \\n\\n#DaunteWright, a 20 year old father of a 2 yrs old kid, was killed by police in Brooklyn Center. He was on the way to have his car washed when he was pulled over by the police for having an air freshener obstructing the view of the rear view mirror.",
+      "sentiment": -0.8591
+    }
+  ],
+  "edges": [
+    [
+      "1381476112924962817",
+      "1381475786977333250"
+    ],
+    [
+      "1381476165924188163",
+      "1381476112924962817"
+    ]
+  ]
+}

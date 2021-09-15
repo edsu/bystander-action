@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1344226343341404162",
+      "url": "https://twitter.com/jaidiaaaa/status/1344226343341404162",
+      "user": "jaidiaaaa",
+      "text": "@jjgoldsoulja thank youu!!",
+      "sentiment": 0.4738
+    },
+    {
+      "id": "1344226855138766850",
+      "url": "https://twitter.com/jjgoldsoulja/status/1344226855138766850",
+      "user": "jjgoldsoulja",
+      "text": "@jaidiaaaa My pleasure",
+      "sentiment": 0.5719
+    },
+    {
+      "id": "1344225468199952384",
+      "url": "https://twitter.com/jjgoldsoulja/status/1344225468199952384",
+      "user": "jjgoldsoulja",
+      "text": "Y\u2019all support black business @jaidiaaaa doing a great job https://t.co/zNtKNmhvaa",
+      "sentiment": 0.7783
+    }
+  ],
+  "edges": [
+    [
+      "1344226343341404162",
+      "1344225468199952384"
+    ],
+    [
+      "1344226855138766850",
+      "1344226343341404162"
+    ]
+  ]
+}

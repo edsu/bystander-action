@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "1396965699902492681",
+      "url": "https://twitter.com/NateIsBack2/status/1396965699902492681",
+      "user": "NateIsBack2",
+      "text": "I just had a sip of ice cold Pepsi and that shit really tasted like it could end police brutality",
+      "sentiment": -0.7024
+    },
+    {
+      "id": "1396966664676286464",
+      "url": "https://twitter.com/RockLeeReese/status/1396966664676286464",
+      "user": "RockLeeReese",
+      "text": "@NateIsBack2 LMAOOOOO!",
+      "sentiment": 0.0
+    }
+  ],
+  "edges": [
+    [
+      "1396966664676286464",
+      "1396965699902492681"
+    ]
+  ]
+}

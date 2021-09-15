@@ -7,31 +7,42 @@ import styles from '../styles/index.module.css'
 
 export default function Home() {
 
+  let defaults = []
+  if (typeof window !== 'undefined' && window.location.hash) {
+    defaults = decodeURI(window.location.hash.replace('#', '')).split(/::/)
+    console.log(defaults)
+  }
+
   const platforms = ['twitter', 'reddit']
-  const [platform, setPlatform] = useState(platforms[0])
+  const [platform, setPlatform] = useState(defaults[0] || platforms[0])
 
   const queries = Object.keys(manifest)
-  const [query, setQuery] = useState(queries[0])
+  const [query, setQuery] = useState(defaults[1] || queries[0])
 
   const convs = manifest[query][platform]
-  const [conv, setConv] = useState(convs[0])
+  const [conv, setConv] = useState(defaults[2] || convs[0])
 
   const [graph, setGraph] = useState({edges: [], nodes: []})
 
   const resetConv = (platform, query) => {
     setQuery(query)
     setPlatform(platform)
-    setConv(manifest[query][platform][0])
+
+    const conv = manifest[query][platform][0]
+    setConv(conv)
+
   }
 
-  useEffect(() => { 
-    const url = new URL(`data/${conv}`, window.location + '/')
+  useEffect(() => {
+    const loc = window.location 
+    const url = `${loc.protocol}//${loc.host}${loc.pathname}/data/${conv}`
     const fetchData = async () => {
       const resp = await fetch(url)
       const data = await resp.json()
       setGraph(data)
     }
     fetchData()
+    window.location.hash = `${platform}::${query}::${conv}`
   }, [conv])
 
   return (

@@ -1,3 +1,4 @@
 module.exports = {
-  reactStrictMode: true
+  reactStrictMode: true,
+  basePath: '/bystander-action/convs/site'
 }

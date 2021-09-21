@@ -68,7 +68,7 @@ export default function Home() {
           </select>
         </div>
 
-        <div className={styles.menuItem}>
+        <div className={`${styles.menuItem} ${styles.conv}`}>
           <div className={styles.label}>Conversation</div>
           <select value={conv} onChange={e => setConv(e.target.value)}>
             {convs.map(c => {

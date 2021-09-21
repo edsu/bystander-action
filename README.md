@@ -9,7 +9,7 @@ While the code used to create the datasets is available here, the raw data from 
 The notebooks proceed from collection, conversation extraction, to sentiment analysis, network extraction for each of the platforms:
 
 1. [Twitter Searches](https://github.com/edsu/bystander-action/blob/main/Twitter%20Searches.ipynb): collect Twitter data
-2. [Twitter Conversation Collection](https://github.com/edsu/bystander-action/blob/main/Twitter Conversation%20Collection.ipynb): extract conversations from search results, and randomly sample them.
+2. [Twitter Conversation Collection](https://github.com/edsu/bystander-action/blob/main/Twitter%20Conversation%20Collection.ipynb): extract conversations from search results, and randomly sample them.
 3. [Reddit Data Collection](https://github.com/edsu/bystander-action/blob/main/Reddit%20Data%20Collection.ipynb): collect Reddit data
 4. [Reddit Data Analysis](https://github.com/edsu/bystander-action/blob/main/Reddit%20Data%20Analysis.ipynb): extract comment threads from search results, and randomly sample them
 5. [Sentiment Analysis](https://github.com/edsu/bystander-action/blob/main/Sentiment%20Analysis.ipynb): add sentiment analysis to the conversation data.

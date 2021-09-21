@@ -8,13 +8,13 @@ While the code used to create the datasets is available here, the raw data from 
 
 The notebooks proceed from collection, conversation extraction, to sentiment analysis, network extraction for each of the platforms:
 
-1. [Twitter Searches](Twitter Searches.ipynb): collect Twitter data
-2. [Twitter Conversation Collection](Twitter Conversation Collection.ipynb): extract conversations from search results, and randomly sample them.
-3. [Reddit Data Collection](Reddit Data Collection.ipynb): collect Reddit data
-4. [Reddit Data Analysis](Reddit Data Analysis.ipynb): extract comment threads from search results, and randomly sample them
-5. [Sentiment Analysis](Sentiment Analysis.ipynb): add sentiment analysis to the conversation data.
-6. [Conversation Graphs](Conversation Graphs.ipynb): extract network graphs for the Reddit and Twitter conversations as edge and node lists
-7. [Influencers](Influencers.ipynb): an experiment in seeing the number of "influencers" in collected Twitter data
+1. [Twitter Searches](https://github.com/edsu/bystander-action/blob/main/Twitter%20Searches.ipynb): collect Twitter data
+2. [Twitter Conversation Collection](https://github.com/edsu/bystander-action/blob/main/Twitter Conversation%20Collection.ipynb): extract conversations from search results, and randomly sample them.
+3. [Reddit Data Collection](https://github.com/edsu/bystander-action/blob/main/Reddit%20Data%20Collection.ipynb): collect Reddit data
+4. [Reddit Data Analysis](https://github.com/edsu/bystander-action/blob/main/Reddit%20Data%20Analysis.ipynb): extract comment threads from search results, and randomly sample them
+5. [Sentiment Analysis](https://github.com/edsu/bystander-action/blob/main/Sentiment%20Analysis.ipynb): add sentiment analysis to the conversation data.
+6. [Conversation Graphs](https://github.com/edsu/bystander-action/blob/main/Conversation%20Graphs.ipynb): extract network graphs for the Reddit and Twitter conversations as edge and node lists
+7. [Influencers](https://github.com/edsu/bystander-action/blob/main/Influencers.ipynb): an experiment in seeing the number of "influencers" in collected Twitter data
 
 ## Web Application
 

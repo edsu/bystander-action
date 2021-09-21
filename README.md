@@ -2,7 +2,7 @@ These notebooks are used for collection and analysis of Twitter and Reddit data 
 
 https://edsu.github.io/bystander-action/convs/site/
 
-While the code used to create the datasets is available here, the raw data from the Twitter and PushShift APIs is not available publicly. The tweet and Reddit post identifiers are available in the ids subdirectory. The randomly sampled conversations and selected metadata are made available as part of the visualization the convs/public/data directory.
+While the code used to create the datasets is available here, the raw data from the Twitter and PushShift APIs is not available publicly. The tweet and Reddit post identifiers are available in the [ids](https://github.com/edsu/bystander-action/tree/main/ids) subdirectory. The randomly sampled conversations and selected metadata are made available as part of the visualization the [convs/public/data](https://github.com/edsu/bystander-action/tree/main/convs/public/data) directory.
 
 ## Notebooks
 

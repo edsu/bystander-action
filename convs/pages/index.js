@@ -63,7 +63,7 @@ export default function Home() {
           <div className={styles.label}>Query</div>
           <select value={query} onChange={e => resetConv(platform, e.target.value) }>
             {queries.map(q => (
-              <option key={`query-${q}`}>{q}</option>
+              <option value={q} key={`query-${q}`}>"{q}"</option>
             ))}
           </select>
         </div>

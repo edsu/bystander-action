@@ -33,4 +33,4 @@ To deploy it with GitHub Pages you can:
     git commit -a -m 'latest build'
     git push
 
-And then open https://edsu.github.com/bystander-action/convs/site
+And then open https://edsu.github.io/bystander-action/convs/site
